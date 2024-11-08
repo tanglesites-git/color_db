@@ -1,7 +1,6 @@
 {
   "#f0f8ff": [
-    "ALICEBLUE",
-    "ALICE BLUE"
+    "ALICEBLUE"
   ],
   "#faebd7": [
     "ANTIQUEWHITE",
@@ -30,8 +29,7 @@
     "AQUAMARINE4"
   ],
   "#f0ffff": [
-    "AZURE1",
-    "VAPOR"
+    "AZURE1"
   ],
   "#e0eeee": [
     "AZURE2"
@@ -47,8 +45,7 @@
     "HOLY WHITE"
   ],
   "#ffe4c4": [
-    "BISQUE1",
-    "BISQUE"
+    "BISQUE1"
   ],
   "#eed5b7": [
     "BISQUE2"
@@ -63,12 +60,10 @@
     "BLACK"
   ],
   "#ffebcd": [
-    "BLANCHEDALMOND",
-    "BLANCHED ALMOND"
+    "BLANCHEDALMOND"
   ],
   "#0000ff": [
-    "BLUE1",
-    "BLUE"
+    "BLUE1"
   ],
   "#0000ee": [
     "BLUE2",
@@ -115,12 +110,10 @@
     "BURLYWOOD4"
   ],
   "#5f9ea0": [
-    "CADETBLUE",
-    "CADET BLUE"
+    "CADETBLUE"
   ],
   "#98f5ff": [
-    "CADETBLUE1",
-    "0530-B30G"
+    "CADETBLUE1"
   ],
   "#8ee5ee": [
     "CADETBLUE2"
@@ -132,8 +125,7 @@
     "CADETBLUE4"
   ],
   "#7fff00": [
-    "CHARTREUSE1",
-    "RADIUM"
+    "CHARTREUSE1"
   ],
   "#76ee00": [
     "CHARTREUSE2"
@@ -177,8 +169,7 @@
     "GUILLIMAN BLUE"
   ],
   "#fff8dc": [
-    "CORNSILK1",
-    "CORNSILK"
+    "CORNSILK1"
   ],
   "#eee8cd": [
     "CORNSILK2"
@@ -190,9 +181,7 @@
     "CORNSILK4"
   ],
   "#00ffff": [
-    "CYAN1",
-    "CYAN",
-    "AQUA"
+    "CYAN1"
   ],
   "#00eeee": [
     "CYAN2",
@@ -222,8 +211,7 @@
     "DARKGOLDENROD4"
   ],
   "#006400": [
-    "DARKGREEN",
-    "CUCUMBER"
+    "DARKGREEN"
   ],
   "#bdb76b": [
     "DARKKHAKI",
@@ -279,8 +267,7 @@
     "DARKORCHID4"
   ],
   "#e9967a": [
-    "DARKSALMON",
-    "KINDLEFLAME"
+    "DARKSALMON"
   ],
   "#8fbc8f": [
     "DARKSEAGREEN",
@@ -340,8 +327,7 @@
     "DEEPPINK4"
   ],
   "#00bfff": [
-    "DEEPSKYBLUE1",
-    "CAPRI"
+    "DEEPSKYBLUE1"
   ],
   "#00b2ee": [
     "DEEPSKYBLUE2"
@@ -354,7 +340,6 @@
   ],
   "#696969": [
     "DIMGRAY",
-    "GRAY41",
     "DIM GREY"
   ],
   "#1e90ff": [
@@ -386,8 +371,7 @@
     "FIREBRICK4"
   ],
   "#fffaf0": [
-    "FLORALWHITE",
-    "FLORAL WHITE"
+    "FLORALWHITE"
   ],
   "#228b22": [
     "FORESTGREEN",
@@ -397,12 +381,10 @@
     "GAINSBORO"
   ],
   "#f8f8ff": [
-    "GHOSTWHITE",
-    "GHOST WHITE"
+    "GHOSTWHITE"
   ],
   "#ffd700": [
-    "GOLD1",
-    "GOLD"
+    "GOLD1"
   ],
   "#eec900": [
     "GOLD2"
@@ -414,8 +396,7 @@
     "GOLD4"
   ],
   "#daa520": [
-    "GOLDENROD",
-    "CHANTERELLE"
+    "GOLDENROD"
   ],
   "#ffc125": [
     "GOLDENROD1"
@@ -460,8 +441,7 @@
     "DARK TONE INK"
   ],
   "#141414": [
-    "GRAY8",
-    "SOOTY"
+    "GRAY8"
   ],
   "#171717": [
     "GRAY9",
@@ -477,15 +457,13 @@
     "GRAY12"
   ],
   "#212121": [
-    "GRAY13",
-    "LEAD"
+    "GRAY13"
   ],
   "#242424": [
     "GRAY14"
   ],
   "#262626": [
-    "GRAY15",
-    "8500-N"
+    "GRAY15"
   ],
   "#292929": [
     "GRAY16",
@@ -504,8 +482,7 @@
     "OFF BLACK"
   ],
   "#333333": [
-    "GRAY20",
-    "CARBON"
+    "GRAY20"
   ],
   "#363636": [
     "GRAY21"
@@ -555,15 +532,13 @@
     "GRAY34"
   ],
   "#595959": [
-    "GRAY35",
-    "6500-N"
+    "GRAY35"
   ],
   "#5c5c5c": [
     "GRAY36"
   ],
   "#5e5e5e": [
-    "GRAY37",
-    "IRON"
+    "GRAY37"
   ],
   "#616161": [
     "GRAY38"
@@ -572,9 +547,7 @@
     "GRAY39"
   ],
   "#666666": [
-    "GRAY40",
-    "6000-N",
-    "SQUANT"
+    "GRAY40"
   ],
   "#6b6b6b": [
     "GRAY42"
@@ -603,8 +576,7 @@
     "GRAY49"
   ],
   "#7f7f7f": [
-    "GRAY50",
-    "5000-N"
+    "GRAY50"
   ],
   "#828282": [
     "GRAY51",
@@ -615,22 +587,19 @@
     "BLACK MANA"
   ],
   "#878787": [
-    "GRAY53",
-    "MITHRIL"
+    "GRAY53"
   ],
   "#8a8a8a": [
     "GRAY54"
   ],
   "#8c8c8c": [
-    "GRAY55",
-    "4500-N"
+    "GRAY55"
   ],
   "#8f8f8f": [
     "GRAY56"
   ],
   "#919191": [
-    "GRAY57",
-    "TIN"
+    "GRAY57"
   ],
   "#949494": [
     "GRAY58"
@@ -640,7 +609,6 @@
   ],
   "#999999": [
     "GRAY60",
-    "4000-N",
     "N43 PIPELINE GREY",
     "MILLION GREY"
   ],
@@ -659,8 +627,7 @@
     "GRAY64"
   ],
   "#a6a6a6": [
-    "GRAY65",
-    "QUICKSILVER"
+    "GRAY65"
   ],
   "#a8a8a8": [
     "GRAY66",
@@ -695,8 +662,7 @@
     "GRAY74"
   ],
   "#bfbfbf": [
-    "GRAY75",
-    "2500-N"
+    "GRAY75"
   ],
   "#c2c2c2": [
     "GRAY76"
@@ -713,7 +679,6 @@
   ],
   "#cccccc": [
     "GRAY80",
-    "2000-N",
     "N12 PASTEL GREY",
     "N23 NEUTRAL GREY",
     "CEREBRAL GREY"
@@ -750,16 +715,14 @@
     "GRAY89"
   ],
   "#e5e5e5": [
-    "GRAY90",
-    "1000-N"
+    "GRAY90"
   ],
   "#e8e8e8": [
     "GRAY91",
     "UNICORN SILVER"
   ],
   "#ebebeb": [
-    "GRAY92",
-    "MERCURY"
+    "GRAY92"
   ],
   "#ededed": [
     "GRAY93",
@@ -769,12 +732,10 @@
     "GRAY94"
   ],
   "#f2f2f2": [
-    "GRAY95",
-    "0500-N"
+    "GRAY95"
   ],
   "#f7f7f7": [
     "GRAY97",
-    "0300-N",
     "LYNX WHITE"
   ],
   "#fafafa": [
@@ -785,8 +746,7 @@
     "GRAY99"
   ],
   "#00ff00": [
-    "GREEN1",
-    "GREEN"
+    "GREEN1"
   ],
   "#00ee00": [
     "GREEN2",
@@ -803,8 +763,7 @@
     "CHESTNUT SHELL"
   ],
   "#f0fff0": [
-    "HONEYDEW1",
-    "HONEYDEW"
+    "HONEYDEW1"
   ],
   "#e0eee0": [
     "HONEYDEW2"
@@ -848,8 +807,7 @@
     "INDIANRED4"
   ],
   "#fffff0": [
-    "IVORY1",
-    "IVORY"
+    "IVORY1"
   ],
   "#eeeee0": [
     "IVORY2"
@@ -861,8 +819,7 @@
     "IVORY4"
   ],
   "#f0e68c": [
-    "KHAKI",
-    "CORNFLAKE"
+    "KHAKI"
   ],
   "#fff68f": [
     "KHAKI1"
@@ -915,8 +872,7 @@
     "MOTHRA WING"
   ],
   "#add8e6": [
-    "LIGHTBLUE",
-    "LIGHT BLUE"
+    "LIGHTBLUE"
   ],
   "#bfefff": [
     "LIGHTBLUE1"
@@ -931,8 +887,7 @@
     "LIGHTBLUE4"
   ],
   "#f08080": [
-    "LIGHTCORAL",
-    "MEAT"
+    "LIGHTCORAL"
   ],
   "#e0ffff": [
     "LIGHTCYAN1",
@@ -951,8 +906,7 @@
     "LIGHTGOLDENROD1"
   ],
   "#eedc82": [
-    "LIGHTGOLDENROD2",
-    "FLAX"
+    "LIGHTGOLDENROD2"
   ],
   "#cdbe70": [
     "LIGHTGOLDENROD3"
@@ -961,12 +915,10 @@
     "LIGHTGOLDENROD4"
   ],
   "#fafad2": [
-    "LIGHTGOLDENRODYELLOW",
-    "UTEPILS"
+    "LIGHTGOLDENRODYELLOW"
   ],
   "#d3d3d3": [
-    "LIGHTGRAY",
-    "PINBALL"
+    "LIGHTGRAY"
   ],
   "#ffb6c1": [
     "LIGHTPINK",
@@ -1022,12 +974,10 @@
     "BLACKTHORN BERRY"
   ],
   "#778899": [
-    "LIGHTSLATEGRAY",
-    "SOMNAMBULIST"
+    "LIGHTSLATEGRAY"
   ],
   "#b0c4de": [
-    "LIGHTSTEELBLUE",
-    "LIGHT STEEL BLUE"
+    "LIGHTSTEELBLUE"
   ],
   "#cae1ff": [
     "LIGHTSTEELBLUE1"
@@ -1093,16 +1043,13 @@
   ],
   "#66cdaa": [
     "MEDIUM",
-    "MEDIUMAQUAMARINE",
     "AQUARIUM BLUE"
   ],
   "#0000cd": [
-    "MEDIUMBLUE",
-    "MEDIUM BLUE"
+    "MEDIUMBLUE"
   ],
   "#ba55d3": [
-    "MEDIUMORCHID",
-    "MEDIUM ORCHID"
+    "MEDIUMORCHID"
   ],
   "#e066ff": [
     "MEDIUMORCHID1"
@@ -1133,32 +1080,26 @@
     "MEDIUMPURPLE4"
   ],
   "#3cb371": [
-    "MEDIUMSEAGREEN",
-    "MEDIUM SEA GREEN"
+    "MEDIUMSEAGREEN"
   ],
   "#7b68ee": [
-    "MEDIUMSLATEBLUE",
-    "MEDIUM SLATE BLUE"
+    "MEDIUMSLATEBLUE"
   ],
   "#00fa9a": [
-    "MEDIUMSPRINGGREEN",
-    "MEDIUM SPRING GREEN"
+    "MEDIUMSPRINGGREEN"
   ],
   "#48d1cc": [
-    "MEDIUMTURQUOISE",
-    "MEDIUM TURQUOISE"
+    "MEDIUMTURQUOISE"
   ],
   "#c71585": [
-    "MEDIUMVIOLETRED",
-    "MEDIUM VIOLET RED"
+    "MEDIUMVIOLETRED"
   ],
   "#191970": [
     "MIDNIGHTBLUE",
     "20000 LEAGUES UNDER THE SEA"
   ],
   "#f5fffa": [
-    "MINTCREAM",
-    "MINT CREAM"
+    "MINTCREAM"
   ],
   "#ffe4e1": [
     "MISTYROSE1",
@@ -1192,16 +1133,13 @@
     "NAVAJOWHITE4"
   ],
   "#000080": [
-    "NAVYBLUE",
-    "NAVY BLUE"
+    "NAVYBLUE"
   ],
   "#fdf5e6": [
-    "OLDLACE",
-    "OLD LACE"
+    "OLDLACE"
   ],
   "#6b8e23": [
-    "OLIVEDRAB",
-    "SCALLION"
+    "OLIVEDRAB"
   ],
   "#c0ff3e": [
     "OLIVEDRAB1"
@@ -1213,8 +1151,7 @@
     "OLIVEDRAB4"
   ],
   "#ffa500": [
-    "ORANGE1",
-    "ORANGE"
+    "ORANGE1"
   ],
   "#ee9a00": [
     "ORANGE2"
@@ -1256,7 +1193,6 @@
   ],
   "#db7093": [
     "PALE",
-    "PALEVIOLETRED",
     "THE SICKENER"
   ],
   "#eee8aa": [
@@ -1359,8 +1295,7 @@
     "PLUM4"
   ],
   "#b0e0e6": [
-    "POWDERBLUE",
-    "POWDER BLUE"
+    "POWDERBLUE"
   ],
   "#a020f0": [
     "PURPLE",
@@ -1379,8 +1314,7 @@
     "PURPLE4"
   ],
   "#ff0000": [
-    "RED1",
-    "RED"
+    "RED1"
   ],
   "#ee0000": [
     "RED2",
@@ -1394,8 +1328,7 @@
     "SCAB RED"
   ],
   "#bc8f8f": [
-    "ROSYBROWN",
-    "ROSY BROWN"
+    "ROSYBROWN"
   ],
   "#ffc1c1": [
     "ROSYBROWN1"
@@ -1410,8 +1343,7 @@
     "ROSYBROWN4"
   ],
   "#4169e1": [
-    "ROYALBLUE",
-    "ROYAL BLUE"
+    "ROYALBLUE"
   ],
   "#4876ff": [
     "ROYALBLUE1"
@@ -1426,8 +1358,7 @@
     "ROYALBLUE4"
   ],
   "#8b4513": [
-    "SADDLEBROWN",
-    "SADDLE BROWN"
+    "SADDLEBROWN"
   ],
   "#fa8072": [
     "SALMON",
@@ -1447,8 +1378,7 @@
     "SALMON4"
   ],
   "#f4a460": [
-    "SANDYBROWN",
-    "SANDY BROWN"
+    "SANDYBROWN"
   ],
   "#54ff9f": [
     "SEAGREEN1"
@@ -1464,8 +1394,7 @@
     "LAKE GREEN"
   ],
   "#fff5ee": [
-    "SEASHELL1",
-    "SEASHELL"
+    "SEASHELL1"
   ],
   "#eee5de": [
     "SEASHELL2"
@@ -1509,8 +1438,7 @@
     "SKYBLUE4"
   ],
   "#6a5acd": [
-    "SLATEBLUE",
-    "AMEIXA"
+    "SLATEBLUE"
   ],
   "#836fff": [
     "SLATEBLUE1"
@@ -1541,8 +1469,7 @@
     "SLATEGRAY4"
   ],
   "#fffafa": [
-    "SNOW1",
-    "SNOW"
+    "SNOW1"
   ],
   "#eee9e9": [
     "SNOW2"
@@ -1567,8 +1494,7 @@
     "SPRINGGREEN4"
   ],
   "#4682b4": [
-    "STEELBLUE",
-    "STEEL BLUE"
+    "STEELBLUE"
   ],
   "#63b8ff": [
     "STEELBLUE1"
@@ -1593,8 +1519,7 @@
     "TAN2"
   ],
   "#cd853f": [
-    "TAN3",
-    "PERU"
+    "TAN3"
   ],
   "#8b5a2b": [
     "TAN4"
@@ -1674,8 +1599,7 @@
     "WHEAT2"
   ],
   "#cdba96": [
-    "WHEAT3",
-    "HAYLOFT"
+    "WHEAT3"
   ],
   "#8b7e66": [
     "WHEAT4"
@@ -1685,12 +1609,10 @@
     "N14 WHITE"
   ],
   "#f5f5f5": [
-    "WHITESMOKE",
-    "WHITE SMOKE"
+    "WHITESMOKE"
   ],
   "#ffff00": [
-    "YELLOW1",
-    "YELLOW"
+    "YELLOW1"
   ],
   "#eeee00": [
     "YELLOW2",
@@ -1707,8 +1629,7 @@
     "LUCKY LIME"
   ],
   "#8ffe09": [
-    "ACIDGREEN",
-    "ACID GREEN"
+    "ACIDGREEN"
   ],
   "#bd6c48": [
     "ADOBE"
@@ -1737,8 +1658,7 @@
     "BITTER DANDELION"
   ],
   "#76cd26": [
-    "APPLEGREEN",
-    "APPLE GREEN"
+    "APPLEGREEN"
   ],
   "#ffb16d": [
     "APRICOT"
@@ -1752,8 +1672,7 @@
     "THOUSAND SONS BLUE"
   ],
   "#12e193": [
-    "AQUAGREEN",
-    "AQUA GREEN"
+    "AQUAGREEN"
   ],
   "#2ee8bb": [
     "AQUAMARINE"
@@ -1778,8 +1697,7 @@
     "AVOCADO TOAST"
   ],
   "#87a922": [
-    "AVOCADOGREEN",
-    "AVOCADO GREEN"
+    "AVOCADOGREEN"
   ],
   "#1d5dec": [
     "AZUL"
@@ -1789,16 +1707,13 @@
     "FRESH BLUE OF BEL AIR"
   ],
   "#a2cffe": [
-    "BABYBLUE",
-    "BABY BLUE"
+    "BABYBLUE"
   ],
   "#8cff9e": [
-    "BABYGREEN",
-    "BABY GREEN"
+    "BABYGREEN"
   ],
   "#ffb7ce": [
-    "BABYPINK",
-    "BABY PINK"
+    "BABYPINK"
   ],
   "#ab9004": [
     "BABYPOO",
@@ -1817,12 +1732,10 @@
     "LEAFY SEADRAGON"
   ],
   "#ca9bf7": [
-    "BABYPURPLE",
-    "BABY PURPLE"
+    "BABYPURPLE"
   ],
   "#ad900d": [
-    "BABYSHITBROWN",
-    "MANURE"
+    "BABYSHITBROWN"
   ],
   "#889717": [
     "BABYSHITGREEN",
@@ -1837,19 +1750,16 @@
     "BANANA MASH"
   ],
   "#fe46a5": [
-    "BARBIEPINK",
-    "BARBIE PINK"
+    "BARBIEPINK"
   ],
   "#94ac02": [
-    "BARFGREEN",
-    "BARF GREEN"
+    "BARFGREEN"
   ],
   "#ac1db8": [
     "BARNEY"
   ],
   "#a00498": [
-    "BARNEYPURPLE",
-    "BARNEY PURPLE"
+    "BARNEYPURPLE"
   ],
   "#6b7c85": [
     "BATTLESHIPGREY",
@@ -1875,8 +1785,7 @@
     "BLOOD ORANGE JUICE"
   ],
   "#980002": [
-    "BLOODRED",
-    "BLOOD RED"
+    "BLOODRED"
   ],
   "#0343df": [
     "BLUE",
@@ -1886,16 +1795,14 @@
     "BLUEBERRY"
   ],
   "#2242c7": [
-    "BLUEBLUE",
-    "BLUE BLUE"
+    "BLUEBLUE"
   ],
   "#0f9b8e": [
     "BLUEGREEN",
     "STORMY STRAIT GREEN"
   ],
   "#85a3b2": [
-    "BLUEGREY",
-    "GRAUZONE"
+    "BLUEGREY"
   ],
   "#5a06ef": [
     "BLUEPURPLE",
@@ -1906,8 +1813,7 @@
     "GONZO VIOLET"
   ],
   "#533cc6": [
-    "BLUEWITHAHINTOFPURPLE",
-    "BLUE WITH A HINT OF PURPLE"
+    "BLUEWITHAHINTOFPURPLE"
   ],
   "#2bb179": [
     "BLUEYGREEN",
@@ -1925,16 +1831,13 @@
     "BLUISH"
   ],
   "#10a674": [
-    "BLUISHGREEN",
-    "BLUISH GREEN"
+    "BLUISHGREEN"
   ],
   "#748b97": [
-    "BLUISHGREY",
-    "BLUISH GREY"
+    "BLUISHGREY"
   ],
   "#703be7": [
-    "BLUISHPURPLE",
-    "BLUISH PURPLE"
+    "BLUISHPURPLE"
   ],
   "#5539cc": [
     "BLURPLE"
@@ -1957,8 +1860,7 @@
     "BORDEAUX"
   ],
   "#63b365": [
-    "BORINGGREEN",
-    "BORING GREEN"
+    "BORINGGREEN"
   ],
   "#044a05": [
     "BOTTLEGREEN",
@@ -1968,24 +1870,19 @@
     "BRICK"
   ],
   "#c14a09": [
-    "BRICKORANGE",
-    "BRICK ORANGE"
+    "BRICKORANGE"
   ],
   "#8f1402": [
-    "BRICKRED",
-    "BRICK RED"
+    "BRICKRED"
   ],
   "#0bf9ea": [
-    "BRIGHTAQUA",
-    "BRIGHT AQUA"
+    "BRIGHTAQUA"
   ],
   "#0165fc": [
-    "BRIGHTBLUE",
-    "BRIGHT BLUE"
+    "BRIGHTBLUE"
   ],
   "#41fdfe": [
-    "BRIGHTCYAN",
-    "BRIGHT CYAN"
+    "BRIGHTCYAN"
   ],
   "#01ff07": [
     "BRIGHTGREEN",
@@ -2000,76 +1897,62 @@
     "FROZEN STATE"
   ],
   "#2dfe54": [
-    "BRIGHTLIGHTGREEN",
-    "BRIGHT LIGHT GREEN"
+    "BRIGHTLIGHTGREEN"
   ],
   "#c95efb": [
     "BRIGHTLILAC",
     "AFTER-PARTY PINK"
   ],
   "#87fd05": [
-    "BRIGHTLIME",
-    "BRIGHT LIME"
+    "BRIGHTLIME"
   ],
   "#65fe08": [
-    "BRIGHTLIMEGREEN",
-    "BRIGHT LIME GREEN"
+    "BRIGHTLIMEGREEN"
   ],
   "#ff08e8": [
-    "BRIGHTMAGENTA",
-    "BRIGHT MAGENTA"
+    "BRIGHTMAGENTA"
   ],
   "#9cbb04": [
-    "BRIGHTOLIVE",
-    "BRIGHT OLIVE"
+    "BRIGHTOLIVE"
   ],
   "#ff5b00": [
     "BRIGHTORANGE",
     "MAXIMUM ORANGE"
   ],
   "#fe01b1": [
-    "BRIGHTPINK",
-    "BRIGHT PINK"
+    "BRIGHTPINK"
   ],
   "#be03fd": [
-    "BRIGHTPURPLE",
-    "BRIGHT PURPLE"
+    "BRIGHTPURPLE"
   ],
   "#ff000d": [
-    "BRIGHTRED",
-    "BRIGHT RED"
+    "BRIGHTRED"
   ],
   "#05ffa6": [
     "BRIGHTSEAGREEN",
     "Y\u00cdNG GU\u0100NG S\u00c8 GREEN"
   ],
   "#02ccfe": [
-    "BRIGHTSKYBLUE",
-    "BRIGHT SKY BLUE"
+    "BRIGHTSKYBLUE"
   ],
   "#01f9c6": [
-    "BRIGHTTEAL",
-    "BRIGHT TEAL"
+    "BRIGHTTEAL"
   ],
   "#0ffef9": [
     "BRIGHTTURQUOISE",
     "KALTES KLARES WASSER"
   ],
   "#ad0afd": [
-    "BRIGHTVIOLET",
-    "BRIGHT VIOLET"
+    "BRIGHTVIOLET"
   ],
   "#fffd01": [
-    "BRIGHTYELLOW",
-    "BRIGHT YELLOW"
+    "BRIGHTYELLOW"
   ],
   "#9dff00": [
-    "BRIGHTYELLOWGREEN",
-    "BRIGHT YELLOW GREEN"
+    "BRIGHTYELLOWGREEN"
   ],
   "#05480d": [
-    "BRITISHRACINGGREEN",
-    "BRITISH RACING GREEN"
+    "BRITISHRACINGGREEN"
   ],
   "#a87900": [
     "BRONZE"
@@ -2078,51 +1961,40 @@
     "BROWN"
   ],
   "#706c11": [
-    "BROWNGREEN",
-    "BROWN GREEN"
+    "BROWNGREEN"
   ],
   "#8d8468": [
-    "BROWNGREY",
-    "BROWN GREY"
+    "BROWNGREY"
   ],
   "#9c6d57": [
     "BROWNISH"
   ],
   "#6a6e09": [
-    "BROWNISHGREEN",
-    "BROWNISH GREEN"
+    "BROWNISHGREEN"
   ],
   "#86775f": [
-    "BROWNISHGREY",
-    "BROWNISH GREY"
+    "BROWNISHGREY"
   ],
   "#cb7723": [
-    "BROWNISHORANGE",
-    "BROWNISH ORANGE"
+    "BROWNISHORANGE"
   ],
   "#c27e79": [
-    "BROWNISHPINK",
-    "BROWNISH PINK"
+    "BROWNISHPINK"
   ],
   "#76424e": [
-    "BROWNISHPURPLE",
-    "BROWNISH PURPLE"
+    "BROWNISHPURPLE"
   ],
   "#9e3623": [
-    "BROWNISHRED",
-    "BROWNISH RED"
+    "BROWNISHRED"
   ],
   "#c9b003": [
-    "BROWNISHYELLOW",
-    "BROWNISH YELLOW"
+    "BROWNISHYELLOW"
   ],
   "#b96902": [
-    "BROWNORANGE",
-    "BROWN ORANGE"
+    "BROWNORANGE"
   ],
   "#922b05": [
-    "BROWNRED",
-    "BROWN RED"
+    "BROWNRED"
   ],
   "#b29705": [
     "BROWNYELLOW",
@@ -2133,8 +2005,7 @@
     "WORN OLIVE"
   ],
   "#ca6b02": [
-    "BROWNYORANGE",
-    "SLUDGE"
+    "BROWNYORANGE"
   ],
   "#7e4071": [
     "BRUISE"
@@ -2148,8 +2019,7 @@
     "Y\u00cdNG GU\u0100NG S\u00c8 PINK"
   ],
   "#fef69e": [
-    "BUFF",
-    "SPAGHETTI"
+    "BUFF"
   ],
   "#610023": [
     "BURGUNDY",
@@ -2160,8 +2030,7 @@
     "CRUSTOSE LICHEN"
   ],
   "#9f2305": [
-    "BURNTRED",
-    "BURNT RED"
+    "BURNTRED"
   ],
   "#b75203": [
     "BURNTSIENA"
@@ -2175,8 +2044,7 @@
     "POWDERED COFFEE"
   ],
   "#d5ab09": [
-    "BURNTYELLOW",
-    "BURNT YELLOW"
+    "BURNTYELLOW"
   ],
   "#6832e3": [
     "BURPLE"
@@ -2188,8 +2056,7 @@
     "BUTTERSCOTCH"
   ],
   "#fffd74": [
-    "BUTTERYELLOW",
-    "BUTTER YELLOW"
+    "BUTTERYELLOW"
   ],
   "#4e7496": [
     "CADETBLUE",
@@ -2206,8 +2073,7 @@
     "TABBOULEH GREEN"
   ],
   "#4b6113": [
-    "CAMOUFLAGEGREEN",
-    "CAMOUFLAGE GREEN"
+    "CAMOUFLAGEGREEN"
   ],
   "#fdff63": [
     "CANARY"
@@ -2217,8 +2083,7 @@
     "SPONGE CAKE"
   ],
   "#ff63e9": [
-    "CANDYPINK",
-    "CANDY PINK"
+    "CANDYPINK"
   ],
   "#af6f09": [
     "CARAMEL"
@@ -2230,12 +2095,10 @@
     "CARNATION"
   ],
   "#ff7fa7": [
-    "CARNATIONPINK",
-    "CARNATION PINK"
+    "CARNATIONPINK"
   ],
   "#8ab8fe": [
-    "CAROLINABLUE",
-    "CAROLINA BLUE"
+    "CAROLINABLUE"
   ],
   "#befdb7": [
     "CELADON",
@@ -2274,8 +2137,7 @@
     "CHERRY"
   ],
   "#f7022a": [
-    "CHERRYRED",
-    "CHERRY RED"
+    "CHERRYRED"
   ],
   "#742802": [
     "CHESTNUT"
@@ -2285,8 +2147,7 @@
     "90% COCOA"
   ],
   "#411900": [
-    "CHOCOLATEBROWN",
-    "CHOCOLATE BROWN"
+    "CHOCOLATEBROWN"
   ],
   "#ac4f06": [
     "CINNAMON",
@@ -2299,20 +2160,17 @@
     "CLAY"
   ],
   "#b2713d": [
-    "CLAYBROWN",
-    "CLAY BROWN"
+    "CLAYBROWN"
   ],
   "#247afd": [
-    "CLEARBLUE",
-    "CLEAR BLUE"
+    "CLEARBLUE"
   ],
   "#1e488f": [
     "COBALT",
     "NUIT BLANCHE"
   ],
   "#030aa7": [
-    "COBALTBLUE",
-    "COBALT"
+    "COBALTBLUE"
   ],
   "#875f42": [
     "COCOA"
@@ -2322,12 +2180,10 @@
     "HAMSTER FUR"
   ],
   "#4984b8": [
-    "COOLBLUE",
-    "COOL BLUE"
+    "COOLBLUE"
   ],
   "#33b864": [
-    "COOLGREEN",
-    "COOL GREEN"
+    "COOLGREEN"
   ],
   "#95a3a6": [
     "COOLGREY",
@@ -2350,8 +2206,7 @@
     "BYZANTINE NIGHT BLUE"
   ],
   "#5170d7": [
-    "CORNFLOWERBLUE",
-    "CORNFLOWER"
+    "CORNFLOWERBLUE"
   ],
   "#9e003a": [
     "CRANBERRY"
@@ -2360,8 +2215,7 @@
     "CREAM"
   ],
   "#ffffb6": [
-    "CREME",
-    "CR\u00c8ME"
+    "CREME"
   ],
   "#8c000f": [
     "CRIMSON"
@@ -2380,8 +2234,7 @@
     "AQUA OBSCURA"
   ],
   "#017371": [
-    "DARKAQUAMARINE",
-    "REEF"
+    "DARKAQUAMARINE"
   ],
   "#ac9362": [
     "DARKBEIGE",
@@ -2408,8 +2261,7 @@
     "GINGER FLOWER"
   ],
   "#fff39a": [
-    "DARKCREAM",
-    "GOLDILOCKS"
+    "DARKCREAM"
   ],
   "#0a888a": [
     "DARKCYAN",
@@ -2440,16 +2292,14 @@
     "HUMBOLDT REDWOODS"
   ],
   "#363737": [
-    "DARKGREY",
-    "DARK GREY"
+    "DARKGREY"
   ],
   "#29465b": [
     "DARKGREYBLUE",
     "ONE YEAR OF RAIN"
   ],
   "#d90166": [
-    "DARKHOTPINK",
-    "T\u00caTE-\u00c0-T\u00caTE"
+    "DARKHOTPINK"
   ],
   "#1f0954": [
     "DARKINDIGO",
@@ -2476,32 +2326,26 @@
     "REAL RED"
   ],
   "#9b8f55": [
-    "DARKKHAKI",
-    "DIJONNAISE"
+    "DARKKHAKI"
   ],
   "#856798": [
-    "DARKLAVENDER",
-    "DARK LAVENDER"
+    "DARKLAVENDER"
   ],
   "#9c6da5": [
-    "DARKLILAC",
-    "DARK LILAC"
+    "DARKLILAC"
   ],
   "#84b701": [
-    "DARKLIME",
-    "DARK LIME"
+    "DARKLIME"
   ],
   "#7ebd01": [
-    "DARKLIMEGREEN",
-    "DARK LIME GREEN"
+    "DARKLIMEGREEN"
   ],
   "#960056": [
     "DARKMAGENTA",
     "STRONG CERISE"
   ],
   "#3c0008": [
-    "DARKMAROON",
-    "DARK MAROON"
+    "DARKMAROON"
   ],
   "#874c62": [
     "DARKMAUVE",
@@ -2520,24 +2364,20 @@
     "STRONG MUSTARD"
   ],
   "#000435": [
-    "DARKNAVY",
-    "OBLIVION"
+    "DARKNAVY"
   ],
   "#00022e": [
     "DARKNAVYBLUE",
     "ILLICIT DARKNESS"
   ],
   "#373e02": [
-    "DARKOLIVE",
-    "DARK OLIVE"
+    "DARKOLIVE"
   ],
   "#3c4d03": [
-    "DARKOLIVEGREEN",
-    "GODZILLA"
+    "DARKOLIVEGREEN"
   ],
   "#c65102": [
-    "DARKORANGE",
-    "DARK ORANGE"
+    "DARKORANGE"
   ],
   "#56ae57": [
     "DARKPASTELGREEN",
@@ -2548,28 +2388,23 @@
     "DRY PEACH"
   ],
   "#665fd1": [
-    "DARKPERIWINKLE",
-    "DARK PERIWINKLE"
+    "DARKPERIWINKLE"
   ],
   "#cb416b": [
-    "DARKPINK",
-    "DARK PINK"
+    "DARKPINK"
   ],
   "#3f012c": [
     "DARKPLUM",
     "DARK SANCTUARY"
   ],
   "#35063e": [
-    "DARKPURPLE",
-    "DARK PURPLE"
+    "DARKPURPLE"
   ],
   "#840000": [
-    "DARKRED",
-    "DARK RED"
+    "DARKRED"
   ],
   "#b5485d": [
-    "DARKROSE",
-    "DARK ROSE"
+    "DARKROSE"
   ],
   "#02066f": [
     "DARKROYALBLUE",
@@ -2580,12 +2415,10 @@
     "MAGIC SAGE"
   ],
   "#c85a53": [
-    "DARKSALMON",
-    "DARK SALMON"
+    "DARKSALMON"
   ],
   "#a88f59": [
-    "DARKSAND",
-    "DARK SAND"
+    "DARKSAND"
   ],
   "#1fb57a": [
     "DARKSEAFOAM",
@@ -2604,80 +2437,64 @@
     "OREGON BLUE"
   ],
   "#214761": [
-    "DARKSLATEBLUE",
-    "DARK SLATE BLUE"
+    "DARKSLATEBLUE"
   ],
   "#af884a": [
     "DARKTAN",
     "HAVANA CIGAR"
   ],
   "#7f684e": [
-    "DARKTAUPE",
-    "ANTHILL"
+    "DARKTAUPE"
   ],
   "#014d4e": [
-    "DARKTEAL",
-    "DARK TEAL"
+    "DARKTEAL"
   ],
   "#045c5a": [
-    "DARKTURQUOISE",
-    "DARK TURQUOISE"
+    "DARKTURQUOISE"
   ],
   "#34013f": [
-    "DARKVIOLET",
-    "DARK VIOLET"
+    "DARKVIOLET"
   ],
   "#d5b60a": [
-    "DARKYELLOW",
-    "LIONHEAD"
+    "DARKYELLOW"
   ],
   "#728f02": [
-    "DARKYELLOWGREEN",
-    "CANOPY"
+    "DARKYELLOWGREEN"
   ],
   "#08787f": [
     "DEEPAQUA",
     "AQUA NATION"
   ],
   "#040273": [
-    "DEEPBLUE",
-    "DEEP BLUE"
+    "DEEPBLUE"
   ],
   "#410200": [
-    "DEEPBROWN",
-    "BILTONG"
+    "DEEPBROWN"
   ],
   "#02590f": [
-    "DEEPGREEN",
-    "DEEP GREEN"
+    "DEEPGREEN"
   ],
   "#8d5eb7": [
     "DEEPLAVENDER",
     "LUSTY LAVENDER"
   ],
   "#966ebd": [
-    "DEEPLILAC",
-    "VIOLA"
+    "DEEPLILAC"
   ],
   "#a0025c": [
-    "DEEPMAGENTA",
-    "DEEP MAGENTA"
+    "DEEPMAGENTA"
   ],
   "#dc4d01": [
-    "DEEPORANGE",
-    "DEEP ORANGE"
+    "DEEPORANGE"
   ],
   "#cb0162": [
-    "DEEPPINK",
-    "ROWAN"
+    "DEEPPINK"
   ],
   "#36013f": [
-    "DEEPPURPLE",
-    "DEEP PURPLE"
+    "DEEPPURPLE"
   ],
   "#9a0200": [
-    "DEEPRED",
-    "DEEP RED"
+    "DEEPRED"
   ],
   "#c74767": [
     "DEEPROSE",
@@ -2688,12 +2505,10 @@
     "GRAND BLEU"
   ],
   "#0d75f8": [
-    "DEEPSKYBLUE",
-    "DEEP SKY BLUE"
+    "DEEPSKYBLUE"
   ],
   "#00555a": [
-    "DEEPTEAL",
-    "DEEP TEAL"
+    "DEEPTEAL"
   ],
   "#017374": [
     "DEEPTURQUOISE",
@@ -2715,95 +2530,74 @@
     "DESERT"
   ],
   "#9f8303": [
-    "DIARRHEA",
-    "PESTILENCE"
+    "DIARRHEA"
   ],
   "#8a6e45": [
     "DIRT",
     "TIKI HUT"
   ],
   "#836539": [
-    "DIRTBROWN",
-    "DIRT BROWN"
+    "DIRTBROWN"
   ],
   "#3f829d": [
-    "DIRTYBLUE",
-    "DIRTY BLUE"
+    "DIRTYBLUE"
   ],
   "#667e2c": [
-    "DIRTYGREEN",
-    "DIRTY GREEN"
+    "DIRTYGREEN"
   ],
   "#c87606": [
-    "DIRTYORANGE",
-    "DIRTY ORANGE"
+    "DIRTYORANGE"
   ],
   "#ca7b80": [
-    "DIRTYPINK",
-    "DIRTY PINK"
+    "DIRTYPINK"
   ],
   "#734a65": [
-    "DIRTYPURPLE",
-    "DIRTY PURPLE"
+    "DIRTYPURPLE"
   ],
   "#cdc50a": [
-    "DIRTYYELLOW",
-    "DIRTY YELLOW"
+    "DIRTYYELLOW"
   ],
   "#3e82fc": [
-    "DODGERBLUE",
-    "DODGER BLUE"
+    "DODGERBLUE"
   ],
   "#828344": [
     "DRAB"
   ],
   "#749551": [
-    "DRABGREEN",
-    "DRAB GREEN"
+    "DRABGREEN"
   ],
   "#4b0101": [
-    "DRIEDBLOOD",
-    "DRIED BLOOD"
+    "DRIEDBLOOD"
   ],
   "#c3fbf4": [
-    "DUCKEGGBLUE",
-    "DUCK EGG BLUE"
+    "DUCKEGGBLUE"
   ],
   "#49759c": [
-    "DULLBLUE",
-    "DULL BLUE"
+    "DULLBLUE"
   ],
   "#876e4b": [
-    "DULLBROWN",
-    "DULL BROWN"
+    "DULLBROWN"
   ],
   "#74a662": [
-    "DULLGREEN",
-    "DULL GREEN"
+    "DULLGREEN"
   ],
   "#d8863b": [
-    "DULLORANGE",
-    "DULL ORANGE"
+    "DULLORANGE"
   ],
   "#d5869d": [
-    "DULLPINK",
-    "DULL PINK"
+    "DULLPINK"
   ],
   "#84597e": [
-    "DULLPURPLE",
-    "DULL PURPLE"
+    "DULLPURPLE"
   ],
   "#bb3f3f": [
-    "DULLRED",
-    "DULL RED"
+    "DULLRED"
   ],
   "#5f9e8f": [
-    "DULLTEAL",
-    "DULL TEAL"
+    "DULLTEAL"
   ],
   "#eedc5b": [
-    "DULLYELLOW",
-    "DULL YELLOW"
+    "DULLYELLOW"
   ],
   "#4e5481": [
     "DUSK"
@@ -2817,16 +2611,13 @@
     "LAST LIGHT BLUE"
   ],
   "#cc7a8b": [
-    "DUSKYPINK",
-    "DUSKY PINK"
+    "DUSKYPINK"
   ],
   "#895b7b": [
-    "DUSKYPURPLE",
-    "DUSKY PURPLE"
+    "DUSKYPURPLE"
   ],
   "#ba6873": [
-    "DUSKYROSE",
-    "DUSKY ROSE"
+    "DUSKYROSE"
   ],
   "#b2996e": [
     "DUST"
@@ -2836,47 +2627,39 @@
     "SAND SHARK"
   ],
   "#76a973": [
-    "DUSTYGREEN",
-    "DUSTY GREEN"
+    "DUSTYGREEN"
   ],
   "#ac86a8": [
-    "DUSTYLAVENDER",
-    "DUSTY LAVENDER"
+    "DUSTYLAVENDER"
   ],
   "#f0833a": [
     "DUSTYORANGE",
     "GOKU ORANGE"
   ],
   "#d58a94": [
-    "DUSTYPINK",
-    "DUSTY PINK"
+    "DUSTYPINK"
   ],
   "#825f87": [
-    "DUSTYPURPLE",
-    "DUSTY PURPLE"
+    "DUSTYPURPLE"
   ],
   "#b9484e": [
-    "DUSTYRED",
-    "DUSTY RED"
+    "DUSTYRED"
   ],
   "#c0737a": [
     "DUSTYROSE",
     "CINNAMON ROLL"
   ],
   "#4c9085": [
-    "DUSTYTEAL",
-    "DUSTY TEAL"
+    "DUSTYTEAL"
   ],
   "#a2653e": [
     "EARTH"
   ],
   "#8cfd7e": [
-    "EASTERGREEN",
-    "EASTER GREEN"
+    "EASTERGREEN"
   ],
   "#c071fe": [
-    "EASTERPURPLE",
-    "EASTER PURPLE"
+    "EASTERPURPLE"
   ],
   "#feffca": [
     "ECRU",
@@ -2887,8 +2670,7 @@
     "CURED EGGPLANT"
   ],
   "#430541": [
-    "EGGPLANTPURPLE",
-    "EGGPLANT"
+    "EGGPLANTPURPLE"
   ],
   "#fffcc4": [
     "EGGSHELL",
@@ -2903,16 +2685,14 @@
     "BLUE ET UNE NUIT"
   ],
   "#21fc0d": [
-    "ELECTRICGREEN",
-    "ELECTRIC GREEN"
+    "ELECTRICGREEN"
   ],
   "#a8ff04": [
     "ELECTRICLIME",
     "WOLF LICHEN"
   ],
   "#ff0490": [
-    "ELECTRICPINK",
-    "ELECTRIC PINK"
+    "ELECTRICPINK"
   ],
   "#aa23ff": [
     "ELECTRICPURPLE",
@@ -2923,40 +2703,32 @@
     "LINK GREEN"
   ],
   "#028f1e": [
-    "EMERALDGREEN",
-    "EMERALD"
+    "EMERALDGREEN"
   ],
   "#05472a": [
     "EVERGREEN",
     "ALASKAN MOSS"
   ],
   "#658cbb": [
-    "FADEDBLUE",
-    "FADED BLUE"
+    "FADEDBLUE"
   ],
   "#7bb274": [
-    "FADEDGREEN",
-    "FADED GREEN"
+    "FADEDGREEN"
   ],
   "#f0944d": [
-    "FADEDORANGE",
-    "FADED ORANGE"
+    "FADEDORANGE"
   ],
   "#de9dac": [
-    "FADEDPINK",
-    "FADED PINK"
+    "FADEDPINK"
   ],
   "#916e99": [
-    "FADEDPURPLE",
-    "FADED PURPLE"
+    "FADEDPURPLE"
   ],
   "#d3494e": [
-    "FADEDRED",
-    "FADED RED"
+    "FADEDRED"
   ],
   "#feff7f": [
-    "FADEDYELLOW",
-    "FADED YELLOW"
+    "FADEDYELLOW"
   ],
   "#cfaf7b": [
     "FAWN"
@@ -2966,32 +2738,26 @@
     "SHISO GREEN"
   ],
   "#548d44": [
-    "FERNGREEN",
-    "FERN"
+    "FERNGREEN"
   ],
   "#fe0002": [
     "FIREENGINERED",
     "FIRE ENGINE"
   ],
   "#3c73a8": [
-    "FLATBLUE",
-    "FLAT BLUE"
+    "FLATBLUE"
   ],
   "#699d4c": [
-    "FLATGREEN",
-    "FLAT GREEN"
+    "FLATGREEN"
   ],
   "#08ff08": [
-    "FLUORESCENTGREEN",
-    "FLUORESCENT GREEN"
+    "FLUORESCENTGREEN"
   ],
   "#0aff02": [
-    "FLUROGREEN",
-    "FLURO GREEN"
+    "FLUROGREEN"
   ],
   "#90fda9": [
-    "FOAMGREEN",
-    "FOAM GREEN"
+    "FOAMGREEN"
   ],
   "#0b5509": [
     "FOREST"
@@ -3009,12 +2775,10 @@
     "WATERLINE BLUE"
   ],
   "#69d84f": [
-    "FRESHGREEN",
-    "FRESH GREEN"
+    "FRESHGREEN"
   ],
   "#58bc08": [
-    "FROGGREEN",
-    "FROG"
+    "FROGGREEN"
   ],
   "#ed0dd9": [
     "FUCHSIA"
@@ -3027,16 +2791,14 @@
     "GOLDEN"
   ],
   "#b27a01": [
-    "GOLDENBROWN",
-    "GOLDEN BROWN"
+    "GOLDENBROWN"
   ],
   "#f9bc08": [
     "GOLDENROD",
     "CHOCOBO FEATHER"
   ],
   "#fec615": [
-    "GOLDENYELLOW",
-    "ORANGINA"
+    "GOLDENYELLOW"
   ],
   "#6c3461": [
     "GRAPE"
@@ -3045,27 +2807,23 @@
     "GRAPEFRUIT"
   ],
   "#5d1451": [
-    "GRAPEPURPLE",
-    "GRAPE PURPLE"
+    "GRAPEPURPLE"
   ],
   "#5cac2d": [
     "GRASS"
   ],
   "#3f9b0b": [
-    "GRASSGREEN",
-    "GRASS GREEN"
+    "GRASSGREEN"
   ],
   "#419c03": [
-    "GRASSYGREEN",
-    "GRASSY GREEN"
+    "GRASSYGREEN"
   ],
   "#15b01a": [
     "GREEN",
     "PIKKORO GREEN"
   ],
   "#5edc1f": [
-    "GREENAPPLE",
-    "GREEN APPLE"
+    "GREENAPPLE"
   ],
   "#01c08d": [
     "GREENBLUE",
@@ -3083,44 +2841,34 @@
     "GREENISH"
   ],
   "#c9d179": [
-    "GREENISHBEIGE",
-    "GREENISH BEIGE"
+    "GREENISHBEIGE"
   ],
   "#0b8b87": [
-    "GREENISHBLUE",
-    "GREENISH BLUE"
+    "GREENISHBLUE"
   ],
   "#696112": [
-    "GREENISHBROWN",
-    "GREENISH BROWN"
+    "GREENISHBROWN"
   ],
   "#2afeb7": [
-    "GREENISHCYAN",
-    "GREENISH CYAN"
+    "GREENISHCYAN"
   ],
   "#96ae8d": [
-    "GREENISHGREY",
-    "GREENISH GREY"
+    "GREENISHGREY"
   ],
   "#bccb7a": [
-    "GREENISHTAN",
-    "GREENISH TAN"
+    "GREENISHTAN"
   ],
   "#32bf84": [
-    "GREENISHTEAL",
-    "GREENISH TEAL"
+    "GREENISHTEAL"
   ],
   "#00fbb0": [
-    "GREENISHTURQUOISE",
-    "GREENISH TURQUOISE"
+    "GREENISHTURQUOISE"
   ],
   "#cdfd02": [
-    "GREENISHYELLOW",
-    "GREENISH YELLOW"
+    "GREENISHYELLOW"
   ],
   "#0cb577": [
-    "GREENTEAL",
-    "GREEN TEAL"
+    "GREENTEAL"
   ],
   "#42b395": [
     "GREENYBLUE",
@@ -3151,56 +2899,44 @@
     "PIER 17 STEEL"
   ],
   "#7f7053": [
-    "GREYBROWN",
-    "GREY BROWN"
+    "GREYBROWN"
   ],
   "#86a17d": [
-    "GREYGREEN",
-    "GREY GREEN"
+    "GREYGREEN"
   ],
   "#a8a495": [
     "GREYISH",
     "GREYISH BEIGE"
   ],
   "#5e819d": [
-    "GREYISHBLUE",
-    "GREYISH BLUE"
+    "GREYISHBLUE"
   ],
   "#7a6a4f": [
-    "GREYISHBROWN",
-    "GREYISH BROWN"
+    "GREYISHBROWN"
   ],
   "#82a67d": [
-    "GREYISHGREEN",
-    "GREYISH GREEN"
+    "GREYISHGREEN"
   ],
   "#c88d94": [
-    "GREYISHPINK",
-    "GREYISH PINK"
+    "GREYISHPINK"
   ],
   "#887191": [
-    "GREYISHPURPLE",
-    "GREYISH PURPLE"
+    "GREYISHPURPLE"
   ],
   "#719f91": [
-    "GREYISHTEAL",
-    "GREYISH TEAL"
+    "GREYISHTEAL"
   ],
   "#c3909b": [
-    "GREYPINK",
-    "GREY PINK"
+    "GREYPINK"
   ],
   "#826d8c": [
-    "GREYPURPLE",
-    "GREY PURPLE"
+    "GREYPURPLE"
   ],
   "#5e9b8a": [
-    "GREYTEAL",
-    "GREY TEAL"
+    "GREYTEAL"
   ],
   "#a0bf16": [
-    "GROSSGREEN",
-    "GROSS GREEN"
+    "GROSSGREEN"
   ],
   "#536267": [
     "GUNMETAL"
@@ -3216,32 +2952,26 @@
     "HELIOTROPE"
   ],
   "#1bfc06": [
-    "HIGHLIGHTERGREEN",
-    "HIGHLIGHTER GREEN"
+    "HIGHLIGHTERGREEN"
   ],
   "#9be5aa": [
-    "HOSPITALGREEN",
-    "HOSPITAL GREEN"
+    "HOSPITALGREEN"
   ],
   "#25ff29": [
-    "HOTGREEN",
-    "HOT GREEN"
+    "HOTGREEN"
   ],
   "#f504c9": [
     "HOTMAGENTA",
     "MADEMOISELLE PINK"
   ],
   "#ff028d": [
-    "HOTPINK",
-    "HOT PINK"
+    "HOTPINK"
   ],
   "#cb00f5": [
-    "HOTPURPLE",
-    "HOT PURPLE"
+    "HOTPURPLE"
   ],
   "#0b4008": [
-    "HUNTERGREEN",
-    "HUNTER GREEN"
+    "HUNTERGREEN"
   ],
   "#d6fffa": [
     "ICE"
@@ -3251,28 +2981,23 @@
     "REFRESHING PRIMER"
   ],
   "#8fae22": [
-    "ICKYGREEN",
-    "ICKY GREEN"
+    "ICKYGREEN"
   ],
   "#850e04": [
-    "INDIANRED",
-    "INDIAN RED"
+    "INDIANRED"
   ],
   "#380282": [
-    "INDIGO",
-    "MARIONBERRY"
+    "INDIGO"
   ],
   "#3a18b1": [
-    "INDIGOBLUE",
-    "INDIGO BLUE"
+    "INDIGOBLUE"
   ],
   "#6258c4": [
     "IRIS",
     "CIRCUMORBITAL RING"
   ],
   "#019529": [
-    "IRISHGREEN",
-    "IRISH GREEN"
+    "IRISHGREEN"
   ],
   "#ffffcb": [
     "IVORY",
@@ -3287,8 +3012,7 @@
     "JADE POWDER"
   ],
   "#048243": [
-    "JUNGLEGREEN",
-    "JUNGLE GREEN"
+    "JUNGLEGREEN"
   ],
   "#009337": [
     "KELLEYGREEN",
@@ -3299,28 +3023,24 @@
     "KELLEY GREEN"
   ],
   "#5cb200": [
-    "KERMITGREEN",
-    "KERMIT GREEN"
+    "KERMITGREEN"
   ],
   "#aeff6e": [
-    "KEYLIME",
-    "KEY LIME"
+    "KEYLIME"
   ],
   "#aaa662": [
     "KHAKI",
     "WHOLEMEAL COOKIE"
   ],
   "#728639": [
-    "KHAKIGREEN",
-    "KHAKI GREEN"
+    "KHAKIGREEN"
   ],
   "#9cef43": [
     "KIWI",
     "KIWI PULP"
   ],
   "#8ee53f": [
-    "KIWIGREEN",
-    "KIWI GREEN"
+    "KIWIGREEN"
   ],
   "#c79fef": [
     "LAVENDER",
@@ -3331,19 +3051,16 @@
     "LAVENDER BLUE SHADOW"
   ],
   "#dd85d7": [
-    "LAVENDERPINK",
-    "LAVENDER PINK"
+    "LAVENDERPINK"
   ],
   "#4da409": [
-    "LAWNGREEN",
-    "LAWN GREEN"
+    "LAWNGREEN"
   ],
   "#71aa34": [
     "LEAF"
   ],
   "#5ca904": [
-    "LEAFGREEN",
-    "LEAF GREEN"
+    "LEAFGREEN"
   ],
   "#51b73b": [
     "LEAFYGREEN",
@@ -3358,12 +3075,10 @@
     "BUTTER CAKE"
   ],
   "#adf802": [
-    "LEMONGREEN",
-    "LEMON GREEN"
+    "LEMONGREEN"
   ],
   "#bffe28": [
-    "LEMONLIME",
-    "LEMON LIME"
+    "LEMONLIME"
   ],
   "#fdff38": [
     "LEMONYELLOW",
@@ -3394,8 +3109,7 @@
     "GREEN EPIPHANY"
   ],
   "#b7c9e2": [
-    "LIGHTBLUEGREY",
-    "LIGHT BLUE GREY"
+    "LIGHTBLUEGREY"
   ],
   "#76fda8": [
     "LIGHTBLUISHGREEN",
@@ -3413,20 +3127,17 @@
     "SPEAKING OF THE DEVIL"
   ],
   "#acfffc": [
-    "LIGHTCYAN",
-    "FROSTBITE"
+    "LIGHTCYAN"
   ],
   "#894585": [
     "LIGHTEGGPLANT",
     "FLESH FLY"
   ],
   "#75fd63": [
-    "LIGHTERGREEN",
-    "LIGHTER GREEN"
+    "LIGHTERGREEN"
   ],
   "#a55af4": [
-    "LIGHTERPURPLE",
-    "LIGHTER PURPLE"
+    "LIGHTERPURPLE"
   ],
   "#4f9153": [
     "LIGHTFORESTGREEN",
@@ -3441,8 +3152,7 @@
     "STADIUM LAWN"
   ],
   "#76ff7b": [
-    "LIGHTGREEN",
-    "LIGHT GREEN"
+    "LIGHTGREEN"
   ],
   "#56fca2": [
     "LIGHTGREENBLUE",
@@ -3453,12 +3163,10 @@
     "INEFFABLE GREEN"
   ],
   "#d8dcd6": [
-    "LIGHTGREY",
-    "LIGHT GREY"
+    "LIGHTGREY"
   ],
   "#9dbcd4": [
-    "LIGHTGREYBLUE",
-    "M\u00c5NGATA"
+    "LIGHTGREYBLUE"
   ],
   "#b7e1a1": [
     "LIGHTGREYGREEN",
@@ -3469,20 +3177,16 @@
     "ASTRO PURPLE"
   ],
   "#3d7afd": [
-    "LIGHTISHBLUE",
-    "LIGHTISH BLUE"
+    "LIGHTISHBLUE"
   ],
   "#61e160": [
-    "LIGHTISHGREEN",
-    "LIGHTISH GREEN"
+    "LIGHTISHGREEN"
   ],
   "#a552e6": [
-    "LIGHTISHPURPLE",
-    "LIGHTISH PURPLE"
+    "LIGHTISHPURPLE"
   ],
   "#fe2f4a": [
-    "LIGHTISHRED",
-    "LIGHTISH RED"
+    "LIGHTISHRED"
   ],
   "#e6f2a2": [
     "LIGHTKHAKI",
@@ -3521,20 +3225,16 @@
     "MAGENTA STREAM"
   ],
   "#a24857": [
-    "LIGHTMAROON",
-    "DRISHEEN"
+    "LIGHTMAROON"
   ],
   "#c292a1": [
-    "LIGHTMAUVE",
-    "LIGHT MAUVE"
+    "LIGHTMAUVE"
   ],
   "#b6ffbb": [
-    "LIGHTMINT",
-    "LIGHT MINT"
+    "LIGHTMINT"
   ],
   "#a6fbb2": [
-    "LIGHTMINTGREEN",
-    "LIGHT MINT GREEN"
+    "LIGHTMINTGREEN"
   ],
   "#a6c875": [
     "LIGHTMOSSGREEN",
@@ -3557,8 +3257,7 @@
     "GOBLIN WARBOSS"
   ],
   "#acbf69": [
-    "LIGHTOLIVE",
-    "LIGHT OLIVE"
+    "LIGHTOLIVE"
   ],
   "#a4be5c": [
     "LIGHTOLIVEGREEN",
@@ -3569,8 +3268,7 @@
     "PRISON JUMPSUIT"
   ],
   "#b2fba5": [
-    "LIGHTPASTELGREEN",
-    "LIGHT PASTEL GREEN"
+    "LIGHTPASTELGREEN"
   ],
   "#ffd8b1": [
     "LIGHTPEACH",
@@ -3581,16 +3279,13 @@
     "GREEN INCANDESCENCE"
   ],
   "#c1c6fc": [
-    "LIGHTPERIWINKLE",
-    "LIGHT PERIWINKLE"
+    "LIGHTPERIWINKLE"
   ],
   "#ffd1df": [
-    "LIGHTPINK",
-    "LIGHT PINK"
+    "LIGHTPINK"
   ],
   "#9d5783": [
-    "LIGHTPLUM",
-    "FEMINISM"
+    "LIGHTPLUM"
   ],
   "#bf77f6": [
     "LIGHTPURPLE",
@@ -3621,8 +3316,7 @@
     "LIGHT SEA-FOAM"
   ],
   "#a7ffb5": [
-    "LIGHTSEAFOAMGREEN",
-    "LIGHT SEAFOAM GREEN"
+    "LIGHTSEAFOAMGREEN"
   ],
   "#98f6b0": [
     "LIGHTSEAGREEN",
@@ -3641,28 +3335,24 @@
     "BUBBLE ALGAE"
   ],
   "#7ef4cc": [
-    "LIGHTTURQUOISE",
-    "LIGHT TURQUOISE"
+    "LIGHTTURQUOISE"
   ],
   "#b36ff6": [
     "LIGHTURPLE",
     "QUEER PURPLE"
   ],
   "#d6b4fc": [
-    "LIGHTVIOLET",
-    "LIGHT VIOLET"
+    "LIGHTVIOLET"
   ],
   "#fffe7a": [
-    "LIGHTYELLOW",
-    "LIGHT YELLOW"
+    "LIGHTYELLOW"
   ],
   "#ccfd7f": [
     "LIGHTYELLOWGREEN",
     "GREEN SHIMMER"
   ],
   "#c2ff89": [
-    "LIGHTYELLOWISHGREEN",
-    "LIGHT YELLOWISH GREEN"
+    "LIGHTYELLOWISHGREEN"
   ],
   "#cea2fd": [
     "LILAC"
@@ -3674,24 +3364,20 @@
     "LIME"
   ],
   "#89fe05": [
-    "LIMEGREEN",
-    "RADIOACTIVE"
+    "LIMEGREEN"
   ],
   "#d0fe1d": [
-    "LIMEYELLOW",
-    "LIME YELLOW"
+    "LIMEYELLOW"
   ],
   "#d5174e": [
     "LIPSTICK",
     "LUSTY LIPS"
   ],
   "#c0022f": [
-    "LIPSTICKRED",
-    "LIPSTICK RED"
+    "LIPSTICKRED"
   ],
   "#efb435": [
-    "MACARONIANDCHEESE",
-    "BAKLAVA"
+    "MACARONIANDCHEESE"
   ],
   "#c20078": [
     "MAGENTA",
@@ -3718,12 +3404,10 @@
     "MARINE"
   ],
   "#01386a": [
-    "MARINEBLUE",
-    "MARINE BLUE"
+    "MARINEBLUE"
   ],
   "#650021": [
-    "MAROON",
-    "MERGUEZ"
+    "MAROON"
   ],
   "#ae7181": [
     "MAUVE",
@@ -3734,24 +3418,20 @@
     "MATT BLUE"
   ],
   "#7f5112": [
-    "MEDIUMBROWN",
-    "MEDIUM BROWN"
+    "MEDIUMBROWN"
   ],
   "#39ad48": [
     "MEDIUMGREEN",
     "MATT GREEN"
   ],
   "#7d7f7c": [
-    "MEDIUMGREY",
-    "MEDIUM GREY"
+    "MEDIUMGREY"
   ],
   "#f36196": [
-    "MEDIUMPINK",
-    "MEDIUM PINK"
+    "MEDIUMPINK"
   ],
   "#9e43a2": [
-    "MEDIUMPURPLE",
-    "MEDIUM PURPLE"
+    "MEDIUMPURPLE"
   ],
   "#ff7855": [
     "MELON"
@@ -3760,35 +3440,28 @@
     "MERLOT"
   ],
   "#4f738e": [
-    "METALLICBLUE",
-    "METALLIC BLUE"
+    "METALLICBLUE"
   ],
   "#276ab3": [
-    "MIDBLUE",
-    "MID BLUE"
+    "MIDBLUE"
   ],
   "#50a747": [
-    "MIDGREEN",
-    "MID GREEN"
+    "MIDGREEN"
   ],
   "#03012d": [
     "MIDNIGHT"
   ],
   "#020035": [
-    "MIDNIGHTBLUE",
-    "MIDNIGHT BLUE"
+    "MIDNIGHTBLUE"
   ],
   "#280137": [
-    "MIDNIGHTPURPLE",
-    "MIDNIGHT PURPLE"
+    "MIDNIGHTPURPLE"
   ],
   "#667c3e": [
-    "MILITARYGREEN",
-    "MILITARY GREEN"
+    "MILITARYGREEN"
   ],
   "#7f4e1e": [
-    "MILKCHOCOLATE",
-    "MILK CHOCOLATE"
+    "MILKCHOCOLATE"
   ],
   "#9ffeb0": [
     "MINT",
@@ -3799,8 +3472,7 @@
     "BARIUM GREEN"
   ],
   "#0bf77d": [
-    "MINTYGREEN",
-    "MINTY GREEN"
+    "MINTYGREEN"
   ],
   "#9d7651": [
     "MOCHA"
@@ -3822,31 +3494,25 @@
     "HOT MUSTARD"
   ],
   "#60460f": [
-    "MUDBROWN",
-    "MUD BROWN"
+    "MUDBROWN"
   ],
   "#886806": [
-    "MUDDYBROWN",
-    "MUDDY BROWN"
+    "MUDDYBROWN"
   ],
   "#657432": [
-    "MUDDYGREEN",
-    "MUDDY GREEN"
+    "MUDDYGREEN"
   ],
   "#bfac05": [
-    "MUDDYYELLOW",
-    "MUDDY YELLOW"
+    "MUDDYYELLOW"
   ],
   "#606602": [
-    "MUDGREEN",
-    "MUD GREEN"
+    "MUDGREEN"
   ],
   "#920a4e": [
     "MULBERRY"
   ],
   "#6c7a0e": [
-    "MURKYGREEN",
-    "MURKY GREEN"
+    "MURKYGREEN"
   ],
   "#ba9e88": [
     "MUSHROOM",
@@ -3856,36 +3522,29 @@
     "MUSTARD"
   ],
   "#ac7e04": [
-    "MUSTARDBROWN",
-    "MUSTARD BROWN"
+    "MUSTARDBROWN"
   ],
   "#a8b504": [
-    "MUSTARDGREEN",
-    "MUSTARD GREEN"
+    "MUSTARDGREEN"
   ],
   "#d2bd0a": [
     "MUSTARDYELLOW",
     "MUSTARD FLOWER"
   ],
   "#3b719f": [
-    "MUTEDBLUE",
-    "MUTED BLUE"
+    "MUTEDBLUE"
   ],
   "#5fa052": [
-    "MUTEDGREEN",
-    "MUTED GREEN"
+    "MUTEDGREEN"
   ],
   "#d1768f": [
-    "MUTEDPINK",
-    "MUTED PINK"
+    "MUTEDPINK"
   ],
   "#805b87": [
-    "MUTEDPURPLE",
-    "MUTED PURPLE"
+    "MUTEDPURPLE"
   ],
   "#70b23f": [
-    "NASTYGREEN",
-    "NASTY GREEN"
+    "NASTYGREEN"
   ],
   "#01153e": [
     "NAVY"
@@ -3895,40 +3554,32 @@
     "KANTOR BLUE"
   ],
   "#35530a": [
-    "NAVYGREEN",
-    "NAVY GREEN"
+    "NAVYGREEN"
   ],
   "#04d9ff": [
-    "NEONBLUE",
-    "NEON BLUE"
+    "NEONBLUE"
   ],
   "#0cff0c": [
     "NEONGREEN",
     "ALIEN ABDUCTION"
   ],
   "#fe019a": [
-    "NEONPINK",
-    "NEON PINK"
+    "NEONPINK"
   ],
   "#bc13fe": [
-    "NEONPURPLE",
-    "NEON PURPLE"
+    "NEONPURPLE"
   ],
   "#ff073a": [
-    "NEONRED",
-    "NEON RED"
+    "NEONRED"
   ],
   "#cfff04": [
-    "NEONYELLOW",
-    "NEON YELLOW"
+    "NEONYELLOW"
   ],
   "#107ab0": [
-    "NICEBLUE",
-    "NICE BLUE"
+    "NICEBLUE"
   ],
   "#040348": [
-    "NIGHTBLUE",
-    "NIGHT BLUE"
+    "NIGHTBLUE"
   ],
   "#017b92": [
     "OCEAN",
@@ -3939,8 +3590,7 @@
     "TOFINO BELUE"
   ],
   "#3d9973": [
-    "OCEANGREEN",
-    "OCEAN GREEN"
+    "OCEANGREEN"
   ],
   "#bf9b0c": [
     "OCHER"
@@ -3954,24 +3604,19 @@
     "MOLTEN BRONZE"
   ],
   "#5684ae": [
-    "OFFBLUE",
-    "OFF BLUE"
+    "OFFBLUE"
   ],
   "#6ba353": [
-    "OFFGREEN",
-    "OFF GREEN"
+    "OFFGREEN"
   ],
   "#ffffe4": [
-    "OFFWHITE",
-    "OFF WHITE"
+    "OFFWHITE"
   ],
   "#f1f33f": [
-    "OFFYELLOW",
-    "OFF YELLOW"
+    "OFFYELLOW"
   ],
   "#c77986": [
-    "OLDPINK",
-    "OLD PINK"
+    "OLDPINK"
   ],
   "#c87f89": [
     "OLDROSE",
@@ -3982,20 +3627,16 @@
     "SPINACH SOUP"
   ],
   "#645403": [
-    "OLIVEBROWN",
-    "OLIVE BROWN"
+    "OLIVEBROWN"
   ],
   "#6f7632": [
-    "OLIVEDRAB",
-    "OLIVE DRAB"
+    "OLIVEDRAB"
   ],
   "#677a04": [
-    "OLIVEGREEN",
-    "OLIVE GREEN"
+    "OLIVEGREEN"
   ],
   "#c2b709": [
-    "OLIVEYELLOW",
-    "OLIVE YELLOW"
+    "OLIVEYELLOW"
   ],
   "#f97306": [
     "ORANGE",
@@ -4006,12 +3647,10 @@
     "FIRE ANT"
   ],
   "#fd8d49": [
-    "ORANGEISH",
-    "ORANGISH"
+    "ORANGEISH"
   ],
   "#ff6f52": [
-    "ORANGEPINK",
-    "ORANGE PINK"
+    "ORANGEPINK"
   ],
   "#fe420f": [
     "ORANGERED",
@@ -4038,12 +3677,10 @@
     "S\u00c8 L\u00c8I ORANGE"
   ],
   "#b25f03": [
-    "ORANGISHBROWN",
-    "ORANGISH BROWN"
+    "ORANGISHBROWN"
   ],
   "#f43605": [
-    "ORANGISHRED",
-    "ORANGISH RED"
+    "ORANGISHRED"
   ],
   "#c875c4": [
     "ORCHID"
@@ -4056,36 +3693,31 @@
     "PEPPERMINT FROSTING"
   ],
   "#d0fefe": [
-    "PALEBLUE",
-    "PALE BLUE"
+    "PALEBLUE"
   ],
   "#b1916e": [
-    "PALEBROWN",
-    "PALE BROWN"
+    "PALEBROWN"
   ],
   "#b7fffa": [
     "PALECYAN",
     "WINTER MEADOW"
   ],
   "#fdde6c": [
-    "PALEGOLD",
-    "PALE GOLD"
+    "PALEGOLD"
   ],
   "#c7fdb5": [
     "PALEGREEN",
     "DISTILLED VENOM"
   ],
   "#fdfdfe": [
-    "PALEGREY",
-    "PALE GREY"
+    "PALEGREY"
   ],
   "#eecffe": [
     "PALELAVENDER",
     "ROSE DRAG\u00c9E"
   ],
   "#b1fc99": [
-    "PALELIGHTGREEN",
-    "PALE LIGHT GREEN"
+    "PALELIGHTGREEN"
   ],
   "#e4cbff": [
     "PALELILAC",
@@ -4096,8 +3728,7 @@
     "LIME LIGHTNING"
   ],
   "#b1ff65": [
-    "PALELIMEGREEN",
-    "PALE LIME GREEN"
+    "PALELIMEGREEN"
   ],
   "#d767ad": [
     "PALEMAGENTA",
@@ -4120,20 +3751,17 @@
     "ECHINOIDEA THORNS"
   ],
   "#ffe5ad": [
-    "PALEPEACH",
-    "PALE PEACH"
+    "PALEPEACH"
   ],
   "#ffcfdc": [
     "PALEPINK",
     "BOLOGNA SAUSAGE"
   ],
   "#b790d4": [
-    "PALEPURPLE",
-    "PALE PURPLE"
+    "PALEPURPLE"
   ],
   "#d9544d": [
-    "PALERED",
-    "CAPOCOLLO"
+    "PALERED"
   ],
   "#fdc1c5": [
     "PALEROSE",
@@ -4148,12 +3776,10 @@
     "PALE SKY"
   ],
   "#82cbb2": [
-    "PALETEAL",
-    "PALE TEAL"
+    "PALETEAL"
   ],
   "#a5fbd5": [
-    "PALETURQUOISE",
-    "PALE TURQUOISE"
+    "PALETURQUOISE"
   ],
   "#ceaefa": [
     "PALEVIOLET",
@@ -4167,16 +3793,14 @@
     "PARCHMENT"
   ],
   "#a2bffe": [
-    "PASTELBLUE",
-    "PASTEL BLUE"
+    "PASTELBLUE"
   ],
   "#b0ff9d": [
     "PASTELGREEN",
     "LENS FLARE GREEN"
   ],
   "#ff964f": [
-    "PASTELORANGE",
-    "PASTEL ORANGE"
+    "PASTELORANGE"
   ],
   "#ffbacd": [
     "PASTELPINK",
@@ -4205,20 +3829,17 @@
     "PEACH PINK"
   ],
   "#016795": [
-    "PEACOCKBLUE",
-    "PEACOCK BLUE"
+    "PEACOCKBLUE"
   ],
   "#8eab12": [
-    "PEAGREEN",
-    "PEA GREEN"
+    "PEAGREEN"
   ],
   "#cbf85f": [
     "PEAR",
     "PEAR SPRITZ"
   ],
   "#929901": [
-    "PEASOUP",
-    "PEA SOUP"
+    "PEASOUP"
   ],
   "#94a617": [
     "PEASOUPGREEN"
@@ -4227,8 +3848,7 @@
     "PERIWINKLE"
   ],
   "#8f99fb": [
-    "PERIWINKLEBLUE",
-    "PERIWINKLE BLUE"
+    "PERIWINKLEBLUE"
   ],
   "#8f8ce7": [
     "PERRYWINKLE"
@@ -4244,8 +3864,7 @@
     "PINE"
   ],
   "#0a481e": [
-    "PINEGREEN",
-    "PINE GREEN"
+    "PINEGREEN"
   ],
   "#ff81c0": [
     "PINK",
@@ -4255,36 +3874,29 @@
     "PINKISH"
   ],
   "#b17261": [
-    "PINKISHBROWN",
-    "PINKISH BROWN"
+    "PINKISHBROWN"
   ],
   "#c8aca9": [
-    "PINKISHGREY",
-    "PINKISH GREY"
+    "PINKISHGREY"
   ],
   "#ff724c": [
-    "PINKISHORANGE",
-    "PINKISH ORANGE"
+    "PINKISHORANGE"
   ],
   "#d648d7": [
-    "PINKISHPURPLE",
-    "PINKISH PURPLE"
+    "PINKISHPURPLE"
   ],
   "#f10c45": [
-    "PINKISHRED",
-    "PINKISH RED"
+    "PINKISHRED"
   ],
   "#d99b82": [
-    "PINKISHTAN",
-    "PINKISH TAN"
+    "PINKISHTAN"
   ],
   "#ef1de7": [
     "PINKPURPLE",
     "PINK PRIDE"
   ],
   "#f5054f": [
-    "PINKRED",
-    "PINK RED"
+    "PINKRED"
   ],
   "#fc86aa": [
     "PINKY"
@@ -4314,8 +3926,7 @@
     "BEATEN PURPLE"
   ],
   "#40fd14": [
-    "POISONGREEN",
-    "POISON GREEN"
+    "POISONGREEN"
   ],
   "#8f7303": [
     "POO",
@@ -4346,8 +3957,7 @@
     "PINK CATTLEYA"
   ],
   "#0804f9": [
-    "PRIMARYBLUE",
-    "PRIMARY BLUE"
+    "PRIMARYBLUE"
   ],
   "#004577": [
     "PRUSSIANBLUE",
@@ -4378,12 +3988,10 @@
     "PUMPKIN SOUP"
   ],
   "#fb7d07": [
-    "PUMPKINORANGE",
-    "PUMPKIN ORANGE"
+    "PUMPKINORANGE"
   ],
   "#0203e2": [
-    "PUREBLUE",
-    "PURE BLUE"
+    "PUREBLUE"
   ],
   "#7e1e9c": [
     "PURPLE",
@@ -4394,16 +4002,13 @@
     "NASU PURPLE"
   ],
   "#673a3f": [
-    "PURPLEBROWN",
-    "PURPLE BROWN"
+    "PURPLEBROWN"
   ],
   "#866f85": [
-    "PURPLEGREY",
-    "PURPLE GREY"
+    "PURPLEGREY"
   ],
   "#98568d": [
-    "PURPLEISH",
-    "PURPLISH"
+    "PURPLEISH"
   ],
   "#6140ef": [
     "PURPLEISHBLUE",
@@ -4418,8 +4023,7 @@
     "DEMONIC PURPLE"
   ],
   "#990147": [
-    "PURPLERED",
-    "PURPLE RED"
+    "PURPLERED"
   ],
   "#8756e4": [
     "PURPLEY",
@@ -4446,20 +4050,17 @@
     "AKIHABARA ARCADE"
   ],
   "#6b4247": [
-    "PURPLISHBROWN",
-    "PURPLISH BROWN"
+    "PURPLISHBROWN"
   ],
   "#7a687f": [
-    "PURPLISHGREY",
-    "PURPLISH GREY"
+    "PURPLISHGREY"
   ],
   "#ce5dae": [
     "PURPLISHPINK",
     "P\u00da T\u00c1O Z\u01cf PURPLE"
   ],
   "#b0054b": [
-    "PURPLISHRED",
-    "PURPLISH RED"
+    "PURPLISHRED"
   ],
   "#983fb2": [
     "PURPLY",
@@ -4477,31 +4078,26 @@
     "PUTTY"
   ],
   "#014600": [
-    "RACINGGREEN",
-    "RACING GREEN"
+    "RACINGGREEN"
   ],
   "#2cfa1f": [
-    "RADIOACTIVEGREEN",
-    "RADIOACTIVE GREEN"
+    "RADIOACTIVEGREEN"
   ],
   "#b00149": [
     "RASPBERRY"
   ],
   "#9a6200": [
-    "RAWSIENNA",
-    "RAW SIENNA"
+    "RAWSIENNA"
   ],
   "#a75e09": [
-    "RAWUMBER",
-    "RAW UMBER"
+    "RAWUMBER"
   ],
   "#d4ffff": [
     "REALLYLIGHTBLUE",
     "MOUNT OLYMPUS"
   ],
   "#e50000": [
-    "RED",
-    "LIFEGUARD"
+    "RED"
   ],
   "#8b2e16": [
     "REDBROWN",
@@ -4511,56 +4107,45 @@
     "REDDISH"
   ],
   "#7f2b0a": [
-    "REDDISHBROWN",
-    "REDDISH BROWN"
+    "REDDISHBROWN"
   ],
   "#997570": [
-    "REDDISHGREY",
-    "REDDISH GREY"
+    "REDDISHGREY"
   ],
   "#f8481c": [
-    "REDDISHORANGE",
-    "REDDISH ORANGE"
+    "REDDISHORANGE"
   ],
   "#fe2c54": [
-    "REDDISHPINK",
-    "REDDISH PINK"
+    "REDDISHPINK"
   ],
   "#910951": [
-    "REDDISHPURPLE",
-    "REDDISH PURPLE"
+    "REDDISHPURPLE"
   ],
   "#6e1005": [
-    "REDDYBROWN",
-    "REDDY BROWN"
+    "REDDYBROWN"
   ],
   "#fd3c06": [
     "REDORANGE",
     "FIRE OPAL"
   ],
   "#fa2a55": [
-    "REDPINK",
-    "RED PINK"
+    "REDPINK"
   ],
   "#820747": [
     "REDPURPLE",
     "RENANTHERA ORCHID"
   ],
   "#9e0168": [
-    "REDVIOLET",
-    "RED VIOLET"
+    "REDVIOLET"
   ],
   "#8c0034": [
-    "REDWINE",
-    "RED WINE"
+    "REDWINE"
   ],
   "#021bf9": [
-    "RICHBLUE",
-    "RICH BLUE"
+    "RICHBLUE"
   ],
   "#720058": [
-    "RICHPURPLE",
-    "RICH PURPLE"
+    "RICHPURPLE"
   ],
   "#8af1fe": [
     "ROBINEGGBLUE",
@@ -4571,8 +4156,7 @@
     "ROBIN'S EGG"
   ],
   "#98eff9": [
-    "ROBINSEGGBLUE",
-    "PERMAFROST"
+    "ROBINSEGGBLUE"
   ],
   "#fe86a4": [
     "ROSA"
@@ -4590,8 +4174,7 @@
     "TRADITIONAL ROSE"
   ],
   "#f6688e": [
-    "ROSYPINK",
-    "ROSY PINK"
+    "ROSYPINK"
   ],
   "#ab1239": [
     "ROUGE"
@@ -4604,38 +4187,31 @@
     "TRADITIONAL ROYAL BLUE"
   ],
   "#4b006e": [
-    "ROYALPURPLE",
-    "ROYAL PURPLE"
+    "ROYALPURPLE"
   ],
   "#ca0147": [
     "RUBY"
   ],
   "#a13905": [
-    "RUSSET",
-    "MUDDY"
+    "RUSSET"
   ],
   "#a83c09": [
     "RUST"
   ],
   "#8b3103": [
-    "RUSTBROWN",
-    "RUST BROWN"
+    "RUSTBROWN"
   ],
   "#c45508": [
-    "RUSTORANGE",
-    "RUST ORANGE"
+    "RUSTORANGE"
   ],
   "#aa2704": [
-    "RUSTRED",
-    "RUST RED"
+    "RUSTRED"
   ],
   "#cd5909": [
-    "RUSTYORANGE",
-    "RUSTY ORANGE"
+    "RUSTYORANGE"
   ],
   "#af2f0d": [
-    "RUSTYRED",
-    "RUSTY RED"
+    "RUSTYRED"
   ],
   "#feb209": [
     "SAFFRON",
@@ -4659,8 +4235,7 @@
     "SAND"
   ],
   "#cba560": [
-    "SANDBROWN",
-    "SAND BROWN"
+    "SANDBROWN"
   ],
   "#c9ae74": [
     "SANDSTONE"
@@ -4681,8 +4256,7 @@
     "SAND YELLOW"
   ],
   "#5c8b15": [
-    "SAPGREEN",
-    "SAP GREEN"
+    "SAPGREEN"
   ],
   "#2138ab": [
     "SAPPHIRE",
@@ -4704,23 +4278,20 @@
     "ESPER'S FUNGUS GREEN"
   ],
   "#78d1b6": [
-    "SEAFOAMBLUE",
-    "SEAFOAM BLUE"
+    "SEAFOAMBLUE"
   ],
   "#7af9ab": [
     "SEAFOAMGREEN",
     "LIME SOAP"
   ],
   "#53fca1": [
-    "SEAGREEN",
-    "SEA GREEN"
+    "SEAGREEN"
   ],
   "#18d17b": [
     "SEAWEED"
   ],
   "#35ad6b": [
-    "SEAWEEDGREEN",
-    "SEAWEED GREEN"
+    "SEAWEEDGREEN"
   ],
   "#985e2b": [
     "SEPIA",
@@ -4747,20 +4318,16 @@
     "VERDE TROPA"
   ],
   "#fe02a2": [
-    "SHOCKINGPINK",
-    "SHOCKING PINK"
+    "SHOCKINGPINK"
   ],
   "#9db92c": [
-    "SICKGREEN",
-    "SICK GREEN"
+    "SICKGREEN"
   ],
   "#94b21c": [
-    "SICKLYGREEN",
-    "SICKLY GREEN"
+    "SICKLYGREEN"
   ],
   "#d0e429": [
-    "SICKLYYELLOW",
-    "SICKLY YELLOW"
+    "SICKLYYELLOW"
   ],
   "#a9561e": [
     "SIENNA"
@@ -4781,16 +4348,13 @@
     "SLATE"
   ],
   "#5b7c99": [
-    "SLATEBLUE",
-    "SLATE BLUE"
+    "SLATEBLUE"
   ],
   "#658d6d": [
-    "SLATEGREEN",
-    "SLATE GREEN"
+    "SLATEGREEN"
   ],
   "#59656d": [
-    "SLATEGREY",
-    "SLATE GREY"
+    "SLATEGREY"
   ],
   "#99cc04": [
     "SLIMEGREEN",
@@ -4800,32 +4364,26 @@
     "SNOT"
   ],
   "#9dc100": [
-    "SNOTGREEN",
-    "SNOT GREEN"
+    "SNOTGREEN"
   ],
   "#6488ea": [
-    "SOFTBLUE",
-    "SOFT BLUE"
+    "SOFTBLUE"
   ],
   "#6fc276": [
-    "SOFTGREEN",
-    "SOFT GREEN"
+    "SOFTGREEN"
   ],
   "#fdb0c0": [
-    "SOFTPINK",
-    "SOFT PINK"
+    "SOFTPINK"
   ],
   "#a66fb5": [
-    "SOFTPURPLE",
-    "SOFT PURPLE"
+    "SOFTPURPLE"
   ],
   "#1ef876": [
     "SPEARMINT",
     "SYNTHETIC SPEARMINT"
   ],
   "#a9f971": [
-    "SPRINGGREEN",
-    "LIMA"
+    "SPRINGGREEN"
   ],
   "#0a5f38": [
     "SPRUCE"
@@ -4860,54 +4418,45 @@
     "STRAWBERRY"
   ],
   "#0c06f7": [
-    "STRONGBLUE",
-    "STRONG BLUE"
+    "STRONGBLUE"
   ],
   "#ff0789": [
-    "STRONGPINK",
-    "STRONG PINK"
+    "STRONGPINK"
   ],
   "#ffc512": [
     "SUNFLOWER"
   ],
   "#ffda03": [
-    "SUNFLOWERYELLOW",
-    "SUNFLOWER YELLOW"
+    "SUNFLOWERYELLOW"
   ],
   "#fff917": [
-    "SUNNYYELLOW",
-    "SUNNY YELLOW"
+    "SUNNYYELLOW"
   ],
   "#fffd37": [
-    "SUNSHINEYELLOW",
-    "SUNSHINE YELLOW"
+    "SUNSHINEYELLOW"
   ],
   "#ffdf22": [
-    "SUNYELLOW",
-    "SUN YELLOW"
+    "SUNYELLOW"
   ],
   "#698339": [
     "SWAMP",
     "SWAMP MOSS"
   ],
   "#748500": [
-    "SWAMPGREEN",
-    "SWAMP GREEN"
+    "SWAMPGREEN"
   ],
   "#d1b26f": [
     "TAN"
   ],
   "#ab7e4c": [
-    "TANBROWN",
-    "TAN BROWN"
+    "TANBROWN"
   ],
   "#ff9408": [
     "TANGERINE",
     "MERIN'S FIRE"
   ],
   "#a9be70": [
-    "TANGREEN",
-    "TAN GREEN"
+    "TANGREEN"
   ],
   "#b9a281": [
     "TAUPE"
@@ -4925,38 +4474,32 @@
     "OLD BENCHMARK"
   ],
   "#01889f": [
-    "TEALBLUE",
-    "TEAL BLUE"
+    "TEALBLUE"
   ],
   "#25a36f": [
-    "TEALGREEN",
-    "TEAL GREEN"
+    "TEALGREEN"
   ],
   "#24bca8": [
     "TEALISH"
   ],
   "#0cdc73": [
-    "TEALISHGREEN",
-    "TEALISH GREEN"
+    "TEALISHGREEN"
   ],
   "#cb6843": [
-    "TERRACOTA",
-    "TERRACOTTA"
+    "TERRACOTA"
   ],
   "#c9643b": [
     "TERRACOTTA",
     "HASHUT COPPER"
   ],
   "#7bf2da": [
-    "TIFFANYBLUE",
-    "TIFFANY BLUE"
+    "TIFFANYBLUE"
   ],
   "#ef4026": [
     "TOMATO"
   ],
   "#ec2d01": [
-    "TOMATORED",
-    "TOMATO RED"
+    "TOMATORED"
   ],
   "#13bbaf": [
     "TOPAZ",
@@ -4966,20 +4509,16 @@
     "TOUPE"
   ],
   "#61de2a": [
-    "TOXICGREEN",
-    "TOXIC GREEN"
+    "TOXICGREEN"
   ],
   "#2a7e19": [
-    "TREEGREEN",
-    "TREE GREEN"
+    "TREEGREEN"
   ],
   "#010fcc": [
-    "TRUEBLUE",
-    "TRUE BLUE"
+    "TRUEBLUE"
   ],
   "#089404": [
-    "TRUEGREEN",
-    "TRUE GREEN"
+    "TRUEGREEN"
   ],
   "#06c2ac": [
     "TURQUOISE"
@@ -4989,19 +4528,16 @@
     "ANTIGUA BLUE"
   ],
   "#04f489": [
-    "TURQUOISEGREEN",
-    "TURQUOISE GREEN"
+    "TURQUOISEGREEN"
   ],
   "#75b84f": [
-    "TURTLEGREEN",
-    "TURTLE GREEN"
+    "TURTLEGREEN"
   ],
   "#4e518b": [
     "TWILIGHT"
   ],
   "#0a437a": [
-    "TWILIGHTBLUE",
-    "TWILIGHT BLUE"
+    "TWILIGHTBLUE"
   ],
   "#31668a": [
     "UGLYBLUE",
@@ -5032,8 +4568,7 @@
     "DEEP SEA EXPLORATION"
   ],
   "#1805db": [
-    "ULTRAMARINEBLUE",
-    "ULTRAMARINE"
+    "ULTRAMARINEBLUE"
   ],
   "#b26400": [
     "UMBER"
@@ -5042,8 +4577,7 @@
     "VELVET"
   ],
   "#f4320c": [
-    "VERMILLION",
-    "VERMILION"
+    "VERMILLION"
   ],
   "#000133": [
     "VERYDARKBLUE",
@@ -5088,107 +4622,87 @@
     "BREEZE OF GREEN"
   ],
   "#0339f8": [
-    "VIBRANTBLUE",
-    "VIBRANT BLUE"
+    "VIBRANTBLUE"
   ],
   "#0add08": [
-    "VIBRANTGREEN",
-    "VIBRANT GREEN"
+    "VIBRANTGREEN"
   ],
   "#ad03de": [
-    "VIBRANTPURPLE",
-    "VIBRANT PURPLE"
+    "VIBRANTPURPLE"
   ],
   "#9a0eea": [
     "VIOLET"
   ],
   "#510ac9": [
-    "VIOLETBLUE",
-    "VIOLET BLUE"
+    "VIOLETBLUE"
   ],
   "#fb5ffc": [
-    "VIOLETPINK",
-    "VIOLET PINK"
+    "VIOLETPINK"
   ],
   "#a50055": [
-    "VIOLETRED",
-    "VIOLET RED"
+    "VIOLETRED"
   ],
   "#1e9167": [
     "VIRIDIAN"
   ],
   "#152eff": [
-    "VIVIDBLUE",
-    "VIVID BLUE"
+    "VIVIDBLUE"
   ],
   "#2fef10": [
-    "VIVIDGREEN",
-    "VIVID GREEN"
+    "VIVIDGREEN"
   ],
   "#9900fa": [
-    "VIVIDPURPLE",
-    "VIVID PURPLE"
+    "VIVIDPURPLE"
   ],
   "#a2a415": [
     "VOMIT",
     "FISTFULL OF GREEN"
   ],
   "#89a203": [
-    "VOMITGREEN",
-    "NOXIOUS"
+    "VOMITGREEN"
   ],
   "#c7c10c": [
     "VOMITYELLOW",
     "CRICKET CHIRPING"
   ],
   "#4b57db": [
-    "WARMBLUE",
-    "WARM BLUE"
+    "WARMBLUE"
   ],
   "#964e02": [
-    "WARMBROWN",
-    "WARM BROWN"
+    "WARMBROWN"
   ],
   "#978a84": [
-    "WARMGREY",
-    "WARM GREY"
+    "WARMGREY"
   ],
   "#fb5581": [
-    "WARMPINK",
-    "WARM PINK"
+    "WARMPINK"
   ],
   "#952e8f": [
-    "WARMPURPLE",
-    "WARM PURPLE"
+    "WARMPURPLE"
   ],
   "#bcf5a6": [
-    "WASHEDOUTGREEN",
-    "WASHED OUT GREEN"
+    "WASHEDOUTGREEN"
   ],
   "#0e87cc": [
-    "WATERBLUE",
-    "WATER BLUE"
+    "WATERBLUE"
   ],
   "#fd4659": [
     "WATERMELON"
   ],
   "#3ae57f": [
-    "WEIRDGREEN",
-    "WEIRD GREEN"
+    "WEIRDGREEN"
   ],
   "#fbdd7e": [
     "WHEAT"
   ],
   "#3778bf": [
-    "WINDOWSBLUE",
-    "WINDOWS BLUE"
+    "WINDOWSBLUE"
   ],
   "#80013f": [
     "WINE"
   ],
   "#7b0323": [
-    "WINERED",
-    "WINE RED"
+    "WINERED"
   ],
   "#20f986": [
     "WINTERGREEN"
@@ -5212,40 +4726,32 @@
     "YELLOWISH"
   ],
   "#9b7a01": [
-    "YELLOWISHBROWN",
-    "YELLOWISH BROWN"
+    "YELLOWISHBROWN"
   ],
   "#b0dd16": [
-    "YELLOWISHGREEN",
-    "YELLOWISH GREEN"
+    "YELLOWISHGREEN"
   ],
   "#ffab0f": [
-    "YELLOWISHORANGE",
-    "YELLOWISH ORANGE"
+    "YELLOWISHORANGE"
   ],
   "#fcfc81": [
-    "YELLOWISHTAN",
-    "YELLOWISH TAN"
+    "YELLOWISHTAN"
   ],
   "#cb9d06": [
-    "YELLOWOCHRE",
-    "YELLOW OCHRE"
+    "YELLOWOCHRE"
   ],
   "#fcb001": [
-    "YELLOWORANGE",
-    "YELLOW ORANGE"
+    "YELLOWORANGE"
   ],
   "#ffe36e": [
-    "YELLOWTAN",
-    "YELLOW TAN"
+    "YELLOWTAN"
   ],
   "#ae8b0c": [
     "YELLOWYBROWN",
     "YELLOW BROWN"
   ],
   "#bff128": [
-    "YELLOWYGREEN",
-    "YELLOWY GREEN"
+    "YELLOWYGREEN"
   ],
   "#94bfac": [
     "SKY BLUE"
@@ -5272,8 +4778,7 @@
     "AIRCRAFT BLUE"
   ],
   "#1c5680": [
-    "MIDDLE BLUE",
-    "ANCHUSA"
+    "MIDDLE BLUE"
   ],
   "#2c3e75": [
     "ROUNDEL BLUE"
@@ -5349,8 +4854,7 @@
     "DEEP BRUNSWICK GREEN"
   ],
   "#428b64": [
-    "EMERALD GREEN",
-    "VIRIDIAN"
+    "EMERALD GREEN"
   ],
   "#4f5241": [
     "DARK GREEN"
@@ -5474,8 +4978,7 @@
     "CHAMPAGNE"
   ],
   "#cfb48a": [
-    "SUNRISE",
-    "SUNSHINE"
+    "SUNRISE"
   ],
   "#e4cf93": [
     "BEIGE"
@@ -5574,8 +5077,7 @@
     "SIGNAL RED"
   ],
   "#c41c22": [
-    "POST OFFICE RED",
-    "CHERRY"
+    "POST OFFICE RED"
   ],
   "#d21e2b": [
     "CURRANT RED"
@@ -5687,42 +5189,34 @@
     "DARK VIOLET"
   ],
   "#c9a8ce": [
-    "LIGHT VIOLET",
-    "CATMINT"
+    "LIGHT VIOLET"
   ],
   "#245336": [
-    "KAITOKEGREEN",
-    "KAITOKE GREEN"
+    "KAITOKEGREEN"
   ],
   "#1b4b35": [
-    "COUNTYGREEN",
-    "COUNTY GREEN"
+    "COUNTYGREEN"
   ],
   "#17462e": [
-    "ZUCCINI",
-    "ZUCCHINI"
+    "ZUCCINI"
   ],
   "#1d393c": [
     "NORDIC"
   ],
   "#00494e": [
-    "SHERPABLUE",
-    "SHERPA BLUE"
+    "SHERPABLUE"
   ],
   "#254855": [
-    "TEALBLUE",
-    "MALLARD"
+    "TEALBLUE"
   ],
   "#35514f": [
-    "BLUEDIANNE",
-    "BLUE DIANNE"
+    "BLUEDIANNE"
   ],
   "#314643": [
     "FIREFLY"
   ],
   "#2c4641": [
-    "GABLEGREEN",
-    "GABLE GREEN"
+    "GABLEGREEN"
   ],
   "#273f41": [
     "DAINTREE"
@@ -5741,19 +5235,16 @@
     "ZYDECO"
   ],
   "#1b4636": [
-    "SHERWOODGREEN",
-    "SHERWOOD GREEN"
+    "SHERWOODGREEN"
   ],
   "#274234": [
-    "ENGLISHHOLLY",
-    "ENGLISH HOLLY"
+    "ENGLISHHOLLY"
   ],
   "#264334": [
     "EVERGLADE"
   ],
   "#254636": [
     "BOTTLEGREEN",
-    "BUSH",
     "WINE BOTTLE GREEN"
   ],
   "#234537": [
@@ -5763,26 +5254,22 @@
     "CELTIC"
   ],
   "#324336": [
-    "TIMBERGREEN",
-    "TIMBER GREEN"
+    "TIMBERGREEN"
   ],
   "#334231": [
     "FORESTGREEN"
   ],
   "#2b4b40": [
-    "TEPAPAGREEN",
-    "TE PAPA GREEN"
+    "TEPAPAGREEN"
   ],
   "#34533d": [
     "GOBLIN"
   ],
   "#3a4531": [
-    "MALLARD",
-    "MALLARDISH"
+    "MALLARD"
   ],
   "#36482f": [
-    "PALMLEAF",
-    "PALM LEAF"
+    "PALMLEAF"
   ],
   "#37412a": [
     "SEAWEED",
@@ -5792,35 +5279,29 @@
     "OLIVEGREEN"
   ],
   "#193925": [
-    "DEEPFIR",
-    "DEEP FIR"
+    "DEEPFIR"
   ],
   "#1b3427": [
-    "CARDINGREEN",
-    "CARDIN GREEN"
+    "CARDINGREEN"
   ],
   "#20392c": [
-    "PALMGREEN",
-    "PALM GREEN"
+    "PALMGREEN"
   ],
   "#25342b": [
     "HOLLY"
   ],
   "#232e26": [
-    "BLACKBEAN",
-    "QUARTZITE"
+    "BLACKBEAN"
   ],
   "#29332b": [
-    "GORDONSGREEN",
-    "GORDONS GREEN"
+    "GORDONSGREEN"
   ],
   "#2c3227": [
     "BLACKFOREST",
     "EBONY WOOD"
   ],
   "#2a2f23": [
-    "PINETREE",
-    "PINE TREE"
+    "PINETREE"
   ],
   "#2f3125": [
     "HUNTERGREEN"
@@ -5829,15 +5310,13 @@
     "ETERNITY"
   ],
   "#2b2e25": [
-    "RANGOONGREEN",
-    "RANGOON GREEN"
+    "RANGOONGREEN"
   ],
   "#2b2e26": [
     "MARSHLAND"
   ],
   "#2c2d24": [
-    "GREENWATERLOO",
-    "GREEN WATERLOO"
+    "GREENWATERLOO"
   ],
   "#2d2d24": [
     "KARAKA"
@@ -5859,12 +5338,10 @@
   ],
   "#332c22": [
     "BLACKMAGIC",
-    "CANNONBLACK",
     "MELON SEED"
   ],
   "#35281e": [
-    "COCOABROWN",
-    "COCOA BROWN"
+    "COCOABROWN"
   ],
   "#3c2f23": [
     "COLA"
@@ -5882,18 +5359,13 @@
     "SEPIA"
   ],
   "#362d26": [
-    "COFFEEBEAN",
-    "CUBANTAN",
-    "MARLIN",
-    "COFFEE BEAN"
+    "COFFEEBEAN"
   ],
   "#302621": [
-    "WOODBARK",
-    "WOOD BARK"
+    "WOODBARK"
   ],
   "#2a2922": [
-    "ASPHALT",
-    "MAIRE"
+    "ASPHALT"
   ],
   "#292924": [
     "JUNGLEGREEN"
@@ -5905,8 +5377,7 @@
     "WOODBURN"
   ],
   "#413628": [
-    "JACKOBEAN",
-    "JACKO BEAN"
+    "JACKOBEAN"
   ],
   "#3f3726": [
     "BIRCH"
@@ -5924,8 +5395,7 @@
     "MADRAS"
   ],
   "#393d2a": [
-    "GREENKELP",
-    "GREEN KELP"
+    "GREENKELP"
   ],
   "#45402b": [
     "WOODRUSH"
@@ -5938,36 +5408,31 @@
     "JUNGLE KING"
   ],
   "#544e31": [
-    "THATCHGREEN",
-    "THATCH GREEN"
+    "THATCHGREEN"
   ],
   "#534931": [
     "PUNGA"
   ],
   "#51412d": [
-    "DEEPBRONZE",
-    "DEEP BRONZE"
+    "DEEPBRONZE"
   ],
   "#4b412a": [
     "TUMBLEWEED"
   ],
   "#554a3c": [
-    "METALLICBRONZE",
-    "METALLIC BRONZE"
+    "METALLICBRONZE"
   ],
   "#4f4037": [
     "PACO"
   ],
   "#4b433b": [
-    "SPACESHUTTLE",
-    "SPACE SHUTTLE"
+    "SPACESHUTTLE"
   ],
   "#4a4b46": [
     "GRAVEL"
   ],
   "#46473e": [
-    "HEAVYMETAL",
-    "HEAVY METAL"
+    "HEAVYMETAL"
   ],
   "#393e2e": [
     "LOGCABIN"
@@ -5979,8 +5444,7 @@
     "RANGITOTO"
   ],
   "#39392c": [
-    "ELPASO",
-    "EL PASO"
+    "ELPASO"
   ],
   "#3a372e": [
     "TOUCHWOOD"
@@ -5998,8 +5462,7 @@
     "SLUGGER"
   ],
   "#45362b": [
-    "DARKRUM",
-    "DARK RUM"
+    "DARKRUM"
   ],
   "#493b2f": [
     "BRONZE"
@@ -6022,8 +5485,7 @@
     "VULCAN"
   ],
   "#3c3d3e": [
-    "BALTICSEA",
-    "BALTIC SEA"
+    "BALTICSEA"
   ],
   "#393b3c": [
     "MONTANA"
@@ -6033,15 +5495,13 @@
     "SHISHA COAL"
   ],
   "#3a3532": [
-    "KILAMANJARO",
-    "KILIMANJARO"
+    "KILAMANJARO"
   ],
   "#373f43": [
     "MIRAGE"
   ],
   "#373e41": [
-    "MINESHAFT",
-    "MINE SHAFT"
+    "MINESHAFT"
   ],
   "#394043": [
     "CHARADE"
@@ -6071,22 +5531,19 @@
     "BLEACHEDCEDAR"
   ],
   "#43464b": [
-    "STEELGREY",
-    "STEEL GREY"
+    "STEELGREY"
   ],
   "#46494e": [
     "TUNA"
   ],
   "#484753": [
-    "GUNPOWDER",
-    "GUN POWDER"
+    "GUNPOWDER"
   ],
   "#3d4653": [
     "RHINO"
   ],
   "#3c4354": [
-    "BLUEZODIAC",
-    "BLUE ZODIAC"
+    "BLUEZODIAC"
   ],
   "#3a4e5f": [
     "CELLO"
@@ -6098,16 +5555,13 @@
     "DEEPCOVE"
   ],
   "#334046": [
-    "BIGSTONE",
-    "BIG STONE"
+    "BIGSTONE"
   ],
   "#253f4e": [
-    "NILEBLUE",
-    "NILE BLUE"
+    "NILEBLUE"
   ],
   "#23414e": [
-    "GREENVOGUE",
-    "GREEN VOGUE"
+    "GREENVOGUE"
   ],
   "#253c48": [
     "TARAWERA"
@@ -6121,8 +5575,7 @@
     "BURKA BLACK"
   ],
   "#383740": [
-    "BLACKMARLIN",
-    "BLACK MARLIN"
+    "BLACKMARLIN"
   ],
   "#37363f": [
     "REVOLVER"
@@ -6132,22 +5585,19 @@
     "ITALIAN GRAPE"
   ],
   "#2c2d3c": [
-    "BLACKROCK",
-    "BLACK ROCK"
+    "BLACKROCK"
   ],
   "#2c2a35": [
     "HAITI"
   ],
   "#312a29": [
-    "LIVIDBROWN",
-    "LIVID BROWN"
+    "LIVIDBROWN"
   ],
   "#322c2b": [
     "DIESEL"
   ],
   "#332e2e": [
-    "NIGHTRIDER",
-    "NIGHT RIDER"
+    "NIGHTRIDER"
   ],
   "#373332": [
     "GONDOLA"
@@ -6156,15 +5606,13 @@
     "CROWSHEAD"
   ],
   "#2d3032": [
-    "CODGREY",
-    "COD GREY"
+    "CODGREY"
   ],
   "#292c2f": [
     "BUNKER"
   ],
   "#262b2f": [
-    "BLUECHARCOAL",
-    "BLUE CHARCOAL"
+    "BLUECHARCOAL"
   ],
   "#2c2c32": [
     "BASTILLE"
@@ -6176,8 +5624,7 @@
     "EBONY"
   ],
   "#323438": [
-    "EBONYCLAY",
-    "EBONY CLAY"
+    "EBONYCLAY"
   ],
   "#2c3539": [
     "GUNMETAL",
@@ -6200,16 +5647,13 @@
     "AZTEC"
   ],
   "#242e28": [
-    "MIDNIGHTMOSS",
-    "MIDNIGHT MOSS"
+    "MIDNIGHTMOSS"
   ],
   "#232f2c": [
-    "RACINGGREEN",
-    "ARD\u00d3SIA"
+    "RACINGGREEN"
   ],
   "#1e3442": [
-    "BLUEWHALE",
-    "BLUE WHALE"
+    "BLUEWHALE"
   ],
   "#293741": [
     "MOSAIC"
@@ -6229,13 +5673,10 @@
     "CINDER"
   ],
   "#1e272c": [
-    "BLACKPEARL",
-    "BLUEBARK",
-    "BLACK PEARL"
+    "BLACKPEARL"
   ],
   "#24252b": [
-    "BLACKRUSSIAN",
-    "BLACK RUSSIAN"
+    "BLACKRUSSIAN"
   ],
   "#29292f": [
     "JAGUAR"
@@ -6244,16 +5685,13 @@
     "NERO"
   ],
   "#2a2725": [
-    "BOKARAGREY",
-    "BOKARA GREY"
+    "BOKARAGREY"
   ],
   "#1f263b": [
     "OUTERSPACE"
   ],
   "#21263a": [
-    "MIDNIGHTEXPRESS",
-    "STRATOS",
-    "MIDNIGHT EXPRESS"
+    "MIDNIGHTEXPRESS"
   ],
   "#192f41": [
     "PRUSSIANBLUE"
@@ -6271,13 +5709,10 @@
     "BONDIBLUE"
   ],
   "#273c5a": [
-    "CATALINABLUE",
-    "COBALT",
-    "NAUTILUS"
+    "CATALINABLUE"
   ],
   "#343f5c": [
     "COVEGREY",
-    "GULFBLUE",
     "GULF BLUE"
   ],
   "#2f3c53": [
@@ -6287,12 +5722,10 @@
     "MADISON"
   ],
   "#214559": [
-    "ASTRONAUTBLUE",
-    "ASTRONAUT BLUE"
+    "ASTRONAUTBLUE"
   ],
   "#203f58": [
-    "REGALBLUE",
-    "REGAL BLUE"
+    "REGALBLUE"
   ],
   "#274a5d": [
     "ARAPAWA"
@@ -6304,19 +5737,16 @@
     "ASTRONAUT"
   ],
   "#47526e": [
-    "EASTBAY",
-    "EAST BAY"
+    "EASTBAY"
   ],
   "#25597f": [
-    "BAHAMABLUE",
-    "BAHAMA BLUE"
+    "BAHAMABLUE"
   ],
   "#365c7d": [
     "MATISSE"
   ],
   "#2c5778": [
-    "VENICEBLUE",
-    "VENICE BLUE"
+    "VENICEBLUE"
   ],
   "#325482": [
     "STTROPAZ",
@@ -6326,15 +5756,13 @@
     "ENDEAVOUR"
   ],
   "#00626f": [
-    "BLUELAGOON",
-    "BLUE LAGOON"
+    "BLUELAGOON"
   ],
   "#305c71": [
     "BLUMINE"
   ],
   "#2c5971": [
-    "CHATHAMSBLUE",
-    "CHATHAMS BLUE"
+    "CHATHAMSBLUE"
   ],
   "#255b77": [
     "ORIENT"
@@ -6346,41 +5774,34 @@
     "CALYPSO"
   ],
   "#44798e": [
-    "JELLYBEAN",
-    "JELLY BEAN"
+    "JELLYBEAN"
   ],
   "#376f89": [
     "ASTRAL"
   ],
   "#49889a": [
-    "HIPPIEBLUE",
-    "HIPPIE BLUE"
+    "HIPPIEBLUE"
   ],
   "#3d85b8": [
-    "CURIOUSBLUE",
-    "CURIOUS BLUE"
+    "CURIOUSBLUE"
   ],
   "#316ea0": [
     "LOCHMARA"
   ],
   "#4e6c9d": [
-    "SANMARINO",
-    "SAN MARINO"
+    "SANMARINO"
   ],
   "#4e699a": [
     "AZURE"
   ],
   "#5784c1": [
-    "HAVELOCKBLUE",
-    "HAVELOCK BLUE"
+    "HAVELOCKBLUE"
   ],
   "#5b6e91": [
-    "WAIKAWAGREY",
-    "WAIKAWA GREY"
+    "WAIKAWAGREY"
   ],
   "#576d8e": [
-    "KASHMIRBLUE",
-    "KASHMIR BLUE"
+    "KASHMIRBLUE"
   ],
   "#4c6b88": [
     "WEDGEWOOD"
@@ -6401,15 +5822,13 @@
     "GREY CLOUD"
   ],
   "#798488": [
-    "REGENTGREY",
-    "REGENT GREY"
+    "REGENTGREY"
   ],
   "#7c817c": [
     "BOULDER"
   ],
   "#6d7876": [
-    "ROLLINGSTONE",
-    "ROLLING STONE"
+    "ROLLINGSTONE"
   ],
   "#77848e": [
     "PIGEONPOST"
@@ -6469,8 +5888,7 @@
     "FIORD"
   ],
   "#445761": [
-    "SANJUAN",
-    "SAN JUAN"
+    "SANJUAN"
   ],
   "#3f545a": [
     "CASAL"
@@ -6486,15 +5904,13 @@
     "MORTAR"
   ],
   "#5a4f51": [
-    "DONJUAN",
-    "DON JUAN"
+    "DONJUAN"
   ],
   "#4e4e4c": [
     "SHIPGREY"
   ],
   "#4e5552": [
-    "CAPECOD",
-    "CAPE COD"
+    "CAPECOD"
   ],
   "#505555": [
     "MAKO"
@@ -6503,8 +5919,7 @@
     "TROUT"
   ],
   "#465352": [
-    "DARKSLATE",
-    "DARK SLATE"
+    "DARKSLATE"
   ],
   "#4f5a5f": [
     "PICKLEDBLUEWOOD"
@@ -6517,8 +5932,7 @@
     "LIMEDSPRUCE"
   ],
   "#61666b": [
-    "SHUTTLEGREY",
-    "SHUTTLE GREY"
+    "SHUTTLEGREY"
   ],
   "#696268": [
     "SALTBOX",
@@ -6537,8 +5951,7 @@
     "MAKARA"
   ],
   "#65645f": [
-    "STORMDUST",
-    "STORM DUST"
+    "STORMDUST"
   ],
   "#5b6452": [
     "PICKLEDASPEN"
@@ -6554,8 +5967,7 @@
     "MILLBROOK"
   ],
   "#4c5544": [
-    "CABBAGEPONT",
-    "CABBAGE PONT"
+    "CABBAGEPONT"
   ],
   "#4f4e48": [
     "MERLIN"
@@ -6571,15 +5983,13 @@
     "SMOKEYASH"
   ],
   "#5d5346": [
-    "JUDGEGREY",
-    "JUDGE GREY"
+    "JUDGEGREY"
   ],
   "#5d4e46": [
     "SADDLE"
   ],
   "#5a4c42": [
-    "CORK",
-    "MASH"
+    "CORK"
   ],
   "#5a4d41": [
     "ROCK"
@@ -6591,22 +6001,19 @@
     "MONDO"
   ],
   "#544f3a": [
-    "LISBONBROWN",
-    "PANDA"
+    "LISBONBROWN"
   ],
   "#4d503c": [
     "KELP"
   ],
   "#4e5541": [
-    "LUNARGREEN",
-    "LUNAR GREEN"
+    "LUNARGREEN"
   ],
   "#69684b": [
     "HEMLOCK"
   ],
   "#6f634b": [
-    "SOYABEAN",
-    "SOYA BEAN"
+    "SOYABEAN"
   ],
   "#6c5b4c": [
     "DOMINO"
@@ -6626,8 +6033,7 @@
     "PABLO"
   ],
   "#816e5c": [
-    "DONKEYBROWN",
-    "DONKEY BROWN"
+    "DONKEYBROWN"
   ],
   "#857158": [
     "CEMENT",
@@ -6647,8 +6053,7 @@
     "DUNE SHADOW"
   ],
   "#8a7d72": [
-    "AMERICANO",
-    "SILT"
+    "AMERICANO"
   ],
   "#8b7e77": [
     "HURRICANE"
@@ -6661,8 +6066,7 @@
     "WET SANDSTONE"
   ],
   "#706e66": [
-    "IRONSIDEGREY",
-    "IRONSIDE GREY"
+    "IRONSIDEGREY"
   ],
   "#716e61": [
     "FLINT"
@@ -6681,12 +6085,10 @@
     "CIGAR SMOKE"
   ],
   "#888064": [
-    "OLIVEHAZE",
-    "OLIVE HAZE"
+    "OLIVEHAZE"
   ],
   "#8b8265": [
-    "GRANITEGREEN",
-    "GRANITE GREEN"
+    "GRANITEGREEN"
   ],
   "#7b785a": [
     "KOKODA"
@@ -6711,23 +6113,19 @@
     "FINLANDIA"
   ],
   "#69755c": [
-    "WILLOWGROVE",
-    "WILLOW GROVE"
+    "WILLOWGROVE"
   ],
   "#75876e": [
-    "XANADU",
-    "CHLOROSIS"
+    "XANADU"
   ],
   "#5c8173": [
-    "CUTTYSARK",
-    "CUTTY SARK"
+    "CUTTYSARK"
   ],
   "#626746": [
     "WOODLAND"
   ],
   "#4f6348": [
-    "TOMTHUMB",
-    "TOM THUMB"
+    "TOMTHUMB"
   ],
   "#525636": [
     "GREYGREEN"
@@ -6742,8 +6140,7 @@
     "NANDOR"
   ],
   "#506355": [
-    "MINERALGREEN",
-    "MINERAL GREEN"
+    "MINERALGREEN"
   ],
   "#406356": [
     "STROMBOLI"
@@ -6756,16 +6153,13 @@
     "ORACLE"
   ],
   "#496569": [
-    "TAXBREAK",
-    "TAX BREAK"
+    "TAXBREAK"
   ],
   "#496267": [
-    "SMALTBLUE",
-    "SMALT BLUE"
+    "SMALTBLUE"
   ],
   "#486c7a": [
-    "BISMARK",
-    "BISMARCK"
+    "BISMARK"
   ],
   "#407577": [
     "MING"
@@ -6774,8 +6168,7 @@
     "JADE"
   ],
   "#517b78": [
-    "BREAKERBAY",
-    "BREAKER BAY"
+    "BREAKERBAY"
   ],
   "#53736f": [
     "WILLIAM"
@@ -6784,8 +6177,7 @@
     "PARADISO"
   ],
   "#007b77": [
-    "SURFIEGREEN",
-    "SURFIE GREEN"
+    "SURFIEGREEN"
   ],
   "#297b76": [
     "ELM"
@@ -6800,8 +6192,7 @@
     "SEAGREEN"
   ],
   "#166461": [
-    "BLUESTONE",
-    "ABDUCTION"
+    "BLUESTONE"
   ],
   "#005f5b": [
     "MOSQUE"
@@ -6813,8 +6204,7 @@
     "AQUAMARINE"
   ],
   "#26604f": [
-    "EVENINGSEA",
-    "EVENING SEA"
+    "EVENINGSEA"
   ],
   "#305d35": [
     "PARSLEY"
@@ -6823,8 +6213,7 @@
     "CRUSOE"
   ],
   "#266242": [
-    "GREENPEA",
-    "GREEN PEA"
+    "GREENPEA"
   ],
   "#246c46": [
     "GREENSTONE"
@@ -6842,12 +6231,10 @@
     "AMAZON"
   ],
   "#1b8a6b": [
-    "ELFGREEN",
-    "ELF GREEN"
+    "ELFGREEN"
   ],
   "#167e65": [
-    "DEEPSEA",
-    "DEEP SEA"
+    "DEEPSEA"
   ],
   "#008f70": [
     "OBSERVATORY"
@@ -6859,20 +6246,17 @@
     "JEWEL"
   ],
   "#15633d": [
-    "FUNGREEN",
-    "FUN GREEN"
+    "FUNGREEN"
   ],
   "#006e4e": [
     "WATERCOURSE",
     "NATURAL WATERCOURSE"
   ],
   "#00879f": [
-    "EASTERNBLUE",
-    "EASTERN BLUE"
+    "EASTERNBLUE"
   ],
   "#2599b2": [
-    "PELOROUS",
-    "PELORUS"
+    "PELOROUS"
   ],
   "#308ea0": [
     "SCOOTER"
@@ -6881,12 +6265,10 @@
     "VIKING"
   ],
   "#5ba0d0": [
-    "PICTONBLUE",
-    "PICTON BLUE"
+    "PICTONBLUE"
   ],
   "#438eac": [
-    "BOSTONBLUE",
-    "BOSTON BLUE"
+    "BOSTONBLUE"
   ],
   "#609ab8": [
     "SHAKESPEARE"
@@ -6896,27 +6278,22 @@
     "BERMUDA TRIANGLE"
   ],
   "#7988ab": [
-    "SHIPCOVE",
-    "SHIP COVE"
+    "SHIPCOVE"
   ],
   "#5b89c0": [
     "DANUBE"
   ],
   "#7aaae0": [
-    "JORDYBLUE",
-    "JORDY BLUE"
+    "JORDYBLUE"
   ],
   "#93a2ba": [
-    "ROCKBLUE",
-    "ROCK BLUE"
+    "ROCKBLUE"
   ],
   "#a4afcd": [
-    "ECHOBLUE",
-    "ECHO BLUE"
+    "ECHOBLUE"
   ],
   "#8aa7cc": [
-    "POLOBLUE",
-    "POLO BLUE"
+    "POLOBLUE"
   ],
   "#66b7e1": [
     "MALIBU"
@@ -6935,15 +6312,13 @@
     "SAIL"
   ],
   "#aec9eb": [
-    "TROPICALBLUE",
-    "TROPICAL BLUE"
+    "TROPICALBLUE"
   ],
   "#7ecddd": [
     "SPRAY"
   ],
   "#b6ecde": [
-    "WATERLEAF",
-    "WATER LEAF"
+    "WATERLEAF"
   ],
   "#6fd2be": [
     "DOWNY"
@@ -6959,39 +6334,32 @@
     "BLUE FROSTING"
   ],
   "#97d5b3": [
-    "VISTABLUE",
-    "VISTA BLUE"
+    "VISTABLUE"
   ],
   "#b4e1bb": [
-    "FRINGYFLOWER",
-    "FRINGY FLOWER"
+    "FRINGYFLOWER"
   ],
   "#9dd3a8": [
     "CHINOOK"
   ],
   "#d6f0cd": [
-    "SNOWYMINT",
-    "SNOWY MINT"
+    "SNOWYMINT"
   ],
   "#eff5d1": [
-    "RICEFLOWER",
-    "RICE FLOWER"
+    "RICEFLOWER"
   ],
   "#dff1d6": [
     "HINTOFGREEN",
     "HINT OF MINT"
   ],
   "#d8f0d2": [
-    "BLUEROMANCE",
-    "BLUE ROMANCE"
+    "BLUEROMANCE"
   ],
   "#c5e7cd": [
-    "GRANNYAPPLE",
-    "GRANNY APPLE"
+    "GRANNYAPPLE"
   ],
   "#c0e8d5": [
-    "AEROBLUE",
-    "AERO BLUE"
+    "AEROBLUE"
   ],
   "#d7e7d0": [
     "PEPPERMINT"
@@ -7004,19 +6372,16 @@
     "ICE-COLD WHITE"
   ],
   "#e2f2e4": [
-    "FROSTEDMINT",
-    "FROSTED MINT"
+    "FROSTEDMINT"
   ],
   "#c6eadd": [
-    "MINTTULIP",
-    "MINT TULIP"
+    "MINTTULIP"
   ],
   "#c2e6ec": [
     "ONAHAU"
   ],
   "#d1eaea": [
-    "OYSTERBAY",
-    "TEARDROP"
+    "OYSTERBAY"
   ],
   "#d0eae8": [
     "FOAM"
@@ -7029,15 +6394,13 @@
     "MELTING ICE"
   ],
   "#cae7e2": [
-    "JAGGEDICE",
-    "JAGGED ICE"
+    "JAGGEDICE"
   ],
   "#ceefe4": [
     "HUMMINGBIRD"
   ],
   "#d7eee4": [
-    "WHITEICE",
-    "WHITE ICE"
+    "WHITEICE"
   ],
   "#e9eeeb": [
     "LILYWHITE",
@@ -7047,8 +6410,7 @@
     "TRANQUIL"
   ],
   "#dfefea": [
-    "CLEARDAY",
-    "CLEAR DAY"
+    "CLEARDAY"
   ],
   "#e6f2ea": [
     "BUBBLES",
@@ -7061,26 +6423,22 @@
     "MYSTIC"
   ],
   "#d3e5ef": [
-    "PATTENSBLUE",
-    "PATTENS BLUE"
+    "PATTENSBLUE"
   ],
   "#d2daed": [
-    "HAWKESBLUE",
-    "HAWKES BLUE"
+    "HAWKESBLUE"
   ],
   "#e6dfe7": [
     "SELAGO"
   ],
   "#e7e5e8": [
-    "WHITELILAC",
-    "WHITE LILAC"
+    "WHITELILAC"
   ],
   "#dddcdb": [
     "PORCELAIN"
   ],
   "#dcdddd": [
-    "ATHENSGREY",
-    "ATHENS GREY"
+    "ATHENSGREY"
   ],
   "#e3e1e0": [
     "SEASHELL"
@@ -7089,8 +6447,7 @@
     "WHISPER"
   ],
   "#eedfde": [
-    "SOFTPEACH",
-    "SOFT PEACH"
+    "SOFTPEACH"
   ],
   "#eee8eb": [
     "MAGNOLIA"
@@ -7103,8 +6460,7 @@
     "FURRY LADY"
   ],
   "#fbeee8": [
-    "ROSEWHITE",
-    "ROSE WHITE"
+    "ROSEWHITE"
   ],
   "#f2f0e6": [
     "ALABASTER",
@@ -7117,8 +6473,7 @@
     "SAUVIGNON"
   ],
   "#f9e8e2": [
-    "WISPPINK",
-    "WISP PINK"
+    "WISPPINK"
   ],
   "#f2e6dd": [
     "FANTASY"
@@ -7127,31 +6482,25 @@
     "CHARDON"
   ],
   "#f8ebdd": [
-    "BRIDALHEATH",
-    "BRIDAL HEATH"
+    "BRIDALHEATH"
   ],
   "#f1ead7": [
-    "HALFPEARLLUSTA",
-    "HALF PEARL LUSTA"
+    "HALFPEARLLUSTA"
   ],
   "#f1ebda": [
-    "BUTTERYWHITE",
-    "BUTTERY WHITE"
+    "BUTTERYWHITE"
   ],
   "#f1ebd9": [
-    "ORCHIDWHITE",
-    "ORCHID WHITE"
+    "ORCHIDWHITE"
   ],
   "#f4efe0": [
     "BIANCA"
   ],
   "#f2eddd": [
-    "QUARTERPEARLLUSTA",
-    "QUARTER PEARL LUSTA"
+    "QUARTERPEARLLUSTA"
   ],
   "#f8eddb": [
-    "ISLANDSPICE",
-    "ISLAND SPICE"
+    "ISLANDSPICE"
   ],
   "#fce9d7": [
     "SERENADE"
@@ -7160,28 +6509,24 @@
     "VARDEN"
   ],
   "#f8eaca": [
-    "GINFIZZ",
-    "GIN FIZZ"
+    "GINFIZZ"
   ],
   "#f7f0db": [
-    "APRICOTWHITE",
-    "APRICOT WHITE"
+    "APRICOTWHITE"
   ],
   "#fbf2db": [
     "EARLYDAWN",
     "BARLEY GROATS"
   ],
   "#fbf0d6": [
-    "HALFDUTCHWHITE",
-    "HALF DUTCH WHITE"
+    "HALFDUTCHWHITE"
   ],
   "#fdefdb": [
     "FORGETMENOT",
     "SILKIE CHICKEN"
   ],
   "#f9f7de": [
-    "CHILEANHEATH",
-    "CHILEAN HEATH"
+    "CHILEANHEATH"
   ],
   "#f8f6df": [
     "PROMENADE"
@@ -7191,21 +6536,17 @@
     "ETERNAL WHITE"
   ],
   "#f1edd4": [
-    "RUMSWIZZLE",
-    "RUM SWIZZLE"
+    "RUMSWIZZLE"
   ],
   "#fbf3d3": [
-    "CHINAIVORY",
-    "CHINA IVORY"
+    "CHINAIVORY"
   ],
   "#f5f3ce": [
     "MOONGLOW",
-    "Y33 PALE PRIMROSE",
-    "MOON GLOW"
+    "Y33 PALE PRIMROSE"
   ],
   "#f8f6d8": [
-    "WHITENECTAR",
-    "WHITE NECTAR"
+    "WHITENECTAR"
   ],
   "#f6f5d7": [
     "HINTOFYELLOW",
@@ -7215,8 +6556,7 @@
     "PANACHE"
   ],
   "#e8f3e8": [
-    "AQUASPRING",
-    "AQUA SPRING"
+    "AQUASPRING"
   ],
   "#eef3e5": [
     "SALTPAN"
@@ -7226,12 +6566,10 @@
     "ANGRAECUM ORCHID"
   ],
   "#eeefdf": [
-    "SUGARCANE",
-    "SUGAR CANE"
+    "SUGARCANE"
   ],
   "#efecde": [
-    "RICECAKE",
-    "RICE CAKE"
+    "RICECAKE"
   ],
   "#e7f2e9": [
     "DEW"
@@ -7240,8 +6578,7 @@
     "POLAR"
   ],
   "#dfe6cf": [
-    "WILLOWBROOK",
-    "WILLOW BROOK"
+    "WILLOWBROOK"
   ],
   "#dbe5d2": [
     "FROSTEE"
@@ -7251,36 +6588,28 @@
     "FROZEN GRASS"
   ],
   "#dae6dd": [
-    "SWANSDOWN",
-    "SWANS DOWN"
+    "SWANSDOWN"
   ],
   "#dbe4dc": [
-    "AQUASQUEEZE",
-    "AQUA SQUEEZE"
+    "AQUASQUEEZE"
   ],
   "#e0e4dc": [
-    "CATSKILLWHITE",
-    "CATSKILL WHITE"
+    "CATSKILLWHITE"
   ],
   "#e5e6df": [
-    "BLACKSQUEEZE",
-    "BLACK SQUEEZE"
+    "BLACKSQUEEZE"
   ],
   "#e3e3dc": [
-    "SNOWDRIFT",
-    "SNOW DRIFT"
+    "SNOWDRIFT"
   ],
   "#e5e4db": [
-    "BLACKWHITE",
-    "BLACK WHITE"
+    "BLACKWHITE"
   ],
   "#deddcb": [
-    "GREENWHITE",
-    "GREEN WHITE"
+    "GREENWHITE"
   ],
   "#d9ddd5": [
-    "AQUAHAZE",
-    "AQUA HAZE"
+    "AQUAHAZE"
   ],
   "#d9dfcd": [
     "GIN"
@@ -7292,20 +6621,17 @@
     "FROST"
   ],
   "#e1dabb": [
-    "COCONUTCREAM",
-    "COCONUT CREAM"
+    "COCONUTCREAM"
   ],
   "#eee7c8": [
-    "SCOTCHMIST",
-    "SCOTCH MIST"
+    "SCOTCHMIST"
   ],
   "#ede7c8": [
     "HALFANDHALF",
     "PIECE OF CAKE"
   ],
   "#eae3cd": [
-    "ORANGEWHITE",
-    "ORANGE WHITE"
+    "ORANGEWHITE"
   ],
   "#e2ddc7": [
     "TRAVERTINE"
@@ -7315,24 +6641,19 @@
     "PINE NUT"
   ],
   "#e6dbc7": [
-    "HALFSPANISHWHITE",
-    "HALF SPANISH WHITE"
+    "HALFSPANISHWHITE"
   ],
   "#eae0c8": [
-    "PEARLLUSTA",
-    "PEARL"
+    "PEARLLUSTA"
   ],
   "#f5e6c4": [
-    "PIPI",
-    "PIPITSCHAH"
+    "PIPI"
   ],
   "#e9dcbe": [
-    "DOUBLEPEARLLUSTA",
-    "DOUBLE PEARL LUSTA"
+    "DOUBLEPEARLLUSTA"
   ],
   "#f9e4c5": [
-    "EGGSOUR",
-    "EGG SOUR"
+    "EGGSOUR"
   ],
   "#f9e4c6": [
     "DERBY"
@@ -7341,31 +6662,26 @@
     "SAZERAC"
   ],
   "#e1dacb": [
-    "ALBESCENTWHITE",
-    "ALBESCENT WHITE"
+    "ALBESCENTWHITE"
   ],
   "#ebe2d2": [
-    "QUARTERSPANISHWHITE",
-    "QUARTER SPANISH WHITE"
+    "QUARTERSPANISHWHITE"
   ],
   "#ebe1ce": [
-    "BLEACHWHITE",
-    "BLEACH WHITE"
+    "BLEACHWHITE"
   ],
   "#ebe5d5": [
     "CARARRA",
     "DIFFUSED LIGHT"
   ],
   "#f3e5dc": [
-    "FAIRPINK",
-    "FAIR PINK"
+    "FAIRPINK"
   ],
   "#eae4dc": [
     "PAMPAS"
   ],
   "#ede7e0": [
-    "DESERTSTORM",
-    "DESERT STORM"
+    "DESERTSTORM"
   ],
   "#eee7dc": [
     "WHITELINEN",
@@ -7378,41 +6694,32 @@
     "NARVIK"
   ],
   "#e7e4de": [
-    "WILDSAND",
-    "WILD SAND"
+    "WILDSAND"
   ],
   "#e4e2dc": [
-    "WANWHITE",
-    "WAN WHITE"
+    "WANWHITE"
   ],
   "#e9e1d9": [
-    "SPRINGWOOD",
-    "SPRING WOOD"
+    "SPRINGWOOD"
   ],
   "#e3dfd9": [
-    "VISTAWHITE",
-    "VISTA WHITE"
+    "VISTAWHITE"
   ],
   "#e0ded7": [
-    "BLACKHAZE",
-    "BLACK HAZE"
+    "BLACKHAZE"
   ],
   "#dfddd6": [
     "CERAMIC",
-    "HINTOFGREY",
-    "SEAFOG",
     "SEA FOG"
   ],
   "#dcd9cd": [
-    "MILKWHITE",
-    "MILK WHITE"
+    "MILKWHITE"
   ],
   "#e1dbd0": [
     "MERINO"
   ],
   "#e6d6cd": [
-    "DAWNPINK",
-    "DAWN PINK"
+    "DAWNPINK"
   ],
   "#e6d8d4": [
     "EBB"
@@ -7428,8 +6735,7 @@
     "GALLERY"
   ],
   "#dad6cc": [
-    "WHITEPOINTER",
-    "WHITE POINTER"
+    "WHITEPOINTER"
   ],
   "#d7cec5": [
     "SWIRL"
@@ -7442,19 +6748,16 @@
     "COOL CONCRETE"
   ],
   "#ded1c6": [
-    "PEARLBUSH",
-    "PEARL BUSH"
+    "PEARLBUSH"
   ],
   "#e6d6b8": [
     "ROCKSALT"
   ],
   "#d5cbb2": [
-    "ATHSSPECIAL",
-    "ATHS SPECIAL"
+    "ATHSSPECIAL"
   ],
   "#ded1b7": [
     "JANNA",
-    "SPANISHWHITE",
     "SPANISH WHITE"
   ],
   "#dfd7bd": [
@@ -7464,8 +6767,7 @@
     "LOAFER"
   ],
   "#d4cfb4": [
-    "WHITEROCK",
-    "WHITE ROCK"
+    "WHITEROCK"
   ],
   "#d2d3b3": [
     "ORINOCO"
@@ -7474,32 +6776,26 @@
     "OTTOMAN"
   ],
   "#d1d3cc": [
-    "GREYNURSE",
-    "GREY NURSE"
+    "GREYNURSE"
   ],
   "#d6d1c0": [
-    "ECRUWHITE",
-    "JOANNA",
-    "ECRU WHITE"
+    "ECRUWHITE"
   ],
   "#d2d2c0": [
     "CELESTE",
     "400XT FILM"
   ],
   "#cecdb8": [
-    "MOONMIST",
-    "MOON MIST"
+    "MOONMIST"
   ],
   "#cbcec0": [
     "HARP"
   ],
   "#bfcdc0": [
-    "PARISWHITE",
-    "PARIS WHITE"
+    "PARISWHITE"
   ],
   "#cac7b7": [
-    "CHROMEWHITE",
-    "CHROME WHITE"
+    "CHROMEWHITE"
   ],
   "#c5c3b0": [
     "KANGAROO"
@@ -7514,40 +6810,33 @@
     "TASMAN"
   ],
   "#bcbfa8": [
-    "BERYLGREEN",
-    "BERYL GREEN"
+    "BERYLGREEN"
   ],
   "#d0c8b0": [
     "PARCHMENT",
     "KITSILANO COOKIE"
   ],
   "#d2c3a3": [
-    "DOUBLESPANISHWHITE",
-    "DOUBLE SPANISH WHITE"
+    "DOUBLESPANISHWHITE"
   ],
   "#cfbea5": [
-    "SOFTAMBER",
-    "SOFT AMBER"
+    "SOFTAMBER"
   ],
   "#d2c6b6": [
-    "STARKWHITE",
-    "STARK WHITE"
+    "STARKWHITE"
   ],
   "#cbc9c0": [
-    "QUILLGREY",
-    "QUILL GREY"
+    "QUILLGREY"
   ],
   "#bebdb6": [
-    "SILVERSAND",
-    "SILVER SAND"
+    "SILVERSAND"
   ],
   "#c2bcb1": [
     "CLOUD",
     "CLOUD OVER LONDON"
   ],
   "#bfbdc1": [
-    "FRENCHGREY",
-    "FRENCH GREY"
+    "FRENCHGREY"
   ],
   "#c0bfc7": [
     "GHOST"
@@ -7571,16 +6860,13 @@
     "DAY ON MERCURY"
   ],
   "#ddd6e1": [
-    "TITANWHITE",
-    "TITAN WHITE"
+    "TITANWHITE"
   ],
   "#c7cdd8": [
-    "LINKWATER",
-    "LINK WATER"
+    "LINKWATER"
   ],
   "#bdbace": [
-    "BLUEHAZE",
-    "BLUE HAZE"
+    "BLUEHAZE"
   ],
   "#b3c4d8": [
     "SPINDLE"
@@ -7596,8 +6882,7 @@
     "NEBULA"
   ],
   "#b0c4c4": [
-    "JUNGLEMIST",
-    "JUNGLE MIST"
+    "JUNGLEMIST"
   ],
   "#b9c3be": [
     "TIARA"
@@ -7607,20 +6892,16 @@
     "Y\u0100N H\u016aI SMOKE"
   ],
   "#bbd0c9": [
-    "JETSTREAM",
-    "JET STREAM"
+    "JETSTREAM"
   ],
   "#a4d2e0": [
-    "FRENCHPASS",
-    "FRENCH PASS"
+    "FRENCHPASS"
   ],
   "#a0cdd9": [
-    "REGENTSTBLUE",
-    "REGENT ST BLUE"
+    "REGENTSTBLUE"
   ],
   "#9ed1d3": [
-    "MORNINGGLORY",
-    "MORNING GLORY"
+    "MORNINGGLORY"
   ],
   "#a4dce6": [
     "CHARLOTTE"
@@ -7639,8 +6920,7 @@
     "SCANDAL"
   ],
   "#acc9b2": [
-    "GUMLEAF",
-    "GUM LEAF"
+    "GUMLEAF"
   ],
   "#b2c6b1": [
     "ZANAH"
@@ -7649,8 +6929,7 @@
     "RAINEE"
   ],
   "#c3d6bd": [
-    "SURFCREST",
-    "SURF CREST"
+    "SURFCREST"
   ],
   "#c2d5c4": [
     "SEAMIST",
@@ -7663,16 +6942,13 @@
     "SURF"
   ],
   "#bbcda5": [
-    "PIXIEGREEN",
-    "PIXIE GREEN"
+    "PIXIEGREEN"
   ],
   "#bdcaa8": [
-    "PALELEAF",
-    "PALE LEAF"
+    "PALELEAF"
   ],
   "#a3bd9c": [
-    "SPRINGRAIN",
-    "SPRING RAIN"
+    "SPRINGRAIN"
   ],
   "#8ba58f": [
     "ENVY"
@@ -7681,16 +6957,13 @@
     "MANTLE"
   ],
   "#8fb69c": [
-    "SUMMERGREEN",
-    "SUMMER GREEN"
+    "SUMMERGREEN"
   ],
   "#9ac0b6": [
-    "SHADOWGREEN",
-    "SHADOW GREEN"
+    "SHADOWGREEN"
   ],
   "#8aaea4": [
-    "SEANYMPH",
-    "SEA NYMPH"
+    "SEANYMPH"
   ],
   "#77a8ab": [
     "NEPTUNE",
@@ -7714,12 +6987,10 @@
     "LOBLOLLY"
   ],
   "#acb6b2": [
-    "PERIGLACIALBLUE",
-    "PERIGLACIAL BLUE"
+    "PERIGLACIALBLUE"
   ],
   "#acaea9": [
-    "SILVERCHALICE",
-    "SILVER CHALICE"
+    "SILVERCHALICE"
   ],
   "#aab5b8": [
     "CASPER"
@@ -7728,16 +6999,14 @@
     "CONCH"
   ],
   "#9caca5": [
-    "TOWERGREY",
-    "TOWER GREY"
+    "TOWERGREY"
   ],
   "#a1a9a8": [
     "HITGREY",
     "SHINY ARMOR"
   ],
   "#a4adb0": [
-    "GULLGREY",
-    "GULL GREY"
+    "GULLGREY"
   ],
   "#92acb4": [
     "BOTTICELLI"
@@ -7746,22 +7015,19 @@
     "NEPAL"
   ],
   "#a2a1ac": [
-    "SPUNPEARL",
-    "SPUN PEARL"
+    "SPUNPEARL"
   ],
   "#a5a9b2": [
     "MISCHKA"
   ],
   "#9fa3a7": [
-    "GREYCHATEAU",
-    "GREY CHATEAU"
+    "GREYCHATEAU"
   ],
   "#a99d9d": [
     "NOBEL"
   ],
   "#a09f9c": [
-    "MOUNTAINMIST",
-    "MOUNTAIN MIST"
+    "MOUNTAINMIST"
   ],
   "#b3abb6": [
     "CHATELLE"
@@ -7770,15 +7036,13 @@
     "BOMBAY"
   ],
   "#bfb3b2": [
-    "PINKSWAN",
-    "PINK SWAN"
+    "PINKSWAN"
   ],
   "#beb4ab": [
     "TIDE"
   ],
   "#bfbaaf": [
-    "COTTONSEED",
-    "COTTON SEED"
+    "COTTONSEED"
   ],
   "#bdbaae": [
     "GREYNICKEL",
@@ -7788,8 +7052,7 @@
     "SILK"
   ],
   "#cab8a2": [
-    "GRAINBROWN",
-    "GRAIN BROWN"
+    "GRAINBROWN"
   ],
   "#ccb69b": [
     "VANILLA",
@@ -7824,15 +7087,13 @@
     "TANA"
   ],
   "#a9af99": [
-    "GREENSPRING",
-    "GREEN SPRING"
+    "GREENSPRING"
   ],
   "#9eaa9e": [
     "ROBINSEGGBLUE"
   ],
   "#a7a69d": [
-    "FOGGYGREY",
-    "FOGGY GREY"
+    "FOGGYGREY"
   ],
   "#a0a197": [
     "STARDUST",
@@ -7846,15 +7107,13 @@
     "BUD"
   ],
   "#aaa583": [
-    "NEUTRALGREEN",
-    "NEUTRAL GREEN"
+    "NEUTRALGREEN"
   ],
   "#b0ac94": [
     "EAGLE"
   ],
   "#b5ac94": [
-    "BISONHIDE",
-    "BISON HIDE"
+    "BISONHIDE"
   ],
   "#b7a8a3": [
     "MARTINI"
@@ -7885,8 +7144,7 @@
     "GURKHA"
   ],
   "#a19a7f": [
-    "GREYOLIVE",
-    "GREY OLIVE"
+    "GREYOLIVE"
   ],
   "#999b95": [
     "DELTA"
@@ -7895,8 +7153,7 @@
     "DAWN"
   ],
   "#999a86": [
-    "LEMONGRASS",
-    "LEMON GRASS"
+    "LEMONGRASS"
   ],
   "#87876f": [
     "SCHIST"
@@ -7908,8 +7165,7 @@
     "BANDICOOT"
   ],
   "#9c8d72": [
-    "PALEOYSTER",
-    "PALE OYSTER"
+    "PALEOYSTER"
   ],
   "#8d8478": [
     "SCHOONER"
@@ -7933,8 +7189,7 @@
     "JUMBO"
   ],
   "#9f9b9d": [
-    "SHADYLADY",
-    "SHADY LADY"
+    "SHADYLADY"
   ],
   "#9391a0": [
     "GREYSUIT"
@@ -7944,15 +7199,13 @@
     "LAVENDER ASH"
   ],
   "#849ca9": [
-    "BALIHAI",
-    "BALI HAI"
+    "BALIHAI"
   ],
   "#929fa2": [
     "POWDERBLUE"
   ],
   "#8c9c9c": [
-    "SUBMARINE",
-    "BOREDOM"
+    "SUBMARINE"
   ],
   "#858885": [
     "STACK"
@@ -7965,8 +7218,7 @@
     "GUMBO"
   ],
   "#7b948c": [
-    "GRANNYSMITH",
-    "GRANNY SMITH"
+    "GRANNYSMITH"
   ],
   "#74918e": [
     "JUNIPER"
@@ -7978,15 +7230,13 @@
     "GOTHIC"
   ],
   "#558f93": [
-    "HALFBAKED",
-    "HALF BAKED"
+    "HALFBAKED"
   ],
   "#639283": [
     "PATINA"
   ],
   "#7b8976": [
-    "SPANISHGREEN",
-    "SPANISH GREEN"
+    "SPANISHGREEN"
   ],
   "#91a092": [
     "PEWTER"
@@ -8008,24 +7258,20 @@
     "ACAPULCO"
   ],
   "#74b2a8": [
-    "GULFSTREAM",
-    "GULF STREAM"
+    "GULFSTREAM"
   ],
   "#6dafa7": [
     "TRADEWIND",
     "TURQUOISE FANTASIES"
   ],
   "#7ac5b4": [
-    "MONTECARLO",
-    "MONTE CARLO"
+    "MONTECARLO"
   ],
   "#65adb2": [
-    "FOUNTAINBLUE",
-    "FOUNTAIN BLUE"
+    "FOUNTAINBLUE"
   ],
   "#408f90": [
-    "BLUECHILL",
-    "BLUE CHILL"
+    "BLUECHILL"
   ],
   "#489084": [
     "LOCHINVAR"
@@ -8037,12 +7283,10 @@
     "KEPPEL"
   ],
   "#59baa3": [
-    "PUERTORICO",
-    "PUERTO RICO"
+    "PUERTORICO"
   ],
   "#67be90": [
-    "SILVERTREE",
-    "SILVER TREE"
+    "SILVERTREE"
   ],
   "#29a98b": [
     "NIAGARA"
@@ -8054,16 +7298,14 @@
     "EUCALYPTUS"
   ],
   "#419f59": [
-    "CHATEAUGREEN",
-    "CHATEAU GREEN"
+    "CHATEAUGREEN"
   ],
   "#4ca973": [
     "OCEANGREEN",
     "S\u0112N L\u00cdN L\u01db FOREST"
   ],
   "#85ca87": [
-    "DEYORK",
-    "DE YORK"
+    "DEYORK"
   ],
   "#7fc15c": [
     "MANTIS",
@@ -8074,23 +7316,20 @@
     "SOUR CANDY"
   ],
   "#4ba351": [
-    "FRUITSALAD",
-    "FRUIT SALAD"
+    "FRUITSALAD"
   ],
   "#5f9228": [
     "VIDALOCA",
     "PONT MOSS"
   ],
   "#88a95b": [
-    "CHELSEACUCUMBER",
-    "CHELSEA CUCUMBER"
+    "CHELSEACUCUMBER"
   ],
   "#7a9461": [
     "HIGHLAND"
   ],
   "#95986b": [
-    "AVOCADO",
-    "GUACAMOLE"
+    "AVOCADO"
   ],
   "#989f7a": [
     "SAGE",
@@ -8104,16 +7343,13 @@
     "WASABI NUTS"
   ],
   "#928c3c": [
-    "HIGHBALL",
-    "SYCAMORE"
+    "HIGHBALL"
   ],
   "#968428": [
-    "LEMONGINGER",
-    "LEMON GINGER"
+    "LEMONGINGER"
   ],
   "#a98d36": [
-    "REEFGOLD",
-    "REEF GOLD"
+    "REEFGOLD"
   ],
   "#ad8a3b": [
     "ALPINE"
@@ -8128,16 +7364,14 @@
     "TURMERIC"
   ],
   "#ab8d3f": [
-    "LUXORGOLD",
-    "LUXOR GOLD"
+    "LUXORGOLD"
   ],
   "#97976f": [
     "MALACHITEGREEN",
     "SILK ROAD"
   ],
   "#a39977": [
-    "CANVAS",
-    "TALLOW"
+    "CANVAS"
   ],
   "#baab87": [
     "PAVLOVA"
@@ -8173,8 +7407,7 @@
     "PEASOUP"
   ],
   "#9ca664": [
-    "GREENSMOKE",
-    "GREEN SMOKE"
+    "GREENSMOKE"
   ],
   "#a2a580": [
     "LOCUST"
@@ -8186,12 +7419,10 @@
     "SPROUT"
   ],
   "#bfc298": [
-    "GREENMIST",
-    "GREEN MIST"
+    "GREENMIST"
   ],
   "#bdc07e": [
-    "PINEGLADE",
-    "PINE GLADE"
+    "PINEGLADE"
   ],
   "#e3d474": [
     "WILDRICE",
@@ -8213,8 +7444,7 @@
     "MARZIPAN"
   ],
   "#e4c385": [
-    "NEWORLEANS",
-    "NEW ORLEANS"
+    "NEWORLEANS"
   ],
   "#dfc281": [
     "CHALKY"
@@ -8224,8 +7454,7 @@
     "CARAMEL MILK"
   ],
   "#dabe82": [
-    "STRAW",
-    "VERMICELLES"
+    "STRAW"
   ],
   "#dcc6a0": [
     "RAFFIA"
@@ -8234,23 +7463,20 @@
     "THISTLE"
   ],
   "#d0c383": [
-    "WINTERHAZEL",
-    "WINTER HAZEL"
+    "WINTERHAZEL"
   ],
   "#e0d8a7": [
     "MINTJULEP",
     "BUCKWHEAT GROATS"
   ],
   "#d8cc9b": [
-    "TAHUNASANDS",
-    "TAHUNA SANDS"
+    "TAHUNASANDS"
   ],
   "#e1d5a6": [
     "SAPLING"
   ],
   "#e9d7ab": [
-    "BEESWAX",
-    "COLONIALWHITE"
+    "BEESWAX"
   ],
   "#edd5a6": [
     "ASTRA"
@@ -8259,8 +7485,7 @@
     "GIVRY"
   ],
   "#edd2a4": [
-    "DAIRYCREAM",
-    "DAIRY CREAM"
+    "DAIRYCREAM"
   ],
   "#e8d4a2": [
     "HAMPTON"
@@ -8283,15 +7508,13 @@
     "SUN DUST"
   ],
   "#fee0a5": [
-    "CAPEHONEY",
-    "CAPE HONEY"
+    "CAPEHONEY"
   ],
   "#fbe5c2": [
     "PEACH"
   ],
   "#f3d7b6": [
-    "PINKLADY",
-    "PINK LADY"
+    "PINKLADY"
   ],
   "#eed9b6": [
     "CHAMPAGNE",
@@ -8299,7 +7522,6 @@
   ],
   "#f0dfbb": [
     "BAJAWHITE",
-    "DUTCHWHITE",
     "DUTCH WHITE"
   ],
   "#f3e5c0": [
@@ -8307,8 +7529,7 @@
     "SCROLL OF WISDOM"
   ],
   "#f7e5b7": [
-    "BARLEYWHITE",
-    "BARLEY WHITE"
+    "BARLEYWHITE"
   ],
   "#e9d9a9": [
     "SIDECAR"
@@ -8318,12 +7539,10 @@
     "CREAMY VANILLA"
   ],
   "#f8f3c4": [
-    "CORNFIELD",
-    "CORN FIELD"
+    "CORNFIELD"
   ],
   "#f1f1c6": [
-    "SPRINGSUN",
-    "SPRING SUN"
+    "SPRINGSUN"
   ],
   "#f5f5cc": [
     "MIMOSA",
@@ -8341,12 +7560,10 @@
     "SALOMIE"
   ],
   "#f9d77e": [
-    "GOLDENGLOW",
-    "GOLDEN GLOW"
+    "GOLDENGLOW"
   ],
   "#f9e496": [
-    "VISVIS",
-    "VIS VIS"
+    "VISVIS"
   ],
   "#f8ea97": [
     "PICASSO"
@@ -8362,8 +7579,7 @@
     "SHALIMAR"
   ],
   "#f4f09b": [
-    "PORTAFINO",
-    "PORTOFINO"
+    "PORTAFINO"
   ],
   "#e4de8e": [
     "PRIMROSE",
@@ -8379,8 +7595,7 @@
     "JONQUIL"
   ],
   "#eff8aa": [
-    "AUSTRALIANMINT",
-    "AUSTRALIAN MINT"
+    "AUSTRALIANMINT"
   ],
   "#f0f5bb": [
     "CHIFFON"
@@ -8396,8 +7611,7 @@
     "COCOA BUTTER"
   ],
   "#eaf7c9": [
-    "SNOWFLURRY",
-    "SNOW FLURRY"
+    "SNOWFLURRY"
   ],
   "#b7e3a8": [
     "MADANG"
@@ -8429,34 +7643,29 @@
     "LIME"
   ],
   "#b7c61a": [
-    "RIOGRANDE",
-    "RIO GRANDE"
+    "RIOGRANDE"
   ],
   "#c6da36": [
-    "LASPALMAS",
-    "LAS PALMAS"
+    "LASPALMAS"
   ],
   "#c2d62e": [
     "FUEGO",
     "FUEGO VERDE"
   ],
   "#d2db32": [
-    "BITTERLEMON",
-    "BITTER LEMON"
+    "BITTERLEMON"
   ],
   "#fde336": [
     "GORSE"
   ],
   "#ebde31": [
-    "GOLDENFIZZ",
-    "GOLDEN FIZZ"
+    "GOLDENFIZZ"
   ],
   "#e2e64d": [
     "CANARY"
   ],
   "#fbeb50": [
-    "PARISDAISY",
-    "PARIS DAISY"
+    "PARISDAISY"
   ],
   "#f5f171": [
     "DOLLY"
@@ -8472,41 +7681,34 @@
     "WITCH HAZEL"
   ],
   "#f9e176": [
-    "SWEETCORN",
-    "SWEET CORN"
+    "SWEETCORN"
   ],
   "#f5cc23": [
     "TURBO"
   ],
   "#f1cc2b": [
-    "GOLDENDREAM",
-    "GOLDEN DREAM"
+    "GOLDENDREAM"
   ],
   "#eecc24": [
     "BROOM"
   ],
   "#f5d752": [
-    "ENERGYYELLOW",
-    "ENERGY YELLOW"
+    "ENERGYYELLOW"
   ],
   "#eacc4a": [
     "FESTIVAL"
   ],
   "#dac01a": [
-    "SUNFLOWER",
-    "ZINGIBER"
+    "SUNFLOWER"
   ],
   "#f0c420": [
-    "MOONYELLOW",
-    "MOON YELLOW"
+    "MOONYELLOW"
   ],
   "#ecbd2c": [
-    "BRIGHTSUN",
-    "BRIGHT SUN"
+    "BRIGHTSUN"
   ],
   "#eec051": [
-    "CREAMCAN",
-    "CREAM CAN"
+    "CREAMCAN"
   ],
   "#f9d054": [
     "KOURNIKOVA"
@@ -8515,8 +7717,7 @@
     "CREMEDEBANANE"
   ],
   "#eace6a": [
-    "GOLDENSAND",
-    "GOLDEN SAND"
+    "GOLDENSAND"
   ],
   "#f0d555": [
     "PORTICA"
@@ -8528,8 +7729,7 @@
     "MANZ"
   ],
   "#beca60": [
-    "WILDWILLOW",
-    "WILD WILLOW"
+    "WILDWILLOW"
   ],
   "#d6ca3d": [
     "WATTLE"
@@ -8538,27 +7738,23 @@
     "STARSHIP"
   ],
   "#d0c117": [
-    "BIRDFLOWER",
-    "BIRD FLOWER"
+    "BIRDFLOWER"
   ],
   "#d2c61f": [
     "BARBERRY",
     "BARBERRY BUSH"
   ],
   "#b8a722": [
-    "EARLSGREEN",
-    "EARLS GREEN"
+    "EARLSGREEN"
   ],
   "#c4aa4d": [
-    "SUNDANCE",
-    "SUN DANCE"
+    "SUNDANCE"
   ],
   "#d9b220": [
     "LEMON"
   ],
   "#bc9b1b": [
-    "BUDDHAGOLD",
-    "BUDDHA GOLD"
+    "BUDDHAGOLD"
   ],
   "#b79826": [
     "SAHARA"
@@ -8570,12 +7766,10 @@
     "LUCKY"
   ],
   "#8e9a21": [
-    "CITRON",
-    "LIMETTA"
+    "CITRON"
   ],
   "#bac00e": [
-    "LARIOJA",
-    "LA RIOJA"
+    "LARIOJA"
   ],
   "#a9c01c": [
     "BAHIA"
@@ -8607,27 +7801,22 @@
     "CAMARONE"
   ],
   "#2c6e31": [
-    "SANFELIX",
-    "SAN FELIX"
+    "SANFELIX"
   ],
   "#2f7532": [
-    "JAPANESELAUREL",
-    "JAPANESE LAUREL"
+    "JAPANESELAUREL"
   ],
   "#3e8027": [
     "BILBAO"
   ],
   "#428929": [
-    "LAPALMA",
-    "LA PALMA"
+    "LAPALMA"
   ],
   "#5f8151": [
-    "GLADEGREEN",
-    "GLADE GREEN"
+    "GLADEGREEN"
   ],
   "#608a5a": [
-    "HIPPIEGREEN",
-    "HIPPIE GREEN"
+    "HIPPIEGREEN"
   ],
   "#607c47": [
     "DINGLEY"
@@ -8636,8 +7825,7 @@
     "DELL"
   ],
   "#526b2d": [
-    "GREENLEAF",
-    "GREEN LEAF"
+    "GREENLEAF"
   ],
   "#3e6334": [
     "GREENHOUSE"
@@ -8646,49 +7834,41 @@
     "FERN"
   ],
   "#48531a": [
-    "VERDUNGREEN",
-    "VERDUN GREEN"
+    "VERDUNGREEN"
   ],
   "#575e2e": [
     "FERNFROND"
   ],
   "#47562f": [
-    "CLOVER",
-    "TREFOIL"
+    "CLOVER"
   ],
   "#555b2c": [
     "SARATOGA"
   ],
   "#5a6e41": [
-    "CHALETGREEN",
-    "CHALET GREEN"
+    "CHALETGREEN"
   ],
   "#636f22": [
-    "FIJIGREEN",
-    "FIJI GREEN"
+    "FIJIGREEN"
   ],
   "#667028": [
     "PACIFIKA",
-    "RAINFOREST",
     "FOREST SPIRIT"
   ],
   "#747028": [
     "OLIVETONE"
   ],
   "#7e8424": [
-    "TRENDYGREEN",
-    "TRENDY GREEN"
+    "TRENDYGREEN"
   ],
   "#676927": [
     "PISTACHIO"
   ],
   "#826a21": [
-    "YUKONGOLD",
-    "YUKON GOLD"
+    "YUKONGOLD"
   ],
   "#7a7229": [
     "GRASSHOPPER",
-    "PESTO",
     "WOOD GARLIC"
   ],
   "#77712b": [
@@ -8698,59 +7878,47 @@
     "MUSTARD"
   ],
   "#8d702a": [
-    "CORNHARVEST",
-    "STINGER",
-    "CORN HARVEST"
+    "CORNHARVEST"
   ],
   "#897e59": [
-    "CLAYCREEK",
-    "CLAY CREEK"
+    "CLAYCREEK"
   ],
   "#828562": [
     "FLAX"
   ],
   "#786e4c": [
-    "GOBEN",
-    "GO BEN"
+    "GOBEN"
   ],
   "#6b5b3d": [
     "LIMEDGUM"
   ],
   "#73633e": [
-    "YELLOWMETAL",
-    "YELLOW METAL"
+    "YELLOWMETAL"
   ],
   "#755b27": [
     "KUMERA"
   ],
   "#736330": [
-    "ACORN",
-    "HIMALAYA"
+    "ACORN"
   ],
   "#625d2a": [
-    "COSTADELSOL",
-    "PLANTER",
-    "COSTA DEL SOL"
+    "COSTADELSOL"
   ],
   "#62603e": [
     "VERDIGRIS",
     "VERDIGRIS FONC\u00c9"
   ],
   "#6d562c": [
-    "HORSESNECK",
-    "HORSES NECK"
+    "HORSESNECK"
   ],
   "#5c512f": [
-    "WESTCOAST",
-    "WEST COAST"
+    "WESTCOAST"
   ],
   "#584c25": [
-    "BRONZEOLIVE",
-    "BRONZE OLIVE"
+    "BRONZEOLIVE"
   ],
   "#434c28": [
-    "BRONZETONE",
-    "BRONZE TONE"
+    "BRONZETONE"
   ],
   "#363e1d": [
     "TURTLEGREEN",
@@ -8767,16 +7935,13 @@
     "DARKRIMU"
   ],
   "#6d3b24": [
-    "NEWAMBER",
-    "NEW AMBER"
+    "NEWAMBER"
   ],
   "#5b3a24": [
-    "CARNABYTAN",
-    "CARNABY TAN"
+    "CARNABYTAN"
   ],
   "#53331e": [
-    "BROWNBRAMBLE",
-    "BROWN BRAMBLE"
+    "BROWNBRAMBLE"
   ],
   "#50381e": [
     "SADDLEBROWN"
@@ -8785,8 +7950,7 @@
     "BRACKEN"
   ],
   "#62422b": [
-    "IRISHCOFFEE",
-    "IRISH COFFEE"
+    "IRISHCOFFEE"
   ],
   "#664a2d": [
     "DALLAS"
@@ -8795,16 +7959,13 @@
     "IRONBARK"
   ],
   "#6a4928": [
-    "CAFEROYALE",
-    "CAFE ROYALE"
+    "CAFEROYALE"
   ],
   "#6c461f": [
-    "ANTIQUEBRASS",
-    "ANTIQUE BRASS"
+    "ANTIQUEBRASS"
   ],
   "#75482f": [
-    "CAPEPALLISER",
-    "CAPE PALLISER"
+    "CAPEPALLISER"
   ],
   "#7d4e38": [
     "CIGAR"
@@ -8820,8 +7981,7 @@
     "NATURAL"
   ],
   "#745937": [
-    "SHINGLEFAWN",
-    "SHINGLE FAWN"
+    "SHINGLEFAWN"
   ],
   "#8c7254": [
     "LIMEDOAK"
@@ -8841,16 +8001,13 @@
     "AFGHAN CARPET"
   ],
   "#9d702e": [
-    "BUTTEREDRUM",
-    "BUTTERED RUM"
+    "BUTTEREDRUM"
   ],
   "#a7752c": [
-    "HOTTODDY",
-    "HOT TODDY"
+    "HOTTODDY"
   ],
   "#815b28": [
     "BRAZIL",
-    "HOTCURRY",
     "HOT CURRY"
   ],
   "#99522b": [
@@ -8858,8 +8015,7 @@
     "ANCIENT CHEST"
   ],
   "#b26e33": [
-    "RENOSAND",
-    "RENO SAND"
+    "RENOSAND"
   ],
   "#ba6f3f": [
     "BAMBOO"
@@ -8874,8 +8030,7 @@
     "PUMPKIN"
   ],
   "#a56531": [
-    "MAITAI",
-    "MAI TAI"
+    "MAITAI"
   ],
   "#a15226": [
     "RICHGOLD"
@@ -8894,20 +8049,17 @@
     "REDBEECH"
   ],
   "#ad6242": [
-    "TUSCANY",
-    "MARS"
+    "TUSCANY"
   ],
   "#a96a50": [
     "SANTEFE",
     "CEDAR PLANK SALMON"
   ],
   "#954e2c": [
-    "ALERTTAN",
-    "ALERT TAN"
+    "ALERTTAN"
   ],
   "#95532f": [
-    "CHELSEAGEM",
-    "CHELSEA GEM"
+    "CHELSEAGEM"
   ],
   "#8e593c": [
     "ROPE"
@@ -8916,15 +8068,13 @@
     "PAARL"
   ],
   "#884f40": [
-    "MULEFAWN",
-    "MULE FAWN"
+    "MULEFAWN"
   ],
   "#865040": [
     "IRONSTONE"
   ],
   "#77422c": [
-    "COPPERCANYON",
-    "COPPER CANYON"
+    "COPPERCANYON"
   ],
   "#7a4434": [
     "PEANUT"
@@ -8934,8 +8084,7 @@
     "OLD CUMIN"
   ],
   "#75442b": [
-    "BULLSHOT",
-    "BULL SHOT"
+    "BULLSHOT"
   ],
   "#7b482b": [
     "CINNAMON"
@@ -8944,8 +8093,7 @@
     "KORMA"
   ],
   "#883c32": [
-    "PRAIRIESAND",
-    "PRAIRIE SAND"
+    "PRAIRIESAND"
   ],
   "#87382f": [
     "CRABAPPLE"
@@ -8963,27 +8111,22 @@
     "FIRE"
   ],
   "#8e3537": [
-    "WELLREAD",
-    "WELL READ"
+    "WELLREAD"
   ],
   "#923830": [
     "THUNDERBIRD"
   ],
   "#9b3d3d": [
-    "MEXICANRED",
-    "MEXICAN RED"
+    "MEXICANRED"
   ],
   "#a14743": [
-    "ROOFTERRACOTTA",
-    "ROOF TERRACOTTA"
+    "ROOFTERRACOTTA"
   ],
   "#97422d": [
-    "TIAMARIA",
-    "TIA MARIA"
+    "TIAMARIA"
   ],
   "#9d442d": [
-    "ROCKSPRAY",
-    "ROCK SPRAY"
+    "ROCKSPRAY"
   ],
   "#9a463d": [
     "COGNAC",
@@ -9003,34 +8146,28 @@
     "SUNGLO"
   ],
   "#be5c48": [
-    "FLAMEPEA",
-    "FLAME PEA"
+    "FLAMEPEA"
   ],
   "#a85335": [
-    "ORANGEROUGHY",
-    "ORANGE ROUGHY"
+    "ORANGEROUGHY"
   ],
   "#a85533": [
     "VESUVIUS"
   ],
   "#b1592f": [
-    "FIERYORANGE",
-    "FIERY ORANGE"
+    "FIERYORANGE"
   ],
   "#ad522e": [
-    "REDSTAGE",
-    "RED STAGE"
+    "REDSTAGE"
   ],
   "#ac512d": [
-    "ROSEOFSHARON",
-    "ROSE OF SHARON"
+    "ROSEOFSHARON"
   ],
   "#c96138": [
     "ECSTASY"
   ],
   "#bb5f34": [
-    "SMOKETREE",
-    "SMOKE TREE"
+    "SMOKETREE"
   ],
   "#bf652e": [
     "CHRISTINE",
@@ -9040,8 +8177,7 @@
     "TANGERINE"
   ],
   "#d05e34": [
-    "CHILEANFIRE",
-    "CHILEAN FIRE"
+    "CHILEANFIRE"
   ],
   "#c14d36": [
     "GRENADIER"
@@ -9065,29 +8201,23 @@
     "PUNCH"
   ],
   "#9e3332": [
-    "MILANORED",
-    "MILANO RED"
+    "MILANORED"
   ],
   "#922a31": [
     "BRIGHTRED",
     "ANCIENT RED"
   ],
   "#952e31": [
-    "GUARDSMANRED",
-    "GUARDSMAN RED"
+    "GUARDSMANRED"
   ],
   "#86282e": [
-    "FLAMERED",
-    "MONZA",
-    "FLAME RED"
+    "FLAMERED"
   ],
   "#d56c30": [
-    "GOLDDROP",
-    "GOLD DROP"
+    "GOLDDROP"
   ],
   "#dc722a": [
-    "TAHITIGOLD",
-    "TAHITI GOLD"
+    "TAHITIGOLD"
   ],
   "#d46f31": [
     "TANGO"
@@ -9096,12 +8226,10 @@
     "PIZAZZ"
   ],
   "#e5823a": [
-    "WESTSIDE",
-    "WEST SIDE"
+    "WESTSIDE"
   ],
   "#e2813b": [
-    "TREEPOPPY",
-    "TREE POPPY"
+    "TREEPOPPY"
   ],
   "#ea8645": [
     "FLAMENCO"
@@ -9110,33 +8238,28 @@
     "SUN"
   ],
   "#ba782a": [
-    "PIRATEGOLD",
-    "PIRATE GOLD"
+    "PIRATEGOLD"
   ],
   "#c5832e": [
     "GEEBUNG"
   ],
   "#ca8136": [
-    "GOLDENBELL",
-    "GOLDEN BELL"
+    "GOLDENBELL"
   ],
   "#cd8431": [
     "DIXIE"
   ],
   "#d19033": [
-    "FUELYELLOW",
-    "FUEL YELLOW"
+    "FUELYELLOW"
   ],
   "#bb8e34": [
-    "HOKEYPOKEY",
-    "HOKEY POKEY"
+    "HOKEYPOKEY"
   ],
   "#bc9229": [
     "NUGGET"
   ],
   "#e2b227": [
-    "GOLDTIPS",
-    "GOLD TIPS"
+    "GOLDTIPS"
   ],
   "#d8a723": [
     "GALLIANO"
@@ -9145,12 +8268,10 @@
     "CORN"
   ],
   "#e3ac3d": [
-    "TULIPTREE",
-    "TULIP TREE"
+    "TULIPTREE"
   ],
   "#ddad56": [
-    "ROBROY",
-    "ROB ROY"
+    "ROBROY"
   ],
   "#dc9f45": [
     "SAFFRON"
@@ -9159,47 +8280,40 @@
     "CANDLELIGHT"
   ],
   "#f49f35": [
-    "YELLOWSEA",
-    "YELLOW SEA"
+    "YELLOWSEA"
   ],
   "#da9429": [
     "BUTTERCUP"
   ],
   "#e09842": [
-    "FIREBUSH",
-    "FIRE BUSH"
+    "FIREBUSH"
   ],
   "#fa9d49": [
     "SUNSHADE"
   ],
   "#ef9548": [
-    "SEABUCKTHORN",
-    "PHYSALIS"
+    "SEABUCKTHORN"
   ],
   "#e98c3a": [
     "CALIFORNIA"
   ],
   "#f7a233": [
-    "LIGHTNINGYELLOW",
-    "LIGHTNING YELLOW"
+    "LIGHTNINGYELLOW"
   ],
   "#fcae60": [
     "RAJAH"
   ],
   "#fcb057": [
-    "TEXASROSE",
-    "DUCKLING"
+    "TEXASROSE"
   ],
   "#fdae45": [
-    "MYSIN",
-    "MY SIN"
+    "MYSIN"
   ],
   "#feb552": [
     "KOROMIKO"
   ],
   "#ffc152": [
-    "GOLDENTAINOI",
-    "GOLDEN TAINOI"
+    "GOLDENTAINOI"
   ],
   "#f0b253": [
     "CASABLANCA"
@@ -9211,8 +8325,7 @@
     "GRANDIS"
   ],
   "#ffb437": [
-    "SUPERNOVA",
-    "CORONA"
+    "SUPERNOVA"
   ],
   "#ffd59a": [
     "CARAMEL",
@@ -9248,35 +8361,29 @@
     "CORVETTE"
   ],
   "#ffc878": [
-    "CHARDONNAY",
-    "MEAD"
+    "CHARDONNAY"
   ],
   "#eab76a": [
-    "HARVESTGOLD",
-    "HARVEST GOLD"
+    "HARVESTGOLD"
   ],
   "#f6ae78": [
     "TACAO"
   ],
   "#f5b799": [
-    "MANDYSPINK",
-    "MANDYS PINK"
+    "MANDYSPINK"
   ],
   "#eeb39e": [
-    "WAXFLOWER",
-    "WAX FLOWER"
+    "WAXFLOWER"
   ],
   "#feab9a": [
     "ROSEBUD",
     "PINK ROSE BUD"
   ],
   "#e79e88": [
-    "TONYSPINK",
-    "TONYS PINK"
+    "TONYSPINK"
   ],
   "#fda470": [
-    "HITPINK",
-    "HIT PINK"
+    "HITPINK"
   ],
   "#e48f67": [
     "APRICOT"
@@ -9286,7 +8393,6 @@
   ],
   "#d4915d": [
     "DISERRIA",
-    "WHISKEYSOUR",
     "WHISKEY SOUR"
   ],
   "#d29062": [
@@ -9306,20 +8412,16 @@
     "MANHATTAN"
   ],
   "#cca483": [
-    "CAMEO",
-    "KAMUT"
+    "CAMEO"
   ],
   "#c7a384": [
-    "RODEODUST",
-    "RODEO DUST"
+    "RODEODUST"
   ],
   "#b6935c": [
-    "BARLEYCORN",
-    "BARLEY CORN"
+    "BARLEYCORN"
   ],
   "#9d7f61": [
-    "SORRELLBROWN",
-    "SORRELL BROWN"
+    "SORRELLBROWN"
   ],
   "#a3876a": [
     "SANDAL"
@@ -9331,8 +8433,7 @@
     "MUESLI"
   ],
   "#a9844f": [
-    "MUDDYWATERS",
-    "MUDDY WATERS"
+    "MUDDYWATERS"
   ],
   "#ab8953": [
     "TEAK"
@@ -9357,8 +8458,7 @@
     "TWINE"
   ],
   "#c07c40": [
-    "BRANDYPUNCH",
-    "BRANDY PUNCH"
+    "BRANDYPUNCH"
   ],
   "#bb7431": [
     "METEOR"
@@ -9370,8 +8470,7 @@
     "PEACHSCHNAPPS"
   ],
   "#d08363": [
-    "BURNINGSAND",
-    "BURNING SAND"
+    "BURNINGSAND"
   ],
   "#ce7259": [
     "JAPONICA"
@@ -9380,19 +8479,16 @@
     "GERALDINE"
   ],
   "#dd8374": [
-    "NEWYORKPINK",
-    "NEW YORK PINK"
+    "NEWYORKPINK"
   ],
   "#ff9889": [
-    "MONALISA",
-    "MONA LISA"
+    "MONALISA"
   ],
   "#f38653": [
     "CRUSTA"
   ],
   "#cb6f4a": [
-    "REDDAMASK",
-    "RED DAMASK"
+    "REDDAMASK"
   ],
   "#dd6b38": [
     "SORBUS"
@@ -9413,8 +8509,7 @@
     "FROLY"
   ],
   "#e36f8a": [
-    "DEEPBLUSH",
-    "DEEP BLUSH"
+    "DEEPBLUSH"
   ],
   "#cd6d93": [
     "HOPBUSH"
@@ -9429,19 +8524,16 @@
     "KOBI"
   ],
   "#e68095": [
-    "CARISSMA",
-    "CARISSIMA"
+    "CARISSMA"
   ],
   "#f1919a": [
     "WEWAK"
   ],
   "#ee918d": [
-    "SWEETPINK",
-    "SWEET PINK"
+    "SWEETPINK"
   ],
   "#db817e": [
-    "SEAPINK",
-    "SEA PINK"
+    "SEAPINK"
   ],
   "#d0748b": [
     "CHARM"
@@ -9456,8 +8548,7 @@
     "TAPESTRY"
   ],
   "#d08a9b": [
-    "CANCAN",
-    "CAN CAN"
+    "CANCAN"
   ],
   "#a78199": [
     "BOUQUET"
@@ -9470,12 +8561,10 @@
     "WISTERIA"
   ],
   "#ae94ab": [
-    "LONDONHUE",
-    "LONDON HUE"
+    "LONDONHUE"
   ],
   "#95879c": [
-    "AMETHYSTSMOKE",
-    "AMETHYST SMOKE"
+    "AMETHYSTSMOKE"
   ],
   "#9d9cb4": [
     "LOGAN"
@@ -9484,15 +8573,13 @@
     "OPIUM"
   ],
   "#9a8678": [
-    "ALMONDFROST",
-    "ALMOND FROST"
+    "ALMONDFROST"
   ],
   "#987d73": [
     "HEMP"
   ],
   "#b6857a": [
-    "BRANDYROSE",
-    "BRANDY ROSE"
+    "BRANDYROSE"
   ],
   "#af937d": [
     "SANDRIFT"
@@ -9501,8 +8588,7 @@
     "THATCH"
   ],
   "#b5998e": [
-    "DELRIO",
-    "DEL RIO"
+    "DELRIO"
   ],
   "#c3988b": [
     "QUICKSAND",
@@ -9519,12 +8605,10 @@
     "CASHMERE"
   ],
   "#d2b3a9": [
-    "CLAMSHELL",
-    "CLAM SHELL"
+    "CLAMSHELL"
   ],
   "#cab5b2": [
-    "COLDTURKEY",
-    "COLD TURKEY"
+    "COLDTURKEY"
   ],
   "#c8b1c0": [
     "MAVERICK"
@@ -9540,16 +8624,13 @@
     "LILY"
   ],
   "#c99aa0": [
-    "CAREYSPINK",
-    "CAREYS PINK"
+    "CAREYSPINK"
   ],
   "#da9790": [
-    "PETITEORCHID",
-    "PETITE ORCHID"
+    "PETITEORCHID"
   ],
   "#d68b80": [
-    "MYPINK",
-    "MY PINK"
+    "MYPINK"
   ],
   "#ffaba0": [
     "CORNFLOWER"
@@ -9559,23 +8640,20 @@
     "SNOW WHITE BLUSH"
   ],
   "#ffc5bb": [
-    "YOURPINK",
-    "YOUR PINK"
+    "YOURPINK"
   ],
   "#f9c0c4": [
     "AZALEA",
     "AZALEA PINK"
   ],
   "#dfb1b6": [
-    "BLOSSOM",
-    "SAKURA"
+    "BLOSSOM"
   ],
   "#f5b2c5": [
     "CUPID"
   ],
   "#deb7d9": [
-    "FRENCHLILAC",
-    "FRENCH LILAC"
+    "FRENCHLILAC"
   ],
   "#f4c8db": [
     "CLASSICROSE",
@@ -9592,22 +8670,19 @@
     "TWILIGHT LIGHT"
   ],
   "#f6ccd7": [
-    "PINKLACE",
-    "PINK LACE"
+    "PINKLACE"
   ],
   "#e2cdd5": [
     "PRIM"
   ],
   "#d4b5b0": [
-    "OYSTERPINK",
-    "OYSTER PINK"
+    "OYSTERPINK"
   ],
   "#d4bbb1": [
     "WAFER"
   ],
   "#dcbfac": [
-    "JUSTRIGHT",
-    "JUST RIGHT"
+    "JUSTRIGHT"
   ],
   "#dbc2ab": [
     "BONE",
@@ -9617,20 +8692,16 @@
     "SHILO"
   ],
   "#d8b4b6": [
-    "PINKFLARE",
-    "PINK FLARE"
+    "PINKFLARE"
   ],
   "#e0b8b1": [
-    "CAVERNPINK",
-    "CAVERN PINK"
+    "CAVERNPINK"
   ],
   "#ebb9b3": [
-    "BEAUTYBUSH",
-    "BEAUTY BUSH"
+    "BEAUTYBUSH"
   ],
   "#f5d0c9": [
-    "CORALCANDY",
-    "CORAL CANDY"
+    "CORALCANDY"
   ],
   "#f2cdbb": [
     "WATUSI"
@@ -9654,8 +8725,7 @@
     "REMY"
   ],
   "#f6e3da": [
-    "PROVINCIALPINK",
-    "PROVINCIAL PINK"
+    "PROVINCIALPINK"
   ],
   "#fcdbd2": [
     "PIPPIN"
@@ -9667,12 +8737,10 @@
     "KARRY"
   ],
   "#f9d3be": [
-    "TUFTBUSH",
-    "TUFT BUSH"
+    "TUFTBUSH"
   ],
   "#fdd7d8": [
-    "WEPEEP",
-    "WE PEEP"
+    "WEPEEP"
   ],
   "#fcd5cf": [
     "COSMOS"
@@ -9691,12 +8759,10 @@
     "AMOUR FRAIS"
   ],
   "#f8dbe0": [
-    "CAROUSELPINK",
-    "CAROUSEL PINK"
+    "CAROUSELPINK"
   ],
   "#efd6da": [
-    "PALEROSE",
-    "PALE ROSE"
+    "PALEROSE"
   ],
   "#e4d7e5": [
     "SNUFF"
@@ -9720,8 +8786,7 @@
     "ELFIN HERB"
   ],
   "#ae99d2": [
-    "BILOBAFLOWER",
-    "BILOBA FLOWER"
+    "BILOBAFLOWER"
   ],
   "#c2a9db": [
     "PERFUME"
@@ -9739,19 +8804,16 @@
     "PORTAGE"
   ],
   "#9d8abf": [
-    "COLDPURPLE",
-    "COLD PURPLE"
+    "COLDPURPLE"
   ],
   "#aa8cbc": [
-    "EASTSIDE",
-    "EAST SIDE"
+    "EASTSIDE"
   ],
   "#9f90d0": [
     "LAVENDER"
   ],
   "#9470c4": [
-    "LILACBUSH",
-    "LILAC BUSH"
+    "LILACBUSH"
   ],
   "#7b5cb7": [
     "FUCHSIA"
@@ -9760,16 +8822,13 @@
     "STUDIO"
   ],
   "#5b3e90": [
-    "DAISYBUSH",
-    "DAISY BUSH"
+    "DAISYBUSH"
   ],
   "#b54b73": [
-    "ROYALHEATH",
-    "ROYAL HEATH"
+    "ROYALHEATH"
   ],
   "#8a2d52": [
-    "ROSEBUDCHERRY",
-    "ROSEBUD CHERRY"
+    "ROSEBUDCHERRY"
   ],
   "#892d4f": [
     "DISCO"
@@ -9786,8 +8845,7 @@
     "CRANBERRY"
   ],
   "#a23d54": [
-    "NIGHTSHADZ",
-    "NIGHT SHADZ"
+    "NIGHTSHADZ"
   ],
   "#b33654": [
     "HIBISCUS"
@@ -9800,16 +8858,13 @@
     "EXAGGERATED BLUSH"
   ],
   "#ab495c": [
-    "HIPPIEPINK",
-    "HIPPIE PINK"
+    "HIPPIEPINK"
   ],
   "#8a3335": [
-    "OLDBRICK",
-    "OLD BRICK"
+    "OLDBRICK"
   ],
   "#853534": [
-    "TALLPOPPY",
-    "TALL POPPY"
+    "TALLPOPPY"
   ],
   "#8f3e3f": [
     "ROSEWOOD"
@@ -9822,8 +8877,7 @@
     "CAMELOT"
   ],
   "#955264": [
-    "VINROUGE",
-    "VIN ROUGE"
+    "VINROUGE"
   ],
   "#984961": [
     "CADILLAC"
@@ -9839,8 +8893,7 @@
     "RED ENDIVE"
   ],
   "#8e5164": [
-    "CANNONPINK",
-    "CANNON PINK"
+    "CANNONPINK"
   ],
   "#744042": [
     "TOSCA"
@@ -9849,15 +8902,13 @@
     "SOLIDPINK"
   ],
   "#7d4138": [
-    "REDROBIN",
-    "RED ROBIN"
+    "REDROBIN"
   ],
   "#7e4a3b": [
     "NUTMEG"
   ],
   "#8f4e45": [
-    "ELSALVA",
-    "EL SALVA"
+    "ELSALVA"
   ],
   "#8e4d45": [
     "MATRIX"
@@ -9866,24 +8917,19 @@
     "LOTUS"
   ],
   "#95524c": [
-    "COPPERRUST",
-    "COPPER RUST"
+    "COPPERRUST"
   ],
   "#a56e75": [
-    "TURKISHROSE",
-    "TURKISH ROSE"
+    "TURKISHROSE"
   ],
   "#ab6e67": [
-    "CORALTREE",
-    "CORAL TREE"
+    "CORALTREE"
   ],
   "#9e6759": [
-    "AUCHICO",
-    "AU CHICO"
+    "AUCHICO"
   ],
   "#8b5f4d": [
-    "SPICYMIX",
-    "SPICY MIX"
+    "SPICYMIX"
   ],
   "#906a54": [
     "LEATHER"
@@ -9905,23 +8951,19 @@
     "BAZAAR"
   ],
   "#7d6757": [
-    "ROMANCOFFEE",
-    "ROMAN COFFEE"
+    "ROMANCOFFEE"
   ],
   "#6d5843": [
-    "TOBACCOBROWN",
-    "TOBACCO BROWN"
+    "TOBACCOBROWN"
   ],
   "#73553e": [
     "PICKLEDBEAN"
   ],
   "#73503b": [
-    "OLDCOPPER",
-    "OLD COPPER"
+    "OLDCOPPER"
   ],
   "#674834": [
-    "JAMBALAYA",
-    "BUCKEYE"
+    "JAMBALAYA"
   ],
   "#6c4f3f": [
     "SPICE"
@@ -9930,8 +8972,7 @@
     "QUINCY"
   ],
   "#654d49": [
-    "CONGOBROWN",
-    "CONGO BROWN"
+    "CONGOBROWN"
   ],
   "#6e5150": [
     "BUCCANEER"
@@ -9943,8 +8984,7 @@
     "FALCON"
   ],
   "#524d5b": [
-    "MULLEDWINE",
-    "MULLED WINE"
+    "MULLEDWINE"
   ],
   "#625665": [
     "FEDORA"
@@ -9962,50 +9002,41 @@
     "SPICYPINK"
   ],
   "#8b7d82": [
-    "VENUS",
-    "GANYMEDE"
+    "VENUS"
   ],
   "#8272a4": [
     "DELUGE",
     "OLD PRUNE"
   ],
   "#666fb4": [
-    "CHETWODEBLUE",
-    "CHETWODE BLUE"
+    "CHETWODEBLUE"
   ],
   "#6f63a0": [
     "SCAMPI"
   ],
   "#8378c7": [
-    "MOODYBLUE",
-    "MOODY BLUE"
+    "MOODYBLUE"
   ],
   "#8e72c7": [
-    "TRUEV",
-    "TRUE V"
+    "TRUEV"
   ],
   "#6a5bb1": [
-    "BLUEMARGUERITE",
-    "BLUE MARGUERITE"
+    "BLUEMARGUERITE"
   ],
   "#9271a7": [
-    "CESOIR",
-    "CE SOIR"
+    "CESOIR"
   ],
   "#805d80": [
-    "TRENDYPINK",
-    "TRENDY PINK"
+    "TRENDYPINK"
   ],
   "#745085": [
     "AFFAIR"
   ],
   "#68578c": [
-    "BUTTERFLYBUSH",
-    "BUTTERFLY BUSH"
+    "BUTTERFLYBUSH"
   ],
   "#51559b": [
-    "GOVERNORBAY",
-    "GOVERNOR BAY"
+    "GOVERNORBAY"
   ],
   "#564786": [
     "GIGAS"
@@ -10017,12 +9048,10 @@
     "MARINER"
   ],
   "#374e88": [
-    "TORYBLUE",
-    "TORY BLUE"
+    "TORYBLUE"
   ],
   "#335083": [
-    "FUNBLUE",
-    "FUN BLUE"
+    "FUNBLUE"
   ],
   "#3f5281": [
     "SAPPHIRE"
@@ -10031,39 +9060,33 @@
     "KIMBERLY"
   ],
   "#353e64": [
-    "BAYOFMANY",
-    "BAY OF MANY"
+    "BAYOFMANY"
   ],
   "#3d325d": [
     "JACARTA",
     "JAKARTA SKYLINE"
   ],
   "#3b436c": [
-    "PORTGORE",
-    "PORT GORE"
+    "PORTGORE"
   ],
   "#343467": [
-    "DEEPKOAMARU",
-    "DEEP KOAMARU"
+    "DEEPKOAMARU"
   ],
   "#353d75": [
-    "TOREABAY",
-    "TOREA BAY"
+    "TOREABAY"
   ],
   "#323f75": [
     "RESOLUTIONBLUE",
     "FORBIDDEN BLACKBERRY"
   ],
   "#3d3f7d": [
-    "JACKSONSPURPLE",
-    "JACKSONS PURPLE"
+    "JACKSONSPURPLE"
   ],
   "#3e3267": [
     "MINSK"
   ],
   "#4b3c8e": [
-    "BLUEGEM",
-    "BLUE GEM"
+    "BLUEGEM"
   ],
   "#392d73": [
     "BLUEBELL"
@@ -10072,8 +9095,7 @@
     "BLUEDIAMOND"
   ],
   "#5c3c6d": [
-    "HONEYFLOWER",
-    "HONEY FLOWER"
+    "HONEYFLOWER"
   ],
   "#4a3b6a": [
     "METEORITE"
@@ -10083,8 +9105,7 @@
     "PURPLE SHADE"
   ],
   "#4a2d57": [
-    "SCARLETGUM",
-    "SCARLET GUM"
+    "SCARLETGUM"
   ],
   "#2e183b": [
     "BLACKCURRANT"
@@ -10096,24 +9117,20 @@
     "CHRISTALLE"
   ],
   "#312760": [
-    "PARISM",
-    "PARIS M"
+    "PARISM"
   ],
   "#2e2249": [
-    "VIOLENTVIOLET",
-    "ELDERBERRY"
+    "VIOLENTVIOLET"
   ],
   "#2a2551": [
-    "PAUA",
-    "P\u0100UA"
+    "PAUA"
   ],
   "#372d52": [
     "CHERRYPIE",
     "MIDNIGHT PIE"
   ],
   "#292d4f": [
-    "LUCKYPOINT",
-    "LUCKY POINT"
+    "LUCKYPOINT"
   ],
   "#2a2b41": [
     "VALHALLA"
@@ -10122,8 +9139,7 @@
     "JAGGER"
   ],
   "#2d2541": [
-    "TOLOPEA",
-    "TELOPEA"
+    "TOLOPEA"
   ],
   "#372528": [
     "AUBERGINE"
@@ -10145,8 +9161,7 @@
     "BAROSSA"
   ],
   "#3b2b2c": [
-    "HAVANA",
-    "JARRAH"
+    "HAVANA"
   ],
   "#342931": [
     "MELANZANE"
@@ -10171,8 +9186,7 @@
     "LOULOU"
   ],
   "#4c3d4e": [
-    "BOSSANOVA",
-    "BOSSA NOVA"
+    "BOSSANOVA"
   ],
   "#554545": [
     "WOODYBROWN",
@@ -10188,16 +9202,13 @@
     "COWBOY"
   ],
   "#4d3e3c": [
-    "CRATERBROWN",
-    "CRATER BROWN"
+    "CRATERBROWN"
   ],
   "#4f3835": [
-    "COCOABEAN",
-    "COCOA BEAN"
+    "COCOABEAN"
   ],
   "#523936": [
-    "VANCLEEF",
-    "VAN CLEEF"
+    "VANCLEEF"
   ],
   "#4a3531": [
     "BEAN"
@@ -10206,8 +9217,7 @@
     "MAHOGANY"
   ],
   "#4a2e32": [
-    "CABSAV",
-    "CAB SAV"
+    "CABSAV"
   ],
   "#4e312d": [
     "ESPRESSO"
@@ -10216,8 +9226,7 @@
     "CHERRYWOOD"
   ],
   "#594537": [
-    "BROWNDERBY",
-    "BROWN DERBY"
+    "BROWNDERBY"
   ],
   "#5d3b2e": [
     "CIOCCOLATO"
@@ -10233,12 +9242,10 @@
     "DARK WOOD GRAIN"
   ],
   "#442d21": [
-    "MOROCCOBROWN",
-    "MOROCCO BROWN"
+    "MOROCCOBROWN"
   ],
   "#3c241b": [
-    "BROWNPOD",
-    "BROWN POD"
+    "BROWNPOD"
   ],
   "#3e2f2e": [
     "TAMARIND"
@@ -10247,8 +9254,7 @@
     "MAROON"
   ],
   "#3a181a": [
-    "RUSTICRED",
-    "RUSTIC RED"
+    "RUSTICRED"
   ],
   "#482427": [
     "BULGARIANROSE",
@@ -10271,15 +9277,13 @@
     "VINO TINTO"
   ],
   "#582124": [
-    "BURNTCRIMSON",
-    "BURNT CRIMSON"
+    "BURNTCRIMSON"
   ],
   "#5b1f22": [
     "VENETIANRED"
   ],
   "#5d1f1e": [
-    "REDOXIDE",
-    "RED OXIDE"
+    "REDOXIDE"
   ],
   "#652525": [
     "BURGUNDY"
@@ -10295,38 +9299,32 @@
     "JAPANESEMAPLE"
   ],
   "#582f2b": [
-    "MOCCACCINO",
-    "BRATWURST"
+    "MOCCACCINO"
   ],
   "#633528": [
-    "HAIRYHEATH",
-    "HAIRY HEATH"
+    "HAIRYHEATH"
   ],
   "#6b342a": [
     "MERANTI"
   ],
   "#6c3736": [
-    "SANGUINEBROWN",
-    "SANGUINE BROWN"
+    "SANGUINEBROWN"
   ],
   "#66362d": [
     "OILEDCEDAR"
   ],
   "#6e3d34": [
-    "METALLICCOPPER",
-    "METALLIC COPPER"
+    "METALLICCOPPER"
   ],
   "#763c33": [
-    "CROWNOFTHORNS",
-    "CROWN OF THORNS"
+    "CROWNOFTHORNS"
   ],
   "#6f372d": [
     "MOCHA",
     "STRONG MOCHA"
   ],
   "#6c322e": [
-    "KENYANCOPPER",
-    "KENYAN COPPER"
+    "KENYANCOPPER"
   ],
   "#683332": [
     "PERSIANPLUM",
@@ -10346,16 +9344,14 @@
     "MULBERRY"
   ],
   "#532934": [
-    "BLACKROSE",
-    "BLACK ROSE"
+    "BLACKROSE"
   ],
   "#522c35": [
     "WINEBERRY",
     "JAPANESE WINEBERRY"
   ],
   "#643a48": [
-    "TAWNYPORT",
-    "TAWNY PORT"
+    "TAWNYPORT"
   ],
   "#44232f": [
     "CASTRO"
@@ -10367,8 +9363,7 @@
     "FLIRT"
   ],
   "#6a1f44": [
-    "NIGHTCLUB",
-    "POMPADOUR"
+    "NIGHTCLUB"
   ],
   "#69293b": [
     "SIREN"
@@ -10398,16 +9393,13 @@
     "SCARLET SHADE"
   ],
   "#701f28": [
-    "REDBERRY",
-    "RED BERRY"
+    "REDBERRY"
   ],
   "#651c26": [
     "POHUTUKAWA"
   ],
   "#6b252c": [
-    "HOTCHILE",
-    "MONARCH",
-    "WESTERNRED"
+    "HOTCHILE"
   ],
   "#8a244e": [
     "CARDINAL"
@@ -10422,8 +9414,7 @@
     "CLAIRVOYANT"
   ],
   "#583580": [
-    "KINGFISHERDAISY",
-    "KINGFISHER DAISY"
+    "KINGFISHERDAISY"
   ],
   "#462c77": [
     "WINDSOR"
@@ -10570,8 +9561,7 @@
     "0507-G40Y"
   ],
   "#fffee4": [
-    "0507-G80Y",
-    "BUTTERMILK"
+    "0507-G80Y"
   ],
   "#ffd2d5": [
     "0507-R"
@@ -12465,8 +11455,7 @@
     "1502-B"
   ],
   "#dde4e3": [
-    "1502-B50G",
-    "DEWDROP"
+    "1502-B50G"
   ],
   "#dae4de": [
     "1502-G",
@@ -12782,8 +11771,7 @@
     "2005-G60Y"
   ],
   "#d6d6c6": [
-    "2005-G70Y",
-    "2005-G80Y"
+    "2005-G70Y"
   ],
   "#d6d5c6": [
     "2005-G90Y"
@@ -13753,8 +12741,7 @@
     "3010-G80Y"
   ],
   "#bcb9a0": [
-    "3010-G90Y",
-    "34583"
+    "3010-G90Y"
   ],
   "#bc8f92": [
     "3010-R"
@@ -15650,8 +14637,7 @@
     "6010-B30G"
   ],
   "#5c6b6b": [
-    "6010-B50G",
-    "SPACEBOX"
+    "6010-B50G"
   ],
   "#5b6b69": [
     "6010-B70G"
@@ -16240,8 +15226,7 @@
     "8502-Y"
   ],
   "#252828": [
-    "8505-B20G",
-    "8505-B80G"
+    "8505-B20G"
   ],
   "#262825": [
     "8505-G20Y"
@@ -16351,8 +15336,7 @@
     "DEEP_YELLOWISH_PINK"
   ],
   "#f4c2c2": [
-    "LIGHT_YELLOWISH_PINK",
-    "COR-DE-PELE"
+    "LIGHT_YELLOWISH_PINK"
   ],
   "#d9a6a9": [
     "MODERATE_YELLOWISH_PINK"
@@ -16370,8 +15354,7 @@
     "BROWNISH_PINK"
   ],
   "#e25822": [
-    "VIVID_REDDISH_ORANGE",
-    "FLAME"
+    "VIVID_REDDISH_ORANGE"
   ],
   "#d9603b": [
     "STRONG_REDDISH_ORANGE",
@@ -16392,8 +15375,7 @@
     "GRAYISH_REDDISH_ORANGE"
   ],
   "#882d17": [
-    "STRONG_REDDISH_BROWN",
-    "KOBE"
+    "STRONG_REDDISH_BROWN"
   ],
   "#56070c": [
     "DEEP_REDDISH_BROWN"
@@ -16402,8 +15384,7 @@
     "LIGHT_REDDISH_BROWN"
   ],
   "#79443b": [
-    "MODERATE_REDDISH_BROWN",
-    "BOLE"
+    "MODERATE_REDDISH_BROWN"
   ],
   "#3e1d1e": [
     "DARK_REDDISH_BROWN"
@@ -16443,8 +15424,7 @@
     "BROWNISH_ORANGE"
   ],
   "#80461b": [
-    "STRONG_BROWN",
-    "RUSSET"
+    "STRONG_BROWN"
   ],
   "#593319": [
     "DEEP_BROWN"
@@ -16454,8 +15434,7 @@
     "TUSCAN SOIL"
   ],
   "#6f4e37": [
-    "MODERATE_BROWN",
-    "COFFEE"
+    "MODERATE_BROWN"
   ],
   "#422518": [
     "DARK_BROWN"
@@ -16502,12 +15481,10 @@
     "DARK_ORANGE_YELLOW"
   ],
   "#fad6a5": [
-    "PALE_ORANGE_YELLOW",
-    "PROSECCO"
+    "PALE_ORANGE_YELLOW"
   ],
   "#996515": [
-    "STRONG_YELLOWISH_BROWN",
-    "COBRE"
+    "STRONG_YELLOWISH_BROWN"
   ],
   "#654522": [
     "DEEP_YELLOWISH_BROWN"
@@ -16549,8 +15526,7 @@
     "DEEP_YELLOW"
   ],
   "#f8de7e": [
-    "LIGHT_YELLOW",
-    "CLUB-MATE"
+    "LIGHT_YELLOW"
   ],
   "#c9ae5d": [
     "MODERATE_YELLOW"
@@ -16559,19 +15535,16 @@
     "DARK_YELLOW"
   ],
   "#f3e5ab": [
-    "PALE_YELLOW",
-    "VANILLA"
+    "PALE_YELLOW"
   ],
   "#c2b280": [
-    "GRAYISH_YELLOW",
-    "ECRU"
+    "GRAYISH_YELLOW"
   ],
   "#a18f60": [
     "DARK_GRAYISH_YELLOW"
   ],
   "#f0ead6": [
-    "YELLOWISH_WHITE",
-    "EGGSHELL"
+    "YELLOWISH_WHITE"
   ],
   "#bfb8a5": [
     "YELLOWISH_GRAY"
@@ -16666,8 +15639,7 @@
     "PALE_YELLOW_GREEN"
   ],
   "#8f9779": [
-    "GRAYISH_YELLOW_GREEN",
-    "ARTICHOKE"
+    "GRAYISH_YELLOW_GREEN"
   ],
   "#404f00": [
     "STRONG_OLIVE_GREEN"
@@ -16724,8 +15696,7 @@
     "VIVID_GREEN"
   ],
   "#3eb489": [
-    "BRILLIANT_GREEN",
-    "MINT"
+    "BRILLIANT_GREEN"
   ],
   "#007959": [
     "STRONG_GREEN"
@@ -16939,8 +15910,7 @@
     "SEPHIROTH GREY"
   ],
   "#4c516d": [
-    "GRAYISH_PURPLISH_BLUE",
-    "INDEPENDENCE"
+    "GRAYISH_PURPLISH_BLUE"
   ],
   "#9065ca": [
     "VIVID_VIOLET"
@@ -16978,8 +15948,7 @@
     "GRAYISH_VIOLET"
   ],
   "#9a4eae": [
-    "VIVID_PURPLE",
-    "PURPUREUS"
+    "VIVID_PURPLE"
   ],
   "#d399e6": [
     "BRILLIANT_PURPLE"
@@ -16988,8 +15957,7 @@
     "STRONG_PURPLE"
   ],
   "#602f6b": [
-    "DEEP_PURPLE",
-    "IMPERIAL"
+    "DEEP_PURPLE"
   ],
   "#401a4c": [
     "VERY_DEEP_PURPLE"
@@ -17055,8 +16023,7 @@
     "STRONG_REDDISH_PURPLE"
   ],
   "#702963": [
-    "DEEP_REDDISH_PURPLE",
-    "BYZANTIUM"
+    "DEEP_REDDISH_PURPLE"
   ],
   "#54194e": [
     "VERY_DEEP_REDDISH_PURPLE"
@@ -17115,8 +16082,7 @@
     "RUBBER BAND"
   ],
   "#b3446c": [
-    "STRONG_PURPLISH_RED",
-    "IRRESISTIBLE"
+    "STRONG_PURPLISH_RED"
   ],
   "#78184a": [
     "DEEP_PURPLISH_RED",
@@ -17230,21 +16196,17 @@
   ],
   "#deded2": [
     "ASH GREY",
-    "OYSTER GREY",
-    "PORTLAND"
+    "OYSTER GREY"
   ],
   "#b5b8b3": [
     "GOOSE GREY",
-    "SEA MIST",
-    "GOOSEWING"
+    "SEA MIST"
   ],
   "#788585": [
-    "FLINT GREY",
-    "FLINT"
+    "FLINT GREY"
   ],
   "#385552": [
-    "STORM GREY",
-    "GREYFRIAR"
+    "STORM GREY"
   ],
   "#f7d0cf": [
     "LUPIN PINK",
@@ -17252,18 +16214,13 @@
     "PINK WAFER"
   ],
   "#a97681": [
-    "CLOVER PINK",
-    "CORINTH",
-    "FONTANA"
+    "CLOVER PINK"
   ],
   "#69474f": [
-    "VICTORIA PLUM",
-    "AUBERGINE",
-    "PLUM"
+    "VICTORIA PLUM"
   ],
   "#3f4042": [
-    "DEEP PLUM",
-    "LOGANBERRY"
+    "DEEP PLUM"
   ],
   "#fdeee6": [
     "ROSEPETAL",
@@ -17272,101 +16229,76 @@
   ],
   "#ead5ca": [
     "DUSTY PINK",
-    "TEA ROSE",
-    "TEAROSE"
+    "TEA ROSE"
   ],
   "#a5978c": [
-    "SABLE",
-    "SIERRA"
+    "SABLE"
   ],
   "#facabc": [
     "ORCHID PINK",
-    "PARISIAN PINK",
-    "SHELL"
+    "PARISIAN PINK"
   ],
   "#ac786b": [
-    "AUTUMN BROWN",
-    "ROSEVALE"
+    "AUTUMN BROWN"
   ],
   "#704a3f": [
-    "BRICK RED",
-    "COPPERBEECH"
+    "BRICK RED"
   ],
   "#b05b4b": [
-    "MISTY RED",
-    "TAWNY"
+    "MISTY RED"
   ],
   "#8b4131": [
-    "DARK CHERRY",
-    "RUSSET",
-    "MONARCH"
+    "DARK CHERRY"
   ],
   "#ffece0": [
     "ROSE PINK",
-    "PETAL",
     "PINK GLOW"
   ],
   "#f77d64": [
-    "SALMON RED",
-    "LOBSTER",
-    "AZALEA"
+    "SALMON RED"
   ],
   "#e1553e": [
     "POPPY",
     "CARNIVAL RED"
   ],
   "#f7d3aa": [
-    "PEACH",
-    "CAMEO"
+    "PEACH"
   ],
   "#9f7159": [
-    "LEATHER BROWN",
-    "BROWNSTONE"
+    "LEATHER BROWN"
   ],
   "#634739": [
-    "SADDLE BROWN",
-    "SADDLE"
+    "SADDLE BROWN"
   ],
   "#cd864a": [
-    "MID TAN",
-    "KALAHARI",
-    "CINNAMON"
+    "MID TAN"
   ],
   "#8f583d": [
-    "TEAK",
-    "MACE"
+    "TEAK"
   ],
   "#ffc882": [
-    "MELLOW APRICOT",
-    "APRICOT"
+    "MELLOW APRICOT"
   ],
   "#ff9b61": [
-    "MANDARIN ORANGE",
-    "CLEMENTINE",
-    "CALENDULA"
+    "MANDARIN ORANGE"
   ],
   "#bc6e3c": [
-    "MAORI BROWN",
-    "NECTARINE"
+    "MAORI BROWN"
   ],
   "#fff7e3": [
     "MAGNOLIA"
   ],
   "#e9dac3": [
-    "HONEY BEIGE",
-    "FAWN",
-    "SANDSTONE"
+    "HONEY BEIGE"
   ],
   "#a69c8e": [
     "ANTELOPE"
   ],
   "#6a645d": [
-    "BEAVER BROWN",
-    "BEAVER"
+    "BEAVER BROWN"
   ],
   "#3b3c3d": [
-    "BITTER CHOCOLATE",
-    "VANDYKE"
+    "BITTER CHOCOLATE"
   ],
   "#fff6d6": [
     "HONEYSUCKLE CREAM",
@@ -17376,17 +16308,13 @@
     "BEIGE"
   ],
   "#9d7c4d": [
-    "CARAMEL",
-    "BRACKEN"
+    "CARAMEL"
   ],
   "#624f3e": [
-    "COFFEE",
-    "BISON"
+    "COFFEE"
   ],
   "#f8bf2c": [
-    "GOLDEN YELLOW",
-    "AMBER",
-    "GOLDCUP"
+    "GOLDEN YELLOW"
   ],
   "#d8d6cd": [
     "DAWN GREY",
@@ -17395,267 +16323,192 @@
   ],
   "#9f9e99": [
     "NIMBUS GREY",
-    "WOOD ASH",
-    "WOODASH"
+    "WOOD ASH"
   ],
   "#606667": [
-    "CHARCOAL GREY",
-    "STORM",
-    "RHINO"
+    "CHARCOAL GREY"
   ],
   "#fffce4": [
     "CREAMY WHITE",
-    "IVORY",
-    "GARDENIA",
     "CUDDLY YARN"
   ],
   "#e0d6b4": [
-    "OATMEAL",
-    "GREYSTONE",
-    "HOPSACK"
+    "OATMEAL"
   ],
   "#a5a086": [
     "LIZARD GREY"
   ],
   "#6f6b58": [
-    "TURTLE GREEN",
-    "TURTLE"
+    "TURTLE GREEN"
   ],
   "#3a3830": [
-    "VANDYKE BROWN",
-    "IRONSTONE"
+    "VANDYKE BROWN"
   ],
   "#fff5d0": [
-    "IVORY",
-    "CHAMPAGNE",
-    "BUTTERMILK"
+    "IVORY"
   ],
   "#fae6a8": [
-    "VANILLA",
-    "POLLEN"
+    "VANILLA"
   ],
   "#ccb66f": [
     "WHEAT",
-    "GOLDEN BRONZE",
-    "SAVANNAH"
+    "GOLDEN BRONZE"
   ],
   "#594f31": [
-    "DARK OLIVE",
-    "SALUKI",
-    "SEAWEED",
-    "RIVERBED"
+    "DARK OLIVE"
   ],
   "#d0b842": [
-    "GOLDEN MAIZE",
-    "BANANA",
-    "CAPRICORN"
+    "GOLDEN MAIZE"
   ],
   "#988c38": [
-    "FRENCH MUSTARD",
-    "FLORIDA"
+    "FRENCH MUSTARD"
   ],
   "#fef6b3": [
     "PALE PRIMROSE",
-    "PALE LEMON",
-    "JONQUIL"
+    "PALE LEMON"
   ],
   "#ffeb75": [
-    "LIGHT GRAPEFRUIT",
-    "FORSYTHIA"
+    "LIGHT GRAPEFRUIT"
   ],
   "#f2e428": [
-    "SUNFLOWER YELLOW",
-    "CANARY",
-    "AZTEC"
+    "SUNFLOWER YELLOW"
   ],
   "#fcfae0": [
-    "SEA FOAM",
-    "SEAFOAM"
+    "SEA FOAM"
   ],
   "#dddcb7": [
-    "GREEN MIST",
-    "WILLOW"
+    "GREEN MIST"
   ],
   "#a3a789": [
-    "MINERAL GREEN",
-    "OPALINE",
-    "MOORLAND"
+    "MINERAL GREEN"
   ],
   "#696c5a": [
-    "SPRUCE GREEN",
-    "THYME",
-    "CHIVE"
+    "SPRUCE GREEN"
   ],
   "#3a3e33": [
-    "MIDNIGHT GREEN",
-    "JUNIPER"
+    "MIDNIGHT GREEN"
   ],
   "#dbdd9f": [
-    "GREEN HAZE",
-    "CATKIN"
+    "GREEN HAZE"
   ],
   "#49502d": [
-    "IVY GREEN",
-    "ORCHARD"
+    "IVY GREEN"
   ],
   "#8f9d38": [
-    "GREENGAGE",
-    "SAPLING",
-    "SPRINGLEAF"
+    "GREENGAGE"
   ],
   "#626e19": [
-    "DARK LAUREL",
-    "TUNDRA",
-    "SHERWOOD"
+    "DARK LAUREL"
   ],
   "#d2dd49": [
-    "PALE LIME",
-    "CITRINE"
+    "PALE LIME"
   ],
   "#a3bd42": [
-    "LINDEN GREEN",
-    "LINDEN"
+    "LINDEN GREEN"
   ],
   "#f1fbe9": [
-    "GLACIAL GREEN",
-    "ALPINE"
+    "GLACIAL GREEN"
   ],
   "#acbfab": [
-    "ICEPLANT GREEN",
-    "BRAEMAR"
+    "ICEPLANT GREEN"
   ],
   "#3e5041": [
-    "HOLLY GREEN",
-    "HOLLYBUSH"
+    "HOLLY GREEN"
   ],
   "#32382b": [
-    "MOSS GREEN",
-    "CONIFER"
+    "MOSS GREEN"
   ],
   "#74b979": [
-    "BRIGHT GREEN",
-    "GOBLIN",
-    "GARLAND"
+    "BRIGHT GREEN"
   ],
   "#448d60": [
-    "IRISH GREEN",
-    "AVARICE",
-    "VERONA"
+    "IRISH GREEN"
   ],
   "#c5ddd6": [
     "DUCKEGG",
     "DUCK EGG BLUE"
   ],
   "#648887": [
-    "REEF GREEN",
-    "ORION"
+    "REEF GREEN"
   ],
   "#264f52": [
-    "DARK JADE",
-    "SCARAB"
+    "DARK JADE"
   ],
   "#4b8e90": [
-    "AQUAMARINE",
-    "SEAFARER",
-    "LIDO"
+    "AQUAMARINE"
   ],
   "#d6dfdc": [
     "BLUE MINK",
-    "SILVER HAZE",
-    "HERON"
+    "SILVER HAZE"
   ],
   "#9ca4a5": [
-    "SQUIRREL GREY",
-    "TIDEWAY"
+    "SQUIRREL GREY"
   ],
   "#6a6f73": [
-    "DARK ADMIRALTY GREY",
-    "MERLIN"
+    "DARK ADMIRALTY GREY"
   ],
   "#333335": [
     "RAVEN"
   ],
   "#fdfff8": [
-    "ICE BLUE",
-    "SPINDRIFT"
+    "ICE BLUE"
   ],
   "#a2b7be": [
-    "CORVETTE BLUE",
-    "PIGEON"
+    "CORVETTE BLUE"
   ],
   "#3b5264": [
     "FATHOM BLUE",
-    "DEEP RIVER",
-    "DOLPHIN"
+    "DEEP RIVER"
   ],
   "#5c869d": [
     "DRESDEN BLUE"
   ],
   "#e5f9f4": [
     "CRYSTAL BLUE",
-    "ASTRAL BLUE",
-    "PINEFROST"
+    "ASTRAL BLUE"
   ],
   "#bde1e9": [
-    "RIBBON BLUE",
-    "CIRRUS"
+    "RIBBON BLUE"
   ],
   "#65a2c3": [
-    "DELPHINIUM BLUE",
-    "MERMAID",
-    "LARKSPUR"
+    "DELPHINIUM BLUE"
   ],
   "#2569a1": [
     "TARTAN BLUE",
-    "COBALT BLUE",
-    "REGATTA"
+    "COBALT BLUE"
   ],
   "#ccdcec": [
-    "PORCELAIN BLUE",
-    "POMPADOUR"
+    "PORCELAIN BLUE"
   ],
   "#7489a6": [
-    "LARKSPUR BLUE",
-    "VIKING"
+    "LARKSPUR BLUE"
   ],
   "#29374b": [
-    "DUCHESS BLUE",
-    "MIDNIGHT"
+    "DUCHESS BLUE"
   ],
   "#3b5780": [
-    "SAPPHIRE BLUE",
-    "MARITIME",
-    "TRAFALGAR"
+    "SAPPHIRE BLUE"
   ],
   "#72a2d9": [
-    "CORNFLOWER BLUE",
-    "CORFU",
-    "CORNFLOWER"
+    "CORNFLOWER BLUE"
   ],
   "#f8f6ee": [
-    "PEARL GREY",
-    "SWANSDOWN"
+    "PEARL GREY"
   ],
   "#dbd9da": [
-    "PALE LAVENDER",
-    "HAZE",
-    "DOVE"
+    "PALE LAVENDER"
   ],
   "#847e9f": [
-    "PURPLE HEATHER",
-    "HEATHER"
+    "PURPLE HEATHER"
   ],
   "#524f81": [
-    "DEEP PURPLE",
-    "PAGEANT"
+    "DEEP PURPLE"
   ],
   "#e5d1db": [
-    "PALE LILAC",
-    "MALLOW"
+    "PALE LILAC"
   ],
   "#684a6b": [
-    "REGAL VIOLET",
-    "REGALIA"
+    "REGAL VIOLET"
   ],
   "#2b3770": [
     "B11 RICH BLUE"
@@ -17875,8 +16728,7 @@
     "N32 GREEN GREY"
   ],
   "#acadad": [
-    "N33 LIGHTBOX GREY",
-    "FLAGSTONE"
+    "N33 LIGHTBOX GREY"
   ],
   "#a6a7a1": [
     "N35 LIGHT GREY"
@@ -18487,8 +17339,7 @@
     "PURPLE VIOLET"
   ],
   "#904684": [
-    "SIGNAL VIOLET",
-    "SIGNAL-VIOLET"
+    "SIGNAL VIOLET"
   ],
   "#A38995": [
     "PASTEL VIOLET"
@@ -18518,8 +17369,7 @@
     "BLACK BLUE"
   ],
   "#154889": [
-    "SIGNAL BLUE",
-    "SIGNAL-BLUE"
+    "SIGNAL BLUE"
   ],
   "#41678D": [
     "BRILLIANT BLUE"
@@ -18724,7 +17574,6 @@
   ],
   "#555548": [
     "BROWN-GREY ALSO NATO-OLIVE",
-    "STONE-GREY-OLIVE",
     "NATO OLIVE"
   ],
   "#51565C": [
@@ -18873,7 +17722,6 @@
   ],
   "#282828": [
     "SIGNAL BLACK",
-    "SIGNAL-BLACK",
     "DIRE WOLF"
   ],
   "#0A0A0A": [
@@ -18916,8 +17764,7 @@
     "SIGNAL-GREEN"
   ],
   "#9b9b9b": [
-    "SIGNAL-GREY",
-    "HYDRARGYRUM"
+    "SIGNAL-GREY"
   ],
   "#7b5141": [
     "SIGNAL-BROWN"
@@ -18999,8 +17846,7 @@
     "10324"
   ],
   "#c78d59": [
-    "10371 BUFF",
-    "TT-E-489"
+    "10371 BUFF"
   ],
   "#a6001a": [
     "11086 DOT HIGHWAY RED"
@@ -19241,8 +18087,7 @@
     "14533"
   ],
   "#d1d2bf": [
-    "14672 ARMY ADMIN VEHICLES",
-    "SPOOKY"
+    "14672 ARMY ADMIN VEHICLES"
   ],
   "#002d30": [
     "15042 SEA BLUE",
@@ -19306,8 +18151,7 @@
     "15177 CLEAR BLUE"
   ],
   "#0065b1": [
-    "15180 BLUE",
-    "85285"
+    "15180 BLUE"
   ],
   "#0073ad": [
     "15182 COAST GUARD BLUE"
@@ -19353,8 +18197,7 @@
     "16307 MACHINERY GRAY"
   ],
   "#929396": [
-    "16314",
-    "36314"
+    "16314"
   ],
   "#908472": [
     "16350"
@@ -19372,12 +18215,10 @@
     "16405 PARCHMENT"
   ],
   "#b5afaf": [
-    "16440 LIGHT GRAY 85285",
-    "81352"
+    "16440 LIGHT GRAY 85285"
   ],
   "#a2a7ad": [
     "16473 AIRCRAFT GRAY",
-    "NASA",
     "ANA 512"
   ],
   "#adbab5": [
@@ -19394,8 +18235,7 @@
   ],
   "#0b0b0d": [
     "17038 OSHA BLACK",
-    "ANA 515",
-    "622"
+    "ANA 515"
   ],
   "#8e763e": [
     "17043"
@@ -19537,8 +18377,7 @@
     "20460 MUSHROOM"
   ],
   "#cdb090": [
-    "20475 SAUDI COLOR #11",
-    "(SANG)"
+    "20475 SAUDI COLOR #11"
   ],
   "#b20013": [
     "21105"
@@ -19589,8 +18428,7 @@
     "22276"
   ],
   "#db7868": [
-    "22356",
-    "32356"
+    "22356"
   ],
   "#ff6600": [
     "22510",
@@ -19822,8 +18660,7 @@
     "24525"
   ],
   "#acb693": [
-    "24533 SEAFOAM GREEN",
-    "NAVY"
+    "24533 SEAFOAM GREEN"
   ],
   "#cdc486": [
     "24552"
@@ -19958,8 +18795,7 @@
     "26152"
   ],
   "#757684": [
-    "26173 OCEAN GRAY",
-    "NAVSEA"
+    "26173 OCEAN GRAY"
   ],
   "#6b7283": [
     "26176 OCEAN GRAY"
@@ -20339,16 +19175,13 @@
     "33613"
   ],
   "#e1c7b7": [
-    "33617 SAND",
-    "TT-P-47"
+    "33617 SAND"
   ],
   "#edb750": [
     "33637"
   ],
   "#ffbf00": [
-    "33655",
-    "38907",
-    "AMBER"
+    "33655"
   ],
   "#e8d8a6": [
     "33685"
@@ -20685,8 +19518,7 @@
     "36170 CAMOUFLAGE GRAY"
   ],
   "#747683": [
-    "36173 OCEAN GRAY",
-    "NAVSEA"
+    "36173 OCEAN GRAY"
   ],
   "#6b7282": [
     "36176 OCEAN GRAY"
@@ -20740,8 +19572,7 @@
   ],
   "#b0aaad": [
     "36440 LIGHT GRAY 81352",
-    "ANA 602",
-    "620"
+    "ANA 602"
   ],
   "#aaa8af": [
     "36463"
@@ -20821,8 +19652,7 @@
     "37778"
   ],
   "#f5e4c8": [
-    "37855 EGGSHELL",
-    "IVORY"
+    "37855 EGGSHELL"
   ],
   "#f1eaee": [
     "37875 INTERNATIONAL WHITE",
@@ -21020,48 +19850,40 @@
     "BRICK RED"
   ],
   "#C9A0DC": [
-    "FLOWER SHOP (WISTERIA)",
-    "WISTERIA"
+    "FLOWER SHOP (WISTERIA)"
   ],
   "#76D7EA": [
     "FRESH AIR (SKY BLUE)",
     "SKY BLUE"
   ],
   "#FF8833": [
-    "GRANDMA'S PERFUME (ORANGE)",
-    "ORANGE"
+    "GRANDMA'S PERFUME (ORANGE)"
   ],
   "#29AB87": [
     "KOALA TREE (JUNGLE GREEN)",
     "JUNGLE GREEN"
   ],
   "#AF593E": [
-    "PET SHOP (BROWN)",
-    "BROWN"
+    "PET SHOP (BROWN)"
   ],
   "#01786F": [
     "PINE TREE (PINE GREEN)",
     "PINE GREEN"
   ],
   "#FFCBA4": [
-    "SAW DUST (PEACH)",
-    "PEACH"
+    "SAW DUST (PEACH)"
   ],
   "#FCD667": [
-    "SHARPENING PENCILS (GOLDENROD)",
-    "GOLDENROD"
+    "SHARPENING PENCILS (GOLDENROD)"
   ],
   "#ED0A3F": [
-    "SMELL THE ROSES (RED)",
-    "RED"
+    "SMELL THE ROSES (RED)"
   ],
   "#FBE870": [
-    "SUNNY DAY (YELLOW)",
-    "YELLOW"
+    "SUNNY DAY (YELLOW)"
   ],
   "#FED85D": [
-    "WASH THE DOG (DANDELION)",
-    "DANDELION"
+    "WASH THE DOG (DANDELION)"
   ],
   "#64609A": [
     "AMETHYST"
@@ -21408,8 +20230,7 @@
     "ROBIN'S EGG BLUE"
   ],
   "#008080": [
-    "TEAL BLUE",
-    "TEAL"
+    "TEAL BLUE"
   ],
   "#8FD8D8": [
     "LIGHT BLUE"

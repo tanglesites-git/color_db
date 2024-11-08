@@ -1,5 +1,9 @@
 import re
 import json
+import sqlite3
+
+conn = sqlite3.connect('colors.db', autocommit=True)
+cursor = conn.cursor()
 
 color_list = []
 color_index = {}
@@ -80,7 +84,13 @@ def create_indexed_json():
                 if value in color_index[hex]:
                     continue
                 else:
-                    color_index[hex].append(value)
+                    if ' ' in value:
+                        v1 = value
+                        v1 = value.replace(' ', '')
+                        if v1 in color_index[hex]:
+                            continue
+                        else:
+                            color_index[hex].append(value)
 
 
 def main():
