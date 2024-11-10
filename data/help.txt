@@ -1,0 +1,41 @@
+10.9. Converting Predefined Color Spaces to Lab or Oklab
+For all predefined RGB color spaces, conversion to Lab requires several steps, although in practice all but the first step are linear calculations and can be combined.
+
+Convert from gamma-encoded RGB to linear-light RGB (undo gamma encoding)
+Convert from linear RGB to CIE XYZ
+If needed, convert from a D65 whitepoint (used by sRGB, display-p3, a98-rgb and rec2020) to the D50 whitepoint used in Lab, with the linear Bradford transform. prophoto-rgb already has a D50 whitepoint.
+Convert D50-adapted XYZ to Lab
+Conversion to Oklab is similar, but the chromatic adaptation step is only needed for prophoto-rgb.
+
+Convert from gamma-encoded RGB to linear-light RGB (undo gamma encoding)
+Convert from linear RGB to CIE XYZ
+If needed, convert from a D50 whitepoint (used by prophoto-rgb) to the D65 whitepoint used in Oklab, with the linear Bradford transform.
+Convert D65-adapted XYZ to Oklab
+There is sample JavaScript code for these conversions in § 17 Sample code for Color Conversions.
+
+10.10. Converting Lab or Oklab to Predefined RGB Color Spaces
+Conversion from Lab to predefined spaces like display-p3 or rec2020 also requires multiple steps, and again in practice all but the last step are linear calculations and can be combined.
+
+Convert Lab to (D50-adapted) XYZ
+If needed, convert from a D50 whitepoint (used by Lab) to the D65 whitepoint used in sRGB and most other RGB spaces, with the linear Bradford transform. prophoto-rgb' does not require this step.
+Convert from (D65-adapted) CIE XYZ to linear RGB
+Convert from linear-light RGB to RGB (do gamma encoding)
+Conversion from Oklab is similar, but the chromatic adaptation step is only needed for prophoto-rgb.
+
+Convert Oklab to (D65-adapted) XYZ
+If needed, convert from a D65 whitepoint (used by Oklab) to the D50 whitepoint used in prophoto-rgb, with the linear Bradford transform.
+Convert from (D65-adapted) CIE XYZ to linear RGB
+Convert from linear-light RGB to RGB (do gamma encoding)
+There is sample JavaScript code for these conversions in § 17 Sample code for Color Conversions.
+
+Implementations may choose to implement these steps in some other way (for example, using an ICC profile with relative colorimetric rendering intent) provided the results are the same for colors inside both the source and destination gamuts.
+
+10.11. Converting Between Predefined RGB Color Spaces
+Conversion from one predefined RGB color space to another requires multiple steps, one of which is only needed when the whitepoints differ. To convert from src to dest:
+
+Convert from gamma-encoded srcRGB to linear-light srcRGB (undo gamma encoding)
+Convert from linear srcRGB to CIE XYZ
+If src and dest have different whitepoints, convert the XYZ value from srcWhite to destWhite with the linear Bradford transform.
+Convert from CIE XYZ to linear destRGB
+Convert from linear-light destRGB to destRGB (do gamma encoding)
+There is sample JavaScript code for this conversion for the predefined RGB color spaces, in § 17 Sample code for Color Conversions.
